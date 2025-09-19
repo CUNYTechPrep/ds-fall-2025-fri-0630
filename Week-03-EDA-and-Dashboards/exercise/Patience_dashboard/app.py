@@ -102,7 +102,26 @@ with col2:
 
 # Heatmap
 st.markdown("### 🔥 Cross-Demographic Heatmap")
-pivot = filtered_df.pivot_table(index='age', columns='gender', values='rating', aggfunc='mean')
-fig, ax = plt.subplots(figsize=(10, 6))
-sns.heatmap(pivot, annot=True, cmap='coolwarm')
-st.pyplot(fig)
+
+col1, col2 = st.columns([3, 1])
+
+with col1:
+    st.subheader("Average Rating by Age and Gender")
+    pivot = filtered_df.pivot_table(index='age', columns='gender', values='rating', aggfunc='mean')
+    pivot = pivot.sort_index().fillna(0)  # Sort age and fill missing values
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+    sns.heatmap(pivot, annot=True, cmap='coolwarm', fmt=".2f", linewidths=0.5, cbar_kws={'label': 'Avg Rating'})
+    ax.set_title("Heatmap: Ratings by Age and Gender")
+    ax.set_xlabel("Gender")
+    ax.set_ylabel("Age")
+    st.pyplot(fig)
+
+with col2:
+    st.markdown("#### 🧠 Insight")
+    st.markdown("""
+    - Younger viewers tend to rate differently by gender.
+    - Look for age bands with strong divergence.
+    - Use this to tailor genre recommendations by age/gender.
+    """)
+
