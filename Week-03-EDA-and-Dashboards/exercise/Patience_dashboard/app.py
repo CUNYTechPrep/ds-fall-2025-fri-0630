@@ -85,16 +85,20 @@ with col2:
 # Gender Ratings + Movie Age
 st.markdown("### 🧠 Viewer Behavior")
 col1, col2 = st.columns(2)
+
 with col1:
     st.subheader("Gender Differences")
     gender_ratings = filtered_df.groupby('gender')['rating'].mean()
     st.bar_chart(gender_ratings)
+
 with col2:
     st.subheader("Rating vs Movie Age")
     filtered_df['movie_age'] = filtered_df['rating_year'] - filtered_df['year']
     age_bins = pd.cut(filtered_df['movie_age'], bins=10)
     age_rating = filtered_df.groupby(age_bins)['rating'].mean()
+    age_rating.index = age_rating.index.astype(str)  # ✅ Convert intervals to strings
     st.bar_chart(age_rating)
+
 
 # Heatmap
 st.markdown("### 🔥 Cross-Demographic Heatmap")
