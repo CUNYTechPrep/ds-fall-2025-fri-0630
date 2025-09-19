@@ -98,3 +98,4 @@ st.altair_chart(alt_chart, use_container_width=True)
 # Export filtered data
 with st.expander("📤 Export Filtered Data"):
     st.download_button("Download CSV", filtered_df.to_csv(index=False), "filtered_salary_data.csv", "text/csv")
+    
