@@ -1,3 +1,5 @@
+import pandas as pd
+
 def clean_salary():
     df = pd.read_csv("/workspaces/ds-fall-2025-fri-0630/Week-02-Pandas-Part-2-and-DS-Overview/exercise/Dashboard-example/salary_cleaned.csv")
     df.columns = [
