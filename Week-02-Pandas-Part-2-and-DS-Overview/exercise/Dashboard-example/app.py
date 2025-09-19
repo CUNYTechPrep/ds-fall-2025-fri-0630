@@ -11,7 +11,7 @@ st.title("💼 Salary Insights Dashboard")
 # Load and clean data
 @st.cache_data
 def load_data():
-    return clean_salary('/workspaces/ds-fall-2025-fri-0630/Week-03-EDA-and-Dashboards/data/movie_ratings.csv')
+    return clean_salary('/workspaces/ds-fall-2025-fri-0630/Week-02-Pandas-Part-2-and-DS-Overview/exercise/Dashboard-example/salary_cleaned.csv')
    
 df = load_data()
 
