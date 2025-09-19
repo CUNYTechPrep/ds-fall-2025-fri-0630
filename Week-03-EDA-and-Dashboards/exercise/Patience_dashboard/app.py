@@ -2,17 +2,16 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import altair as alt
+from data_cleaning import clean_movie_ratings
 
 st.set_page_config(page_title="🎬 MovieLens Dashboard", layout="wide")
 st.title("🎬 MovieLens Ratings Dashboard")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv('/workspaces/ds-fall-2025-fri-0630/Week-03-EDA-and-Dashboards/data/movie_ratings.csv')
-    df.columns = df.columns.str.replace(' ', '_').str.lower()
-    df['genres'] = df['genres'].str.split('|')
-    df = df.explode('genres')
-    return df
+    return clean_movie_ratings('/workspaces/ds-fall-2025-fri-0630/Week-03-EDA-and-Dashboards/data/movie_ratings.csv')
+    
 
 df = load_data()
 
@@ -99,29 +98,42 @@ with col2:
     age_rating.index = age_rating.index.astype(str)  # ✅ Convert intervals to strings
     st.bar_chart(age_rating)
 
-
 # Heatmap
 st.markdown("### 🔥 Cross-Demographic Heatmap")
 
-col1, col2 = st.columns([3, 1])
+# 🔄 Toggle between heatmap views
+heatmap_view = st.radio("Choose heatmap view:", ["Static", "Interactive"], horizontal=True)
 
-with col1:
-    st.subheader("Average Rating by Age and Gender")
-    pivot = filtered_df.pivot_table(index='age', columns='gender', values='rating', aggfunc='mean')
-    pivot = pivot.sort_index().fillna(0)  # Sort age and fill missing values
+# 📊 Create pivot table
+pivot = df.pivot_table(index='age_group', columns='gender', values='rating', aggfunc='mean')
+pivot = pivot.sort_index().fillna(0)
 
-    fig, ax = plt.subplots(figsize=(10, 6))
-    sns.heatmap(pivot, annot=True, cmap='coolwarm', fmt=".2f", linewidths=0.5, cbar_kws={'label': 'Avg Rating'})
-    ax.set_title("Heatmap: Ratings by Age and Gender")
+# 🔥 Render heatmap
+if heatmap_view == "Static":
+    st.subheader("🔥 Static Heatmap")
+    fig, ax = plt.subplots(figsize=(6, 4))
+    sns.heatmap(pivot, annot=True, cmap='YlGnBu', fmt=".2f", linewidths=0.5, cbar_kws={'label': 'Avg Rating'})
+    ax.set_title("Average Rating by Age Group and Gender")
     ax.set_xlabel("Gender")
-    ax.set_ylabel("Age")
+    ax.set_ylabel("Age Group")
     st.pyplot(fig)
 
-with col2:
-    st.markdown("#### 🧠 Insight")
-    st.markdown("""
-    - Younger viewers tend to rate differently by gender.
-    - Look for age bands with strong divergence.
-    - Use this to tailor genre recommendations by age/gender.
-    """)
+else:
+    st.subheader("🔥 Interactive Heatmap")
+    heatmap_df = pivot.reset_index().melt(id_vars='age_group', var_name='gender', value_name='avg_rating')
+    chart = alt.Chart(heatmap_df).mark_rect().encode(
+        x=alt.X('gender:N', title='Gender'),
+        y=alt.Y('age_group:N', title='Age Group'),
+        color=alt.Color('avg_rating:Q', scale=alt.Scale(scheme='yellowgreenblue'), title='Avg Rating'),
+        tooltip=['age_group', 'gender', 'avg_rating']
+    ).properties(title="Average Rating by Age Group and Gender")
 
+    st.altair_chart(chart, use_container_width=True)
+
+# 🧠 Insight Panel
+with st.expander("🧠 Insights"):
+    st.markdown(f"""
+    - Highest average ratings: **{pivot.max().idxmax()} in {pivot.idxmax().max()}**
+    - Lowest ratings: **{pivot.min().idxmin()} in {pivot.idxmin().min()}**
+    - Gender divergence most visible in: **{pivot.apply(lambda row: abs(row['M'] - row['F']), axis=1).idxmax()}**
+    """)
