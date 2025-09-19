@@ -10,7 +10,7 @@ st.title("💼 Salary Insights Dashboard")
 # Load and clean data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("salary_cleaned.csv")
+    df = pd.read_csv("/workspaces/ds-fall-2025-fri-0630/Week-02-Pandas-Part-2-and-DS-Overview/exercise/Dashboard-example/salary_cleaned.csv")
     df.columns = [
         "timestamp", "age", "industry", "title", "title_context", "salary",
         "additional_compensation", "currency", "other_currency", "salary_context",
