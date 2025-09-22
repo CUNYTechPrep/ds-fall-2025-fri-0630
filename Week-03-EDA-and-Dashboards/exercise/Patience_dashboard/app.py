@@ -10,7 +10,7 @@ st.title("🎬 MovieLens Ratings Dashboard")
 
 @st.cache_data
 def load_data():
-    return clean_movie_ratings('/workspaces/ds-fall-2025-fri-0630/Week-03-EDA-and-Dashboards/data/movie_ratings.csv')
+    return clean_movie_ratings('Week-03-EDA-and-Dashboards/data/movie_ratings.csv')
     
 
 df = load_data()
