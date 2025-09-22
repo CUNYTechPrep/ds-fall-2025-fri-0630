@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # --- Page Config ---
-st.set_page_config(page_title="🎬 MovieLens Dashboard", layout="wide")
+st.set_page_config(page_title="🎬 MovieLens Dashboard")
 
 # --- Load & Clean Data ---
 @st.cache_data
