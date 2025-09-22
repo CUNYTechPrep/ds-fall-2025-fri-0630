@@ -16,6 +16,26 @@ def load_data():
 
 df = load_data()
 
+# --- Sidebar Filters ---
+st.sidebar.header("🔍 Filter Options")
+all_genres = sorted(df['genres'].unique())
+selected_genres = st.sidebar.multiselect("Select Genres", all_genres, default=all_genres[:5])
+
+year_min, year_max = int(df['year'].min()), int(df['year'].max())
+selected_years = st.sidebar.slider("Select Release Year Range", year_min, year_max, (1990, 2000))
+
+age_min, age_max = int(df['age'].min()), int(df['age'].max())
+selected_ages = st.sidebar.slider("Select Viewer Age Range", age_min, age_max, (18, 60))
+
+# --- Apply Filters ---
+filtered_df = df[
+    (df['genres'].isin(selected_genres)) &
+    (df['year'] >= selected_years[0]) &
+    (df['year'] <= selected_years[1]) &
+    (df['age'] >= selected_ages[0]) &
+    (df['age'] <= selected_ages[1])
+]
+
 # --- Title ---
 st.title("🎥 MovieLens Ratings Dashboard")
 st.markdown("Explore viewer ratings, genre trends, and age-based insights from the MovieLens dataset.")
@@ -23,23 +43,20 @@ st.markdown("Explore viewer ratings, genre trends, and age-based insights from t
 # --- Q1: Genre Breakdown ---
 with st.container():
     st.subheader("📊 1. Breakdown of Genres for Rated Movies")
-    genre_counts = df['genres'].value_counts().reset_index()
+    genre_counts = filtered_df['genres'].value_counts().reset_index()
     genre_counts.columns = ['Genre', 'Rating Count']
-    col1, col2 = st.columns([2, 1])
-    with col1:
-        fig1, ax1 = plt.subplots()
-        sns.barplot(data=genre_counts, y="Genre", x="Rating Count", palette="viridis", ax=ax1)
-        ax1.set_xlabel("Number of Ratings")
-        ax1.set_ylabel("Genre")
-        st.pyplot(fig1)
-    with col2:
-        st.markdown("**Insight:** Comedy, Drama, and Action dominate viewer attention, reflecting mainstream popularity.")
+    fig1, ax1 = plt.subplots()
+    sns.barplot(data=genre_counts, y="Genre", x="Rating Count", palette="viridis", ax=ax1)
+    ax1.set_xlabel("Number of Ratings")
+    ax1.set_ylabel("Genre")
+    st.pyplot(fig1)
+    st.markdown("**Insight:** Comedy, Drama, and Action dominate viewer attention, reflecting mainstream popularity.")
 
 # --- Q2: Highest Viewer Satisfaction by Genre ---
 with st.container():
     st.subheader("🌟 2. Genres with Highest Viewer Satisfaction")
     fig2, ax2 = plt.subplots()
-    sns.violinplot(data=df, x="genres", y="rating", palette="Set2", ax=ax2)
+    sns.violinplot(data=filtered_df, x="genres", y="rating", palette="Set2", ax=ax2)
     ax2.set_ylabel("Viewer Rating (1–5)")
     ax2.set_xlabel("Genre")
     ax2.set_xticklabels(ax2.get_xticklabels(), rotation=45, ha='right')
@@ -49,7 +66,7 @@ with st.container():
 # --- Q3: Mean Rating Across Release Years ---
 with st.container():
     st.subheader("📈 3. Mean Rating Across Movie Release Years")
-    yearly_avg = df.groupby("year")["rating"].mean().reset_index()
+    yearly_avg = filtered_df.groupby("year")["rating"].mean().reset_index()
     fig3, ax3 = plt.subplots()
     sns.lineplot(data=yearly_avg, x="year", y="rating", ax=ax3)
     ax3.set_ylabel("Mean Rating")
@@ -60,7 +77,7 @@ with st.container():
 # --- Q4: Top 5 Best-Rated Movies (≥50 and ≥150 Ratings) ---
 with st.container():
     st.subheader("🏆 4. Top 5 Best-Rated Movies")
-    movie_stats = df.groupby("title").agg({"rating": ["mean", "count"]})
+    movie_stats = filtered_df.groupby("title").agg({"rating": ["mean", "count"]})
     movie_stats.columns = ["mean_rating", "rating_count"]
     top_50 = movie_stats[movie_stats["rating_count"] >= 50].sort_values("mean_rating", ascending=False).head(5)
     top_150 = movie_stats[movie_stats["rating_count"] >= 150].sort_values("mean_rating", ascending=False).head(5)
@@ -76,8 +93,7 @@ with st.container():
 # --- Q5: Rating vs Age for Selected Genres ---
 with st.container():
     st.subheader("👥 5. Rating vs Age for Selected Genres")
-    selected_genres = ["Drama", "Comedy", "Action", "Romance"]
-    g = sns.FacetGrid(df[df['genres'].isin(selected_genres)], col="genres", col_wrap=2, height=4)
+    g = sns.FacetGrid(filtered_df[filtered_df['genres'].isin(selected_genres)], col="genres", col_wrap=2, height=4)
     g.map(sns.lineplot, "age", "rating")
     st.pyplot(g.fig)
     st.markdown("**Insight:** Older viewers tend to rate Drama and Romance higher, while younger viewers lean toward Comedy and Action.")
@@ -85,7 +101,7 @@ with st.container():
 # --- Q6: Ratings Volume vs Mean Rating per Genre ---
 with st.container():
     st.subheader("📉 6. Ratings Volume vs Mean Rating per Genre")
-    genre_stats = df.groupby("genres").agg({"rating": ["mean", "count"]})
+    genre_stats = filtered_df.groupby("genres").agg({"rating": ["mean", "count"]})
     genre_stats.columns = ["mean_rating", "rating_count"]
     fig6, ax6 = plt.subplots()
     sns.scatterplot(data=genre_stats, x="rating_count", y="mean_rating", ax=ax6)
