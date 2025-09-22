@@ -48,7 +48,7 @@ with st.container():
     st.subheader("📊 Summary Statistics")
     col1, col2 = st.columns(2)
     col1.metric("Average Calories", f"{filtered_df['calories_day'].mean():,.0f}")
-    col2.metric("Calories per kg", f"{filtered_df['calories_per_kg'].mean():.1f}")
+    col2.metric("Calories per kg", f"{filtered_df['calories_per_kg'].mean():.3f}")
     st.markdown("**Insight:** These metrics give a quick snapshot of overall intake and body mass. Normalized calories help compare across body types.")
 
 # --- Scatter Plot: Calories vs Weight ---
