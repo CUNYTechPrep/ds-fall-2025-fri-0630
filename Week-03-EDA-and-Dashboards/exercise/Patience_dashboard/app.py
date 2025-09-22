@@ -5,7 +5,7 @@ import seaborn as sns
 import altair as alt
 from data_cleaning import clean_movie_ratings
 
-st.set_page_config(page_title="🎬 MovieLens Dashboard", layout="wide")
+st.set_page_config(page_title="🎬 MovieLens Dashboard")
 st.title("🎬 MovieLens Ratings Dashboard")
 
 @st.cache_data
