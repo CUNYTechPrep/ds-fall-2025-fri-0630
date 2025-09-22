@@ -81,13 +81,12 @@ with st.container():
     movie_stats.columns = ["mean_rating", "rating_count"]
     top_50 = movie_stats[movie_stats["rating_count"] >= 50].sort_values("mean_rating", ascending=False).head(5)
     top_150 = movie_stats[movie_stats["rating_count"] >= 150].sort_values("mean_rating", ascending=False).head(5)
-    col1, col2 = st.columns(2)
-    with col1:
-        st.markdown("**Movies with ≥50 Ratings**")
-        st.dataframe(top_50.style.highlight_max("mean_rating", color="lightgreen"))
-    with col2:
-        st.markdown("**Movies with ≥150 Ratings**")
-        st.dataframe(top_150.style.highlight_max("mean_rating", color="lightblue"))
+    st.markdown("**Movies with ≥50 Ratings**")
+    st.dataframe(top_50.style.highlight_max("mean_rating", color="lightgreen"))
+    
+    st.markdown("**Movies with ≥150 Ratings**")
+    st.dataframe(top_150.style.highlight_max("mean_rating", color="lightblue"))
+    
     st.markdown("**Insight:** Filtering by rating count avoids flukes and highlights consistently loved films.")
 
 # --- Q5: Rating vs Age for Selected Genres ---
