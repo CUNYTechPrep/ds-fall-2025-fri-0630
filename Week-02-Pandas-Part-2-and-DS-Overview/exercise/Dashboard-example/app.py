@@ -12,7 +12,7 @@ def load_data():
     df = pd.read_csv("Week-02-Pandas-Part-2-and-DS-Overview/data/food_cleaned.csv")
     df['calories_day'] = pd.to_numeric(df['calories_day'], errors='coerce')
     df['weight'] = pd.to_numeric(df['weight'], errors='coerce')
-    df['Gender'] = df['Gender'].map({1: "Female", 2: "Male"})
+    df['Gender'] = df['Gender'].map({1: "Male", 2: "Female"})
     df = df.dropna(subset=['calories_day', 'weight', 'Gender'])
     df['calories_per_kg'] = df['calories_day'] / df['weight']
     return df
@@ -48,7 +48,7 @@ with st.container():
     st.subheader("📊 Summary Statistics")
     col1, col2 = st.columns(2)
     col1.metric("Average Calories", f"{filtered_df['calories_day'].mean():,.0f}")
-    col2.metric("Calories per kg", f"{filtered_df['calories_per_kg'].mean():.3f}")
+    col2.metric("Calories per kg", f"{filtered_df['calories_per_kg'].mean():.2f}")
     st.markdown("**Insight:** These metrics give a quick snapshot of overall intake and body mass. Normalized calories help compare across body types.")
 
 # --- Scatter Plot: Calories vs Weight ---
