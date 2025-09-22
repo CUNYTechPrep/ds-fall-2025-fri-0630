@@ -89,13 +89,30 @@ with st.container():
     
     st.markdown("**Insight:** Filtering by rating count avoids flukes and highlights consistently loved films.")
 
-# --- Q5: Rating vs Age for Selected Genres ---
+# --- Q5: Rating vs Age for Selected Genres with Chart Toggle ---
 with st.container():
     st.subheader("👥 5. Rating vs Age for Selected Genres")
-    g = sns.FacetGrid(filtered_df[filtered_df['genres'].isin(selected_genres)], col="genres", col_wrap=2, height=4)
-    g.map(sns.lineplot, "age", "rating")
-    st.pyplot(g.fig)
-    st.markdown("**Insight:** Older viewers tend to rate Drama and Romance higher, while younger viewers lean toward Comedy and Action.")
+
+    chart_type = st.sidebar.radio("Choose Chart Type for Genre-Age Analysis", ["Line Plot", "Heatmap"])
+
+    genre_subset = filtered_df[filtered_df['genres'].isin(selected_genres)]
+
+    if chart_type == "Line Plot":
+        g = sns.FacetGrid(genre_subset, col="genres", col_wrap=2, height=4)
+        g.map(sns.lineplot, "age", "rating")
+        st.pyplot(g.fig)
+        st.markdown("**Insight:** Line plots show how ratings shift across continuous age — older viewers tend to rate Drama and Romance higher, while younger viewers lean toward Comedy and Action.")
+
+    elif chart_type == "Heatmap":
+        genre_subset['age_bin'] = pd.cut(genre_subset['age'], bins=[10, 20, 30, 40, 50, 60, 70], labels=["10s", "20s", "30s", "40s", "50s", "60s"])
+        pivot = genre_subset.pivot_table(index="genres", columns="age_bin", values="rating", aggfunc="mean")
+        fig, ax = plt.subplots(figsize=(8, 4))
+        sns.heatmap(pivot, annot=True, cmap="coolwarm", ax=ax)
+        ax.set_xlabel("Viewer Age Group")
+        ax.set_ylabel("Genre")
+        st.pyplot(fig)
+        st.markdown("**Insight:** Heatmaps reveal which genre-age combinations have the highest satisfaction — e.g., Romance in 40s, Comedy in 20s.")
+
 
 # --- Q6: Ratings Volume vs Mean Rating per Genre ---
 with st.container():
