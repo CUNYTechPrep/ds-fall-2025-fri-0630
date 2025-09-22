@@ -119,4 +119,4 @@ with st.container():
 
 # --- Footer ---
 st.markdown("---")
-st.caption("Built with ❤️ by Patience · Powered by Streamlit · Dataset: movie_ratings_EC.csv")
+st.caption("Built with ❤️ by Patience · Powered by Streamlit")
