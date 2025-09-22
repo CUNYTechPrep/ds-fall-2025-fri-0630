@@ -9,7 +9,7 @@ st.set_page_config(page_title="Food & Fitness Dashboard", layout="wide")
 # --- Load & Clean Data ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/food_cleaned.csv")
+    df = pd.read_csv("Week-02-Pandas-Part-2-and-DS-Overview/data/food_cleaned.csv")
     df['calories_day'] = pd.to_numeric(df['calories_day'], errors='coerce')
     df['weight'] = pd.to_numeric(df['weight'], errors='coerce')
     df['Gender'] = pd.to_numeric(df['Gender'], errors='coerce')
