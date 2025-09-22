@@ -74,7 +74,7 @@ with st.container():
 with st.container():
     st.subheader("🐝 Individual Calorie Points by Gender")
     fig3, ax3 = plt.subplots()
-    sns.swarmplot(data=filtered_df, x="Gender", y=x_col, size=4, ax=ax3)
+    sns.swarmplot(data=filtered_df, x="Gender", y=x_col, size=4, ax=ax3, color='purple')
     ax3.set_ylabel(x_label)
     st.pyplot(fig3)
     st.markdown("**Insight:** Swarm plots highlight individual variation. You can spot outliers and clusters by gender.")
