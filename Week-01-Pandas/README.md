@@ -17,21 +17,21 @@
 0. Finish Github Setup
 
 
-# Homework Due Thursday 09/04/2025 [~2.25 hrs to complete]
+# Homework Due Thursday 09/04/2025
 
 ## 1. Update Slack Profile with real photo and name.
 
-## 2. Pre-Class Videos [~30 mins]
-0. [Watch "Top 25 Pandas Tricks"](https://youtu.be/RlIiVeig3hc?si=uowsrNJEI-bBHHU2) [~30min]
+## 2. Pre-Class Videos
+0. [Watch "Top 25 Pandas Tricks"](https://youtu.be/RlIiVeig3hc?si=uowsrNJEI-bBHHU2)
 * Here are the [data files](https://github.com/justmarkham/pandas-videos/tree/master/data) for that video if you want to follow along.
-2. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro) [~30seconds]
+2. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro)
 
 ## 3. Slack Message
 Respond in-thread in the class slack channel with one question you have about pandas tricks from the pre-class videos/reading/or tutorial or you figured out on your own.  
 
 It can be as short as one sentence, or as long as a book. 
 
-## 4. Exercise.ipynb [~1hr] 
+## 4. Exercise.ipynb
 _STOP! Follow instructions [here](https://github.com/CUNYTechPrep/ds-dev-fall-2025?tab=readme-ov-file#setup-instructions-github-and-homeworks) what do to before you start the exercise.ipynb_
 
 0. Complete the code in the `exercise.ipynb` file
@@ -44,5 +44,3 @@ _STOP! Follow instructions [here](https://github.com/CUNYTechPrep/ds-dev-fall-20
 * [Learn pandas with Hernan Rojas](https://bitbucket.org/hrojas/learn-pandas/src/master/)
 * [Pandas Workshop](https://github.com/stefmolin/pandas-workshop/tree/main/notebooks)
 * [Pandas Cookbook](https://github.com/jvns/pandas-cookbook/tree/master/cookbook)
-
-

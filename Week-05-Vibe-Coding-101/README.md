@@ -28,13 +28,14 @@ _Submit them via the [HW Submssions Form](https://forms.gle/MFH173MZaQ5TquCB6)_
 
 ---
 
-# 4 Parts for the HW
+# 5 Parts for the HW
 
 
 0. Pre-Class Videos
 1. Vibe-Coding-Data-Cleaning-Exercise.ipynb
 2. LinkedIn Post
-3. Meet with your group to make progress on the project
+3. Submit your project idea in the HW Submssions Form
+4. Meet with your group to make progress on the project
 
 ## 0. Pre-Class Videos
 1. [Intro to Business Analytics](https://www.youtube.com/watch?v=diaZdX1s5L4)

@@ -1,0 +1,501 @@
+order_id,customer_id,customer_segment,region,order_date,product_category,quantity,unit_price,revenue,discount_applied,payment_method
+1,52,Student,North,2023-01-01,Clothing,1,42.43,42.43,0,Debit Card
+2,93,Student,West,2023-01-02,Sports,1,24.18,24.18,0,Gift Card
+3,15,Professional,East,2023-01-03,Sports,3,158.71,476.13,0,Debit Card
+4,72,Student,East,2023-01-04,Sports,1,60.42,60.42,0,Credit Card
+5,61,Student,West,2023-01-05,Books,3,43.78,131.34,0,Gift Card
+6,21,Student,East,2023-01-06,Home,4,141.41,565.64,5,Credit Card
+7,83,Student,East,2023-01-07,Books,2,127.43,254.86,0,Debit Card
+8,87,Senior,South,2023-01-08,Sports,1,130.31,130.31,20,Debit Card
+9,75,Professional,West,2023-01-09,Clothing,2,53.49,106.98,0,Credit Card
+10,75,Professional,North,2023-01-10,Electronics,2,54.2,108.4,0,PayPal
+11,88,Student,East,2023-01-11,Home,4,51.95,207.8,15,Gift Card
+12,100,Professional,West,2023-01-12,Home,2,43.01,86.02,5,Debit Card
+13,24,Professional,South,2023-01-13,Books,3,134.59,403.77,0,Debit Card
+14,3,Student,North,2023-01-14,Home,2,171.12,342.24,25,Gift Card
+15,22,Professional,West,2023-01-15,Sports,2,147.62,295.24,25,Credit Card
+16,53,Student,North,2023-01-16,Sports,2,160.5,321.0,0,Credit Card
+17,2,Professional,North,2023-01-17,Books,1,86.91,86.91,0,Credit Card
+18,88,Professional,North,2023-01-18,Sports,1,134.27,134.27,30,PayPal
+19,30,Student,East,2023-01-19,Clothing,3,77.3,231.89999999999998,10,PayPal
+20,38,Student,East,2023-01-20,Books,3,109.85,329.54999999999995,5,Debit Card
+21,2,Professional,South,2023-01-21,Clothing,1,101.51,101.51,20,Credit Card
+22,64,Professional,South,2023-01-22,Electronics,3,43.61,130.82999999999998,0,Gift Card
+23,60,Senior,West,2023-01-23,Clothing,1,83.54,83.54,0,Debit Card
+24,21,Professional,South,2023-01-24,Electronics,4,193.13,772.52,0,Gift Card
+25,33,Student,North,2023-01-25,Electronics,2,57.23,114.46,15,Debit Card
+26,76,Student,North,2023-01-26,Clothing,2,35.42,70.84,5,PayPal
+27,58,Professional,East,2023-01-27,Books,3,89.53,268.59000000000003,10,Debit Card
+28,22,Student,North,2023-01-28,Sports,1,160.16,160.16,0,PayPal
+29,89,Professional,West,2023-01-29,Sports,1,120.61,120.61,0,Debit Card
+30,49,Senior,North,2023-01-30,Electronics,3,139.39,418.16999999999996,0,Credit Card
+31,91,Professional,North,2023-01-31,Electronics,1,46.04,46.04,15,Gift Card
+32,59,Student,West,2023-02-01,Books,4,127.6,510.4,5,Credit Card
+33,42,Professional,South,2023-02-02,Home,2,71.47,142.94,0,Debit Card
+34,92,Professional,South,2023-02-03,Clothing,3,168.52,505.56000000000006,25,Debit Card
+35,60,Professional,West,2023-02-04,Electronics,3,129.57,388.71,0,Debit Card
+36,80,Senior,East,2023-02-05,Sports,1,47.78,47.78,30,PayPal
+37,15,Student,North,2023-02-06,Books,3,22.28,66.84,0,Gift Card
+38,62,Senior,West,2023-02-07,Clothing,4,18.1,72.4,10,Gift Card
+39,62,Senior,North,2023-02-08,Books,1,80.57,80.57,0,Debit Card
+40,47,Student,East,2023-02-09,Clothing,1,60.51,60.51,30,Debit Card
+41,62,Student,North,2023-02-10,Clothing,1,132.76,132.76,0,PayPal
+42,51,Student,West,2023-02-11,Electronics,1,104.87,104.87,0,Credit Card
+43,55,Student,North,2023-02-12,Books,4,60.54,242.16,0,Credit Card
+44,64,Student,South,2023-02-13,Books,1,38.36,38.36,0,Gift Card
+45,3,Professional,East,2023-02-14,Sports,3,34.17,102.51,0,PayPal
+46,51,Student,East,2023-02-15,Sports,4,174.29,697.16,30,Debit Card
+47,7,Student,East,2023-02-16,Electronics,2,56.26,112.52,0,Gift Card
+48,21,Senior,West,2023-02-17,Electronics,2,133.83,267.66,15,PayPal
+49,73,Student,East,2023-02-18,Home,3,164.03,492.09000000000003,10,Credit Card
+50,39,Senior,South,2023-02-19,Sports,3,126.68,380.04,10,PayPal
+51,18,Student,West,2023-02-20,Clothing,4,173.32,693.28,0,Credit Card
+52,4,Student,South,2023-02-21,Books,2,84.55,169.1,0,PayPal
+53,89,Professional,North,2023-02-22,Electronics,2,191.68,383.36,15,Gift Card
+54,60,Professional,North,2023-02-23,Books,2,35.3,70.6,30,Credit Card
+55,14,Senior,North,2023-02-24,Books,2,29.41,58.82,0,Gift Card
+56,9,Professional,North,2023-02-25,Home,2,135.15,270.3,0,Gift Card
+57,90,Senior,South,2023-02-26,Sports,1,189.14,189.14,0,Credit Card
+58,53,Student,West,2023-02-27,Electronics,3,163.69,491.07,30,Credit Card
+59,2,Student,West,2023-02-28,Books,1,24.52,24.52,0,Debit Card
+60,84,Professional,East,2023-03-01,Electronics,2,63.08,126.16,0,Debit Card
+61,92,Senior,South,2023-03-02,Clothing,4,186.76,747.04,25,Debit Card
+62,60,Senior,North,2023-03-03,Home,4,58.08,232.32,0,Gift Card
+63,71,Professional,South,2023-03-04,Clothing,2,158.42,316.84,0,Gift Card
+64,44,Student,East,2023-03-05,Electronics,2,166.78,333.56,10,Debit Card
+65,8,Professional,East,2023-03-06,Electronics,4,104.14,416.56,30,Gift Card
+66,47,Student,South,2023-03-07,Sports,1,83.41,83.41,0,Gift Card
+67,35,Senior,South,2023-03-08,Books,1,95.52,95.52,0,Credit Card
+68,78,Senior,South,2023-03-09,Books,2,53.12,106.24,0,Credit Card
+69,81,Professional,West,2023-03-10,Clothing,1,178.98,178.98,0,Gift Card
+70,36,Professional,North,2023-03-11,Home,4,95.62,382.48,10,Debit Card
+71,50,Professional,South,2023-03-12,Books,1,177.67,177.67,0,PayPal
+72,4,Student,South,2023-03-13,Sports,2,30.08,60.16,0,Debit Card
+73,2,Senior,South,2023-03-14,Clothing,4,197.77,791.08,0,PayPal
+74,6,Professional,East,2023-03-15,Clothing,1,94.22,94.22,5,Debit Card
+75,54,Senior,East,2023-03-16,Sports,3,19.09,57.269999999999996,5,Credit Card
+76,4,Student,West,2023-03-17,Home,4,17.22,68.88,25,Gift Card
+77,54,Senior,North,2023-03-18,Sports,4,151.78,607.12,0,Gift Card
+78,93,Student,West,2023-03-19,Home,3,135.22,405.65999999999997,20,Credit Card
+79,63,Student,North,2023-03-20,Sports,3,162.4,487.20000000000005,20,PayPal
+80,18,Senior,East,2023-03-21,Sports,4,30.02,120.08,0,PayPal
+81,90,Student,East,2023-03-22,Electronics,3,16.76,50.28,0,PayPal
+82,44,Student,East,2023-03-23,Clothing,2,106.63,213.26,0,Credit Card
+83,34,Senior,West,2023-03-24,Sports,2,83.64,167.28,0,PayPal
+84,74,Senior,South,2023-03-25,Sports,2,97.77,195.54,0,Credit Card
+85,62,Professional,South,2023-03-26,Books,4,198.4,793.6,0,Debit Card
+86,100,Professional,East,2023-03-27,Clothing,3,194.44,583.3199999999999,0,Debit Card
+87,14,Professional,South,2023-03-28,Books,3,189.04,567.12,20,Credit Card
+88,95,Student,South,2023-03-29,Clothing,1,158.93,158.93,0,Gift Card
+89,48,Student,West,2023-03-30,Books,1,77.42,77.42,20,Debit Card
+90,15,Professional,North,2023-03-31,Sports,3,88.3,264.9,5,PayPal
+91,72,Professional,East,2023-04-01,Sports,3,114.43,343.29,25,Credit Card
+92,78,Professional,East,2023-04-02,Electronics,3,167.8,503.40000000000003,5,PayPal
+93,87,Professional,West,2023-04-03,Books,4,23.06,92.24,0,PayPal
+94,62,Student,West,2023-04-04,Home,3,90.62,271.86,10,Gift Card
+95,40,Professional,South,2023-04-05,Electronics,1,25.7,25.7,0,PayPal
+96,85,Student,East,2023-04-06,Books,4,107.78,431.12,0,Gift Card
+97,80,Professional,North,2023-04-07,Books,3,180.79,542.37,30,Debit Card
+98,82,Professional,West,2023-04-08,Electronics,1,158.67,158.67,0,Credit Card
+99,53,Senior,North,2023-04-09,Sports,4,53.29,213.16,0,PayPal
+100,24,Student,North,2023-04-10,Books,3,195.44,586.3199999999999,15,Credit Card
+101,26,Student,East,2023-04-11,Sports,3,136.8,410.40000000000003,25,PayPal
+102,89,Student,East,2023-04-12,Electronics,3,11.98,35.94,10,Credit Card
+103,60,Professional,West,2023-04-13,Sports,4,58.53,234.12,0,PayPal
+104,41,Professional,East,2023-04-14,Clothing,1,59.54,59.54,10,PayPal
+105,29,Student,East,2023-04-15,Home,1,23.16,23.16,0,PayPal
+106,15,Student,East,2023-04-16,Books,2,192.37,384.74,15,PayPal
+107,45,Professional,North,2023-04-17,Home,3,100.87,302.61,30,PayPal
+108,65,Student,West,2023-04-18,Sports,2,180.2,360.4,15,PayPal
+109,89,Senior,South,2023-04-19,Books,2,71.22,142.44,25,PayPal
+110,71,Professional,North,2023-04-20,Sports,1,33.79,33.79,0,PayPal
+111,9,Student,East,2023-04-21,Clothing,4,100.12,400.48,15,PayPal
+112,88,Student,North,2023-04-22,Electronics,4,31.65,126.6,20,Credit Card
+113,1,Senior,East,2023-04-23,Books,1,102.34,102.34,0,Gift Card
+114,8,Student,East,2023-04-24,Clothing,4,184.86,739.44,25,PayPal
+115,88,Student,North,2023-04-25,Clothing,2,108.95,217.9,0,Gift Card
+116,63,Senior,West,2023-04-26,Books,3,127.13,381.39,10,PayPal
+117,11,Senior,East,2023-04-27,Sports,1,39.76,39.76,20,PayPal
+118,81,Senior,West,2023-04-28,Clothing,3,18.31,54.92999999999999,10,Credit Card
+119,8,Professional,South,2023-04-29,Home,4,31.05,124.2,0,Debit Card
+120,35,Student,East,2023-04-30,Clothing,3,123.72,371.15999999999997,5,Debit Card
+121,35,Student,West,2023-05-01,Sports,4,28.05,112.2,5,Credit Card
+122,33,Professional,West,2023-05-02,Sports,4,81.44,325.76,30,Gift Card
+123,5,Professional,South,2023-05-03,Home,2,114.52,229.04,0,Debit Card
+124,41,Professional,West,2023-05-04,Clothing,4,83.84,335.36,0,Credit Card
+125,28,Senior,West,2023-05-05,Sports,2,41.1,82.2,15,Credit Card
+126,7,Student,South,2023-05-06,Books,2,62.02,124.04,0,Debit Card
+127,73,Professional,East,2023-05-07,Electronics,2,186.38,372.76,10,Gift Card
+128,72,Student,West,2023-05-08,Electronics,1,138.44,138.44,10,Credit Card
+129,12,Professional,West,2023-05-09,Electronics,1,104.25,104.25,25,PayPal
+130,34,Student,West,2023-05-10,Clothing,4,12.42,49.68,5,Gift Card
+131,33,Student,North,2023-05-11,Home,2,198.56,397.12,5,Gift Card
+132,48,Student,South,2023-05-12,Sports,1,137.58,137.58,0,Debit Card
+133,23,Professional,North,2023-05-13,Books,2,70.22,140.44,0,Debit Card
+134,62,Professional,South,2023-05-14,Books,3,177.06,531.1800000000001,0,PayPal
+135,88,Professional,East,2023-05-15,Clothing,3,59.1,177.3,0,Credit Card
+136,37,Senior,East,2023-05-16,Electronics,3,113.36,340.08,10,Debit Card
+137,99,Student,West,2023-05-17,Clothing,4,130.85,523.4,15,Debit Card
+138,44,Student,South,2023-05-18,Home,2,52.0,104.0,5,Gift Card
+139,86,Senior,East,2023-05-19,Home,3,195.9,587.7,20,Debit Card
+140,91,Student,South,2023-05-20,Sports,1,152.16,152.16,30,Debit Card
+141,35,Senior,East,2023-05-21,Sports,3,115.98,347.94,20,Debit Card
+142,65,Student,North,2023-05-22,Home,3,44.31,132.93,10,Debit Card
+143,99,Senior,East,2023-05-23,Home,3,20.23,60.69,5,Gift Card
+144,47,Student,North,2023-05-24,Home,4,70.81,283.24,0,PayPal
+145,78,Senior,East,2023-05-25,Clothing,1,153.11,153.11,0,PayPal
+146,3,Professional,West,2023-05-26,Home,2,61.17,122.34,0,Credit Card
+147,1,Senior,North,2023-05-27,Books,1,112.52,112.52,30,Debit Card
+148,5,Student,East,2023-05-28,Electronics,2,148.31,296.62,20,Gift Card
+149,90,Professional,West,2023-05-29,Home,4,30.51,122.04,0,Credit Card
+150,14,Senior,North,2023-05-30,Electronics,4,140.21,560.84,0,Credit Card
+151,27,Professional,West,2023-05-31,Clothing,4,27.46,109.84,20,PayPal
+152,9,Professional,South,2023-06-01,Electronics,4,193.37,773.48,0,Gift Card
+153,79,Professional,South,2023-06-02,Clothing,2,102.79,205.58,0,Gift Card
+154,15,Professional,North,2023-06-03,Books,3,38.63,115.89000000000001,25,Gift Card
+155,90,Professional,East,2023-06-04,Clothing,2,75.05,150.1,0,PayPal
+156,42,Professional,North,2023-06-05,Clothing,1,88.55,88.55,0,PayPal
+157,77,Senior,West,2023-06-06,Sports,4,154.06,616.24,5,PayPal
+158,51,Student,East,2023-06-07,Home,4,151.25,605.0,25,PayPal
+159,63,Student,South,2023-06-08,Home,1,126.27,126.27,5,PayPal
+160,96,Senior,East,2023-06-09,Books,2,30.13,60.26,0,Debit Card
+161,52,Senior,South,2023-06-10,Books,3,38.8,116.39999999999999,0,Debit Card
+162,96,Professional,East,2023-06-11,Home,3,27.81,83.42999999999999,0,Gift Card
+163,4,Professional,East,2023-06-12,Sports,1,119.66,119.66,5,Credit Card
+164,94,Student,East,2023-06-13,Home,3,176.66,529.98,15,Gift Card
+165,23,Student,West,2023-06-14,Sports,2,92.42,184.84,0,Credit Card
+166,15,Professional,West,2023-06-15,Books,2,40.56,81.12,25,PayPal
+167,43,Student,North,2023-06-16,Electronics,1,116.03,116.03,0,Credit Card
+168,29,Professional,North,2023-06-17,Books,2,164.23,328.46,0,Gift Card
+169,36,Student,South,2023-06-18,Books,4,150.93,603.72,0,Gift Card
+170,13,Senior,West,2023-06-19,Clothing,1,177.48,177.48,0,Credit Card
+171,32,Senior,South,2023-06-20,Clothing,2,62.8,125.6,5,Debit Card
+172,71,Professional,North,2023-06-21,Clothing,1,46.85,46.85,5,PayPal
+173,59,Professional,South,2023-06-22,Clothing,3,177.17,531.51,0,PayPal
+174,86,Student,North,2023-06-23,Sports,2,134.94,269.88,10,Gift Card
+175,28,Senior,West,2023-06-24,Home,4,69.08,276.32,0,Debit Card
+176,66,Professional,East,2023-06-25,Electronics,2,151.05,302.1,15,Credit Card
+177,42,Student,West,2023-06-26,Books,1,164.87,164.87,30,PayPal
+178,45,Senior,South,2023-06-27,Sports,1,126.85,126.85,0,Debit Card
+179,62,Senior,South,2023-06-28,Electronics,2,140.7,281.4,5,PayPal
+180,57,Senior,West,2023-06-29,Sports,4,81.3,325.2,0,Debit Card
+181,6,Professional,West,2023-06-30,Sports,4,112.35,449.4,0,Debit Card
+182,28,Professional,North,2023-07-01,Books,4,109.59,438.36,0,Gift Card
+183,28,Professional,South,2023-07-02,Home,1,171.13,171.13,15,PayPal
+184,44,Senior,South,2023-07-03,Clothing,2,169.59,339.18,5,Credit Card
+185,84,Senior,West,2023-07-04,Home,3,168.21,504.63,0,Gift Card
+186,30,Student,East,2023-07-05,Books,1,12.1,12.1,20,Gift Card
+187,62,Student,South,2023-07-06,Books,4,152.41,609.64,5,Credit Card
+188,75,Student,East,2023-07-07,Books,2,154.15,308.3,20,Gift Card
+189,92,Senior,West,2023-07-08,Electronics,4,138.89,555.56,5,Debit Card
+190,89,Senior,West,2023-07-09,Home,3,153.69,461.07,5,Debit Card
+191,62,Student,North,2023-07-10,Home,4,169.97,679.88,0,PayPal
+192,97,Professional,South,2023-07-11,Sports,4,99.36,397.44,0,PayPal
+193,1,Student,East,2023-07-12,Sports,3,105.39,316.17,30,Credit Card
+194,27,Senior,North,2023-07-13,Sports,2,33.7,67.4,0,PayPal
+195,62,Senior,South,2023-07-14,Books,1,83.22,83.22,30,Debit Card
+196,77,Senior,North,2023-07-15,Home,2,132.24,264.48,5,Credit Card
+197,3,Professional,West,2023-07-16,Books,3,158.28,474.84000000000003,0,Credit Card
+198,70,Professional,South,2023-07-17,Electronics,4,51.27,205.08,0,PayPal
+199,72,Student,North,2023-07-18,Sports,2,36.19,72.38,0,Debit Card
+200,27,Student,North,2023-07-19,Books,1,135.98,135.98,30,Credit Card
+201,9,Senior,East,2023-07-20,Books,3,10.36,31.08,0,Debit Card
+202,62,Senior,North,2023-07-21,Electronics,2,43.89,87.78,0,Debit Card
+203,37,Senior,South,2023-07-22,Clothing,1,15.52,15.52,0,Debit Card
+204,97,Senior,South,2023-07-23,Home,3,41.71,125.13,0,PayPal
+205,51,Professional,East,2023-07-24,Clothing,1,44.45,44.45,0,Gift Card
+206,44,Professional,South,2023-07-25,Sports,3,83.66,250.98,0,Gift Card
+207,24,Senior,West,2023-07-26,Books,4,86.44,345.76,20,Credit Card
+208,79,Senior,South,2023-07-27,Electronics,2,176.11,352.22,0,Debit Card
+209,59,Student,South,2023-07-28,Electronics,1,106.92,106.92,0,PayPal
+210,32,Professional,North,2023-07-29,Home,3,147.45,442.34999999999997,0,Debit Card
+211,96,Student,North,2023-07-30,Clothing,1,29.79,29.79,0,Debit Card
+212,88,Senior,South,2023-07-31,Home,1,52.83,52.83,30,PayPal
+213,52,Professional,East,2023-08-01,Books,2,143.56,287.12,5,Gift Card
+214,62,Student,North,2023-08-02,Home,4,20.03,80.12,0,Debit Card
+215,58,Professional,East,2023-08-03,Electronics,1,102.45,102.45,10,Debit Card
+216,52,Professional,South,2023-08-04,Electronics,3,123.88,371.64,0,Gift Card
+217,12,Student,South,2023-08-05,Sports,3,124.41,373.23,0,PayPal
+218,39,Student,West,2023-08-06,Sports,4,14.36,57.44,30,Credit Card
+219,2,Professional,North,2023-08-07,Books,3,71.2,213.60000000000002,15,Gift Card
+220,3,Professional,South,2023-08-08,Clothing,4,130.93,523.72,30,Credit Card
+221,56,Professional,West,2023-08-09,Home,3,38.31,114.93,0,Credit Card
+222,81,Professional,North,2023-08-10,Books,2,142.13,284.26,5,Gift Card
+223,59,Senior,South,2023-08-11,Sports,1,151.73,151.73,0,Debit Card
+224,2,Professional,South,2023-08-12,Home,2,196.57,393.14,0,Credit Card
+225,2,Professional,North,2023-08-13,Sports,1,49.87,49.87,20,Credit Card
+226,92,Senior,North,2023-08-14,Home,1,166.77,166.77,0,PayPal
+227,54,Professional,North,2023-08-15,Clothing,1,108.86,108.86,20,Debit Card
+228,87,Student,South,2023-08-16,Books,2,80.96,161.92,15,Credit Card
+229,96,Student,South,2023-08-17,Home,1,33.25,33.25,0,PayPal
+230,97,Professional,West,2023-08-18,Electronics,2,149.75,299.5,5,Debit Card
+231,1,Professional,East,2023-08-19,Electronics,4,54.81,219.24,10,Gift Card
+232,19,Professional,North,2023-08-20,Home,3,80.57,241.70999999999998,0,Gift Card
+233,2,Student,South,2023-08-21,Home,3,21.88,65.64,20,PayPal
+234,53,Student,South,2023-08-22,Home,1,162.26,162.26,5,Gift Card
+235,44,Student,North,2023-08-23,Electronics,2,155.65,311.3,0,Credit Card
+236,90,Student,East,2023-08-24,Electronics,3,149.39,448.16999999999996,5,Debit Card
+237,32,Professional,North,2023-08-25,Home,2,66.89,133.78,30,Credit Card
+238,70,Student,East,2023-08-26,Sports,2,42.96,85.92,0,Credit Card
+239,32,Professional,South,2023-08-27,Sports,1,131.14,131.14,20,Gift Card
+240,68,Senior,East,2023-08-28,Clothing,3,104.27,312.81,0,Credit Card
+241,55,Student,West,2023-08-29,Books,1,43.87,43.87,15,Gift Card
+242,75,Professional,South,2023-08-30,Sports,1,140.32,140.32,15,Debit Card
+243,56,Professional,West,2023-08-31,Electronics,3,198.31,594.9300000000001,0,Debit Card
+244,17,Student,North,2023-09-01,Sports,3,151.97,455.90999999999997,0,Credit Card
+245,38,Professional,North,2023-09-02,Clothing,4,150.6,602.4,15,PayPal
+246,24,Senior,North,2023-09-03,Clothing,4,190.56,762.24,0,Gift Card
+247,69,Senior,East,2023-09-04,Books,2,48.56,97.12,15,Gift Card
+248,98,Student,South,2023-09-05,Sports,3,117.45,352.35,0,Credit Card
+249,70,Senior,North,2023-09-06,Electronics,4,196.13,784.52,25,Gift Card
+250,86,Professional,North,2023-09-07,Electronics,2,41.41,82.82,15,Gift Card
+251,11,Student,South,2023-09-08,Home,2,143.05,286.1,30,PayPal
+252,16,Professional,North,2023-09-09,Electronics,2,121.3,242.6,0,PayPal
+253,97,Senior,West,2023-09-10,Books,4,121.43,485.72,5,Credit Card
+254,73,Professional,South,2023-09-11,Books,3,142.56,427.68,5,PayPal
+255,59,Student,South,2023-09-12,Electronics,1,186.63,186.63,0,Credit Card
+256,70,Professional,South,2023-09-13,Electronics,2,158.69,317.38,0,Debit Card
+257,80,Student,West,2023-09-14,Home,4,20.67,82.68,0,Credit Card
+258,93,Student,South,2023-09-15,Electronics,4,172.02,688.08,15,Debit Card
+259,3,Student,West,2023-09-16,Home,1,52.85,52.85,5,Credit Card
+260,20,Student,South,2023-09-17,Home,1,81.61,81.61,0,Gift Card
+261,59,Student,East,2023-09-18,Electronics,4,97.73,390.92,10,PayPal
+262,36,Student,North,2023-09-19,Clothing,3,101.37,304.11,0,Debit Card
+263,19,Professional,East,2023-09-20,Clothing,1,92.68,92.68,0,Credit Card
+264,90,Student,North,2023-09-21,Home,4,188.1,752.4,30,PayPal
+265,67,Student,West,2023-09-22,Electronics,1,144.14,144.14,30,Credit Card
+266,19,Senior,East,2023-09-23,Clothing,3,129.92,389.76,5,PayPal
+267,20,Professional,South,2023-09-24,Electronics,2,19.47,38.94,0,PayPal
+268,96,Professional,North,2023-09-25,Electronics,1,181.74,181.74,15,Credit Card
+269,71,Student,North,2023-09-26,Electronics,3,182.78,548.34,0,Debit Card
+270,52,Student,East,2023-09-27,Sports,4,158.24,632.96,0,Debit Card
+271,33,Student,West,2023-09-28,Electronics,1,11.34,11.34,0,Gift Card
+272,40,Student,East,2023-09-29,Sports,1,20.88,20.88,5,PayPal
+273,39,Student,West,2023-09-30,Home,4,52.79,211.16,5,Gift Card
+274,82,Student,West,2023-10-01,Clothing,2,34.96,69.92,0,Gift Card
+275,1,Student,North,2023-10-02,Clothing,4,85.78,343.12,10,Credit Card
+276,11,Student,East,2023-10-03,Clothing,1,185.3,185.3,30,Credit Card
+277,92,Professional,East,2023-10-04,Clothing,4,99.69,398.76,0,Credit Card
+278,57,Student,West,2023-10-05,Clothing,3,12.55,37.650000000000006,15,PayPal
+279,89,Student,East,2023-10-06,Clothing,4,63.72,254.88,25,Credit Card
+280,50,Professional,South,2023-10-07,Clothing,1,18.47,18.47,0,Credit Card
+281,23,Professional,South,2023-10-08,Home,4,16.89,67.56,0,PayPal
+282,31,Student,East,2023-10-09,Electronics,2,62.39,124.78,10,PayPal
+283,94,Professional,East,2023-10-10,Books,4,62.37,249.48,5,Debit Card
+284,42,Professional,West,2023-10-11,Sports,2,159.55,319.1,20,Credit Card
+285,99,Student,South,2023-10-12,Books,3,195.22,585.66,0,Credit Card
+286,7,Senior,South,2023-10-13,Books,2,80.53,161.06,30,Credit Card
+287,16,Senior,North,2023-10-14,Electronics,4,91.49,365.96,0,Debit Card
+288,90,Student,West,2023-10-15,Electronics,1,170.51,170.51,0,Credit Card
+289,60,Student,North,2023-10-16,Electronics,2,60.95,121.9,10,Debit Card
+290,2,Senior,South,2023-10-17,Clothing,3,39.71,119.13,0,Gift Card
+291,1,Professional,West,2023-10-18,Home,2,172.09,344.18,0,Debit Card
+292,48,Student,East,2023-10-19,Clothing,2,18.84,37.68,0,Gift Card
+293,12,Student,West,2023-10-20,Home,2,127.74,255.48,0,Credit Card
+294,69,Student,East,2023-10-21,Home,3,116.78,350.34000000000003,0,Gift Card
+295,37,Professional,East,2023-10-22,Books,4,75.72,302.88,30,Debit Card
+296,32,Professional,West,2023-10-23,Books,2,69.89,139.78,0,PayPal
+297,9,Student,East,2023-10-24,Home,2,156.65,313.3,15,Gift Card
+298,99,Professional,North,2023-10-25,Home,1,26.42,26.42,15,Gift Card
+299,19,Professional,South,2023-10-26,Clothing,3,54.99,164.97,30,Credit Card
+300,48,Student,East,2023-10-27,Clothing,2,149.17,298.34,0,Debit Card
+301,80,Student,North,2023-10-28,Books,3,114.18,342.54,25,Gift Card
+302,3,Professional,East,2023-10-29,Electronics,2,34.32,68.64,5,Gift Card
+303,20,Senior,South,2023-10-30,Home,4,177.61,710.44,10,Gift Card
+304,24,Professional,North,2023-10-31,Clothing,4,84.76,339.04,10,Gift Card
+305,54,Professional,South,2023-11-01,Books,2,167.29,334.58,20,PayPal
+306,33,Student,South,2023-11-02,Clothing,4,159.67,638.68,0,Debit Card
+307,24,Professional,North,2023-11-03,Home,2,128.64,257.28,15,Credit Card
+308,75,Professional,North,2023-11-04,Home,4,103.95,415.8,5,Credit Card
+309,72,Student,North,2023-11-05,Sports,1,196.11,196.11,15,PayPal
+310,36,Student,West,2023-11-06,Electronics,1,37.54,37.54,30,Debit Card
+311,38,Student,North,2023-11-07,Sports,1,147.78,147.78,0,Gift Card
+312,84,Student,North,2023-11-08,Books,3,46.33,138.99,30,PayPal
+313,99,Student,North,2023-11-09,Clothing,3,74.27,222.81,0,Debit Card
+314,89,Student,North,2023-11-10,Books,1,68.65,68.65,0,Gift Card
+315,99,Student,East,2023-11-11,Home,3,189.94,569.8199999999999,0,PayPal
+316,25,Student,West,2023-11-12,Sports,4,193.8,775.2,0,Debit Card
+317,93,Senior,South,2023-11-13,Sports,2,44.77,89.54,10,Credit Card
+318,18,Professional,North,2023-11-14,Sports,2,14.19,28.38,0,Credit Card
+319,82,Professional,East,2023-11-15,Books,2,146.8,293.6,0,Debit Card
+320,66,Professional,East,2023-11-16,Home,1,89.42,89.42,30,Credit Card
+321,54,Professional,East,2023-11-17,Clothing,3,26.88,80.64,20,Debit Card
+322,35,Student,South,2023-11-18,Clothing,4,139.91,559.64,20,Gift Card
+323,80,Professional,North,2023-11-19,Books,4,113.57,454.28,25,Debit Card
+324,61,Professional,West,2023-11-20,Sports,1,196.3,196.3,15,Gift Card
+325,41,Professional,West,2023-11-21,Electronics,4,53.21,212.84,0,PayPal
+326,100,Professional,East,2023-11-22,Books,4,86.76,347.04,0,Debit Card
+327,33,Student,South,2023-11-23,Books,4,113.08,452.32,15,PayPal
+328,68,Student,South,2023-11-24,Home,4,160.42,641.68,0,Credit Card
+329,33,Student,South,2023-11-25,Clothing,3,114.28,342.84000000000003,10,Gift Card
+330,14,Professional,West,2023-11-26,Books,4,126.45,505.8,0,Debit Card
+331,21,Professional,East,2023-11-27,Books,2,52.97,105.94,0,PayPal
+332,48,Student,North,2023-11-28,Sports,1,170.91,170.91,5,Gift Card
+333,20,Senior,West,2023-11-29,Sports,3,91.44,274.32,10,Gift Card
+334,8,Professional,East,2023-11-30,Electronics,4,36.78,147.12,5,Credit Card
+335,7,Student,East,2023-12-01,Home,3,136.2,408.59999999999997,10,Credit Card
+336,67,Student,North,2023-12-02,Electronics,4,51.06,204.24,0,Gift Card
+337,17,Student,North,2023-12-03,Sports,2,28.54,57.08,0,Gift Card
+338,33,Student,North,2023-12-04,Clothing,1,173.78,173.78,25,Debit Card
+339,48,Student,South,2023-12-05,Sports,4,97.43,389.72,10,Gift Card
+340,76,Student,North,2023-12-06,Home,4,152.36,609.44,0,Debit Card
+341,59,Student,East,2023-12-07,Sports,4,65.21,260.84,20,Gift Card
+342,86,Student,North,2023-12-08,Home,4,159.52,638.08,0,Credit Card
+343,22,Senior,East,2023-12-09,Home,1,31.27,31.27,0,Debit Card
+344,30,Student,West,2023-12-10,Home,1,77.63,77.63,0,PayPal
+345,38,Professional,South,2023-12-11,Home,2,195.83,391.66,15,Credit Card
+346,51,Professional,West,2023-12-12,Home,1,160.86,160.86,10,Debit Card
+347,54,Senior,West,2023-12-13,Clothing,4,104.48,417.92,0,Debit Card
+348,8,Student,East,2023-12-14,Electronics,2,74.56,149.12,25,PayPal
+349,27,Student,West,2023-12-15,Books,2,175.71,351.42,0,Debit Card
+350,27,Senior,East,2023-12-16,Electronics,2,113.52,227.04,0,Gift Card
+351,98,Senior,North,2023-12-17,Home,4,154.1,616.4,0,PayPal
+352,21,Senior,North,2023-12-18,Clothing,3,153.28,459.84000000000003,0,Credit Card
+353,30,Student,East,2023-12-19,Sports,4,13.41,53.64,0,Credit Card
+354,97,Student,North,2023-12-20,Clothing,1,33.99,33.99,5,Gift Card
+355,28,Professional,South,2023-12-21,Home,1,135.33,135.33,20,Credit Card
+356,64,Senior,West,2023-12-22,Clothing,4,40.71,162.84,5,Debit Card
+357,97,Professional,South,2023-12-23,Clothing,4,58.54,234.16,0,Debit Card
+358,69,Professional,West,2023-12-24,Home,2,189.86,379.72,0,Gift Card
+359,61,Student,North,2023-12-25,Clothing,4,116.43,465.72,0,Credit Card
+360,48,Professional,South,2023-12-26,Books,2,152.64,305.28,0,Credit Card
+361,19,Student,North,2023-12-27,Books,1,116.02,116.02,15,Gift Card
+362,4,Student,West,2023-12-28,Clothing,2,114.98,229.96,0,PayPal
+363,35,Professional,East,2023-12-29,Sports,4,27.89,111.56,15,Credit Card
+364,64,Professional,East,2023-12-30,Home,1,75.3,75.3,25,PayPal
+365,49,Student,South,2023-12-31,Books,3,63.66,190.98,0,Credit Card
+366,17,Student,North,2024-01-01,Sports,2,84.24,168.48,20,Credit Card
+367,44,Professional,North,2024-01-02,Clothing,1,161.69,161.69,5,Credit Card
+368,92,Student,South,2024-01-03,Sports,2,80.67,161.34,10,Credit Card
+369,30,Professional,East,2024-01-04,Electronics,1,95.82,95.82,5,Debit Card
+370,93,Student,West,2024-01-05,Books,1,85.5,85.5,0,PayPal
+371,46,Professional,South,2024-01-06,Clothing,2,27.75,55.5,0,PayPal
+372,6,Professional,West,2024-01-07,Home,3,93.8,281.4,0,Credit Card
+373,99,Student,East,2024-01-08,Clothing,1,47.17,47.17,0,Credit Card
+374,37,Student,North,2024-01-09,Home,1,45.48,45.48,5,PayPal
+375,24,Student,East,2024-01-10,Clothing,1,27.87,27.87,0,Debit Card
+376,93,Student,South,2024-01-11,Sports,3,77.77,233.31,30,Gift Card
+377,46,Senior,North,2024-01-12,Sports,3,153.92,461.76,15,Gift Card
+378,53,Student,South,2024-01-13,Sports,4,62.52,250.08,0,PayPal
+379,95,Senior,South,2024-01-14,Electronics,2,69.35,138.7,0,Credit Card
+380,99,Student,East,2024-01-15,Home,3,132.11,396.33000000000004,25,Credit Card
+381,60,Professional,South,2024-01-16,Sports,2,47.21,94.42,20,Debit Card
+382,97,Professional,East,2024-01-17,Electronics,4,180.42,721.68,15,Gift Card
+383,63,Professional,North,2024-01-18,Home,2,108.84,217.68,0,Debit Card
+384,85,Professional,East,2024-01-19,Clothing,3,95.04,285.12,0,Gift Card
+385,32,Professional,North,2024-01-20,Electronics,2,115.99,231.98,0,PayPal
+386,87,Student,East,2024-01-21,Books,3,41.55,124.64999999999999,0,Gift Card
+387,33,Senior,West,2024-01-22,Electronics,2,126.56,253.12,15,Debit Card
+388,67,Senior,West,2024-01-23,Electronics,3,78.99,236.96999999999997,15,Debit Card
+389,18,Senior,South,2024-01-24,Home,3,180.47,541.41,5,Debit Card
+390,25,Student,East,2024-01-25,Clothing,2,42.08,84.16,25,PayPal
+391,95,Professional,East,2024-01-26,Books,4,106.34,425.36,5,Gift Card
+392,54,Senior,North,2024-01-27,Sports,1,123.64,123.64,0,Gift Card
+393,58,Student,South,2024-01-28,Sports,4,16.34,65.36,0,Debit Card
+394,67,Student,East,2024-01-29,Electronics,2,79.1,158.2,30,Gift Card
+395,46,Professional,South,2024-01-30,Home,4,149.2,596.8,0,Credit Card
+396,24,Professional,West,2024-01-31,Home,3,165.87,497.61,30,Credit Card
+397,32,Senior,East,2024-02-01,Sports,1,69.5,69.5,20,Credit Card
+398,47,Student,East,2024-02-02,Books,2,161.73,323.46,0,Gift Card
+399,86,Professional,South,2024-02-03,Clothing,2,193.87,387.74,5,PayPal
+400,23,Student,East,2024-02-04,Books,2,172.81,345.62,25,PayPal
+401,66,Student,South,2024-02-05,Clothing,1,32.35,32.35,5,PayPal
+402,27,Student,East,2024-02-06,Sports,3,150.55,451.65000000000003,30,PayPal
+403,2,Senior,North,2024-02-07,Clothing,2,70.74,141.48,30,Credit Card
+404,90,Professional,South,2024-02-08,Home,4,197.8,791.2,0,Credit Card
+405,17,Professional,East,2024-02-09,Electronics,2,102.22,204.44,0,Debit Card
+406,33,Student,West,2024-02-10,Electronics,2,33.26,66.52,30,Gift Card
+407,9,Senior,East,2024-02-11,Sports,2,147.79,295.58,10,Gift Card
+408,43,Student,West,2024-02-12,Home,2,71.37,142.74,0,PayPal
+409,48,Senior,West,2024-02-13,Books,3,199.44,598.3199999999999,0,Credit Card
+410,39,Professional,North,2024-02-14,Home,4,196.16,784.64,5,PayPal
+411,93,Student,South,2024-02-15,Electronics,3,134.67,404.01,30,Debit Card
+412,42,Professional,East,2024-02-16,Electronics,4,34.67,138.68,20,Gift Card
+413,26,Student,North,2024-02-17,Home,2,140.5,281.0,10,Gift Card
+414,99,Professional,East,2024-02-18,Home,1,27.68,27.68,0,PayPal
+415,50,Professional,West,2024-02-19,Electronics,3,15.58,46.74,0,Debit Card
+416,25,Student,South,2024-02-20,Books,1,166.36,166.36,25,Gift Card
+417,24,Senior,East,2024-02-21,Sports,3,49.85,149.55,0,Debit Card
+418,13,Student,East,2024-02-22,Sports,2,82.02,164.04,0,Debit Card
+419,60,Professional,West,2024-02-23,Home,3,194.96,584.88,0,PayPal
+420,7,Senior,East,2024-02-24,Sports,2,74.0,148.0,10,Credit Card
+421,57,Professional,East,2024-02-25,Electronics,3,66.33,198.99,30,PayPal
+422,36,Student,West,2024-02-26,Electronics,2,184.46,368.92,0,Credit Card
+423,45,Senior,North,2024-02-27,Home,2,31.04,62.08,0,Debit Card
+424,20,Professional,West,2024-02-28,Home,4,154.32,617.28,10,Credit Card
+425,65,Student,North,2024-02-29,Home,2,197.73,395.46,30,Debit Card
+426,8,Student,South,2024-03-01,Books,4,181.25,725.0,0,Gift Card
+427,16,Professional,North,2024-03-02,Sports,2,133.82,267.64,0,Gift Card
+428,14,Professional,North,2024-03-03,Home,1,69.67,69.67,0,Gift Card
+429,76,Professional,South,2024-03-04,Clothing,2,58.32,116.64,25,PayPal
+430,87,Senior,North,2024-03-05,Clothing,1,165.66,165.66,0,PayPal
+431,15,Professional,West,2024-03-06,Electronics,1,177.17,177.17,0,Debit Card
+432,92,Student,North,2024-03-07,Sports,2,109.83,219.66,10,Gift Card
+433,98,Student,South,2024-03-08,Home,1,56.42,56.42,15,PayPal
+434,66,Student,West,2024-03-09,Clothing,4,31.46,125.84,0,Gift Card
+435,32,Professional,South,2024-03-10,Sports,3,26.56,79.67999999999999,25,PayPal
+436,87,Student,South,2024-03-11,Electronics,2,146.62,293.24,0,Credit Card
+437,63,Professional,East,2024-03-12,Books,1,89.82,89.82,5,Credit Card
+438,86,Professional,East,2024-03-13,Sports,2,182.02,364.04,0,Gift Card
+439,51,Senior,South,2024-03-14,Sports,4,150.54,602.16,15,Debit Card
+440,25,Student,South,2024-03-15,Books,2,46.34,92.68,0,PayPal
+441,58,Senior,South,2024-03-16,Sports,2,126.62,253.24,25,PayPal
+442,63,Student,East,2024-03-17,Electronics,1,92.75,92.75,15,Credit Card
+443,62,Senior,East,2024-03-18,Electronics,4,119.68,478.72,10,Credit Card
+444,22,Student,North,2024-03-19,Books,3,150.23,450.68999999999994,15,Debit Card
+445,58,Student,North,2024-03-20,Home,3,163.18,489.54,15,Debit Card
+446,58,Professional,South,2024-03-21,Clothing,1,170.31,170.31,0,Debit Card
+447,86,Student,West,2024-03-22,Home,2,58.26,116.52,0,Gift Card
+448,49,Student,West,2024-03-23,Sports,1,15.91,15.91,30,Credit Card
+449,52,Professional,East,2024-03-24,Clothing,1,150.47,150.47,0,Gift Card
+450,42,Professional,East,2024-03-25,Books,1,30.21,30.21,15,Credit Card
+451,70,Professional,East,2024-03-26,Books,2,69.83,139.66,30,Credit Card
+452,15,Professional,South,2024-03-27,Clothing,4,10.73,42.92,0,PayPal
+453,54,Professional,West,2024-03-28,Electronics,1,139.52,139.52,10,Credit Card
+454,60,Student,North,2024-03-29,Clothing,2,41.76,83.52,0,Credit Card
+455,97,Student,South,2024-03-30,Sports,4,134.5,538.0,5,Gift Card
+456,8,Student,North,2024-03-31,Electronics,1,198.43,198.43,0,Credit Card
+457,53,Senior,North,2024-04-01,Books,3,23.81,71.42999999999999,0,Gift Card
+458,60,Professional,South,2024-04-02,Clothing,4,24.64,98.56,10,Debit Card
+459,5,Professional,North,2024-04-03,Home,1,74.67,74.67,20,Credit Card
+460,68,Professional,West,2024-04-04,Home,4,174.61,698.44,15,Credit Card
+461,6,Senior,North,2024-04-05,Sports,4,50.95,203.8,5,Gift Card
+462,96,Student,West,2024-04-06,Home,4,78.47,313.88,0,Debit Card
+463,94,Professional,West,2024-04-07,Clothing,4,23.02,92.08,10,PayPal
+464,47,Professional,West,2024-04-08,Clothing,4,155.0,620.0,0,Debit Card
+465,99,Professional,East,2024-04-09,Home,4,87.58,350.32,30,Gift Card
+466,55,Student,North,2024-04-10,Clothing,1,154.26,154.26,20,Debit Card
+467,40,Senior,South,2024-04-11,Sports,3,181.69,545.0699999999999,15,Gift Card
+468,52,Senior,South,2024-04-12,Electronics,2,54.22,108.44,30,Gift Card
+469,16,Professional,North,2024-04-13,Sports,4,163.41,653.64,0,PayPal
+470,13,Professional,East,2024-04-14,Sports,2,21.23,42.46,15,Credit Card
+471,30,Senior,East,2024-04-15,Clothing,1,180.78,180.78,0,Gift Card
+472,19,Professional,West,2024-04-16,Electronics,4,133.65,534.6,30,Gift Card
+473,17,Student,North,2024-04-17,Clothing,3,176.1,528.3,0,PayPal
+474,63,Professional,North,2024-04-18,Books,2,10.04,20.08,15,Gift Card
+475,19,Professional,South,2024-04-19,Clothing,4,42.13,168.52,25,Credit Card
+476,92,Professional,North,2024-04-20,Clothing,1,84.05,84.05,0,PayPal
+477,58,Professional,East,2024-04-21,Clothing,3,82.11,246.32999999999998,0,Credit Card
+478,55,Senior,North,2024-04-22,Electronics,2,53.08,106.16,15,Credit Card
+479,90,Senior,South,2024-04-23,Clothing,2,82.51,165.02,0,PayPal
+480,90,Professional,West,2024-04-24,Electronics,4,34.48,137.92,0,Gift Card
+481,62,Student,South,2024-04-25,Home,3,88.42,265.26,0,Credit Card
+482,23,Senior,South,2024-04-26,Books,3,162.45,487.34999999999997,0,Credit Card
+483,9,Senior,West,2024-04-27,Electronics,3,101.02,303.06,25,Credit Card
+484,12,Student,South,2024-04-28,Home,3,13.42,40.26,5,Credit Card
+485,1,Senior,South,2024-04-29,Electronics,1,90.07,90.07,0,PayPal
+486,58,Senior,North,2024-04-30,Electronics,3,15.16,45.480000000000004,0,PayPal
+487,1,Professional,North,2024-05-01,Books,2,193.59,387.18,0,Debit Card
+488,34,Professional,West,2024-05-02,Sports,2,34.22,68.44,0,Debit Card
+489,96,Student,North,2024-05-03,Sports,1,144.46,144.46,0,Credit Card
+490,48,Student,North,2024-05-04,Electronics,2,194.83,389.66,0,Gift Card
+491,89,Student,South,2024-05-05,Clothing,2,166.95,333.9,0,Credit Card
+492,1,Senior,East,2024-05-06,Home,3,142.87,428.61,15,Gift Card
+493,16,Student,North,2024-05-07,Clothing,2,169.5,339.0,0,Credit Card
+494,61,Student,East,2024-05-08,Clothing,1,196.54,196.54,10,Debit Card
+495,64,Student,North,2024-05-09,Electronics,3,128.06,384.18,5,Debit Card
+496,63,Professional,North,2024-05-10,Electronics,4,116.25,465.0,5,Gift Card
+497,69,Senior,West,2024-05-11,Electronics,3,129.37,388.11,10,Credit Card
+498,22,Student,West,2024-05-12,Electronics,1,111.21,111.21,5,Gift Card
+499,93,Student,West,2024-05-13,Sports,3,130.67,392.01,25,Debit Card
+500,67,Professional,East,2024-05-14,Electronics,3,95.47,286.40999999999997,10,Credit Card
