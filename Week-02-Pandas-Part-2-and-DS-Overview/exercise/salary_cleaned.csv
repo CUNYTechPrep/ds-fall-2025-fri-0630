@@ -1,0 +1,1012 @@
+timestamp,age,industry,title,title_context,salary,additional_compensation,currency,other_currency,salary_context,country,state,city,total_yoe,field_yoe,highest_education_completed,gender,race
+2021-04-27 17:02:03,35-44,Computing or Tech,Software Development Lead,,1.0,130000.0,USD,,,US,Wisconsin,Madison,8 - 10 years,8 - 10 years,Master's degree,Man,White
+2021-04-28 06:41:31,45-54,Computing or Tech,Account Manager,,55.0,12.0,USD,,Base + commission,US,New Hampshire,Manchester,21 - 30 years,8 - 10 years,College degree,Woman,White
+2021-04-28 16:45:53,18-24,Computing or Tech,Product Marketer,,0.0,0.0,USD,,Start up without funding. Compensation is in stocks. ,US,California,Santa Clara,1 year or less,1 year or less,College degree,Man,Asian or Asian American
+2021-04-28 17:22:37,25-34,Computing or Tech,Chief Data Scientist,,240.0,100.0,USD,,Additional compensation is expected value of options.,US,California,Oakland,5-7 years,5-7 years,PhD,Man,White
+2021-04-28 22:49:19,25-34,Computing or Tech,Technical Writer,,72.0,0.0,USD,,,US,Washington,Silverdale,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-04-29 00:16:52,45-54,Computing or Tech,Coach,,130.0,,USD,,,US,,Several,11 - 20 years,11 - 20 years,Some college,Non-binary,White
+2021-04-29 12:44:02,25-34,Computing or Tech,Job title ,,80.0,0.0,USD,,,US,Missouri,Missouri,8 - 10 years,8 - 10 years,,Other or prefer not to answer,Another option not listed here or prefer not to answer
+2021-04-29 13:13:20,45-54,Computing or Tech,Founder,,0.0,0.0,USD,,,US,California,San Jose,21 - 30 years,21 - 30 years,Some college,Woman,White
+2021-04-29 13:59:35,18-24,Computing or Tech,Machine Learning Engineer,,132000.0,10000.0,USD,,,US,Massachusetts,Cambridge,2 - 4 years,2 - 4 years,Master's degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-04-29 14:05:03,45-54,Computing or Tech,Principal Software Developer,,230000.0,0.0,USD,,,US,Washington,Seattle,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 14:05:22,55-64,Computing or Tech,Senior Software Engineer,,135000.0,,USD,,,US,California,Novato,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-04-29 14:05:52,35-44,Computing or Tech,IT project Manager,,120000.0,10000.0,USD,,,United States ,Wisconsin,Madison,11 - 20 years,8 - 10 years,,Woman,White
+2021-04-29 14:07:24,35-44,Computing or Tech,Instructional Designer II,,110000.0,5000.0,USD,,,US,Virginia,McLean,11 - 20 years,5-7 years,Master's degree,Woman,Asian or Asian American
+2021-04-29 14:09:19,45-54,Computing or Tech,System Analyst,Business Analyst or Business Systems Analyst are comparable,100000.0,5000.0,USD,,,US,Texas,Austin,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-04-29 14:16:40,45-54,Computing or Tech,Senior staff software engineer,,287000.0,1000000.0,USD,,"25% bonus, stock grants, and modest appreciation of unvested RSUs",US,California,Menlo Park,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 14:17:52,25-34,Computing or Tech,Senior Security Engineer,,200000.0,,USD,,,US,Oregon,Portland,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-04-29 14:18:16,35-44,Computing or Tech,Quality Assurance Engineer/Scrum Master,,57000.0,2000.0,USD,,,US,California,Los Angeles,8 - 10 years,5-7 years,College degree,Woman,White
+2021-04-29 14:19:09,25-34,Computing or Tech,Product Owner,Product owner according to the Scrum.org scrum guide,104000.0,10000.0,USD,,,US,Colorado,Denver,8 - 10 years,5-7 years,College degree,Woman,White
+2021-04-29 14:20:43,35-44,Computing or Tech,Director of Engineering,,200000.0,,USD,,,US,District of Columbia,"Washington, D.C.",11 - 20 years,11 - 20 years,College degree,Woman,"Hispanic, Latino, or Spanish origin"
+2021-04-29 14:21:50,25-34,Computing or Tech,Software Engineer,,93000.0,,USD,,,US,Colorado,Boulder,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-04-29 14:24:10,35-44,Computing or Tech,Product Marketing Manager,,85000.0,2000.0,USD,,,US,Oregon,Portland,11 - 20 years,8 - 10 years,Master's degree,Man,White
+2021-04-29 14:25:03,35-44,Computing or Tech,Staff Product Manager,Staff = Senior,156000.0,291000.0,USD,,Additional income is RSUs,US,Colorado,Denver,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-04-29 14:27:06,35-44,Computing or Tech,DevOps Architect,,104203.0,12000.0,USD,,,US,Florida,Jacksonville,21 - 30 years,11 - 20 years,College degree,Man,White
+2021-04-29 14:28:00,25-34,Computing or Tech,Software Engineer,,144000.0,10000.0,USD,,,US,Tennessee,Memphis,5-7 years,5-7 years,College degree,Woman,White
+2021-04-29 14:31:25,35-44,Computing or Tech,Software Dev,,63000.0,,USD,,,US,Florida,Jacksonville,21 - 30 years,2 - 4 years,College degree,Man,White
+2021-04-29 14:35:21,25-34,Computing or Tech,Engineering Manager,,142000.0,15000.0,USD,,,US,Nevada,Las Vegas,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-04-29 14:36:05,25-34,Computing or Tech,Operations Manager,,74340.0,7434.0,USD,,,US,Wisconsin,Madison,11 - 20 years,5-7 years,College degree,Man,White
+2021-04-29 14:37:45,35-44,Computing or Tech,Data Architect,,190000.0,100000.0,USD,,Additional compensation is from RSUs and annual corporate bonus (15%),US,California,San Luis Obispo,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-04-29 14:38:14,35-44,Computing or Tech,Junior Developer,,43000.0,1500.0,USD,,,US,Nebraska,Lincoln,11 - 20 years,2 - 4 years,College degree,Man,White
+2021-04-29 14:44:18,18-24,Computing or Tech,Software engineer,,136000.0,13600.0,USD,,,US,New York,New York,2 - 4 years,2 - 4 years,College degree,Man,Black or African American
+2021-04-29 14:45:45,35-44,Computing or Tech,Principal Software Engineer,System Architecture Focus,200000.0,18000.0,USD,,Additional is combination stock RSUs + variable bonus,US,Oregon,Portland,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-29 14:45:57,35-44,Computing or Tech,MSP Engineer II,,55000.0,0.0,USD,,,US,Ohio,Columbus,21 - 30 years,11 - 20 years,Some college,Man,White
+2021-04-29 14:46:43,25-34,Computing or Tech,Software Development Engineer II,,144055.0,0.0,USD,,,US,Washington,Seattle,5-7 years,2 - 4 years,College degree,Woman,White
+2021-04-29 14:53:52,45-54,Computing or Tech,"Manager, Technical Writing",,135000.0,0.0,USD,,,US,California,Palo Alto,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 14:54:30,25-34,Computing or Tech,Data Analyst,,70000.0,3000.0,USD,,,US,Virginia,McLean,8 - 10 years,2 - 4 years,College degree,Man,White
+2021-04-29 14:58:31,25-34,Computing or Tech,Director,,520000.0,0.0,USD,,"part-time, hourly (could never make this rate if working full time)",US,California,Foster City,5-7 years,2 - 4 years,College degree,Woman,Another option not listed here or prefer not to answer
+2021-04-29 14:59:11,25-34,Computing or Tech,Software development engineer,,150000.0,,USD,,,US,Washington,Seattle,5-7 years,5-7 years,College degree,Woman,White
+2021-04-29 15:00:19,25-34,Computing or Tech,Web Designer,,52000.0,0.0,USD,,,US,Alabama,Huntsville,2 - 4 years,2 - 4 years,College degree,Woman,"Asian or Asian American, White"
+2021-04-29 15:01:31,25-34,Computing or Tech,"Quality Manager, Testing Captain, Team Lead",,101000.0,2000.0,USD,,,US,Wisconsin,Verona,8 - 10 years,5-7 years,College degree,Woman,White
+2021-04-29 15:04:24,25-34,Computing or Tech,Software Engineer,,113000.0,22000.0,USD,,,US,Texas,Houston,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-04-29 15:10:47,25-34,Computing or Tech,Software Developer,,235000.0,10000.0,USD,,,US,Wisconsin,Verona,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-29 15:11:02,35-44,Computing or Tech,Director of Engineering,,200000.0,0.0,USD,,,US,California,San Jose,21 - 30 years,21 - 30 years,College degree,Other or prefer not to answer,White
+2021-04-29 15:11:27,35-44,Computing or Tech,Customer Success Manager - Implementation Manager and Technical Support,I work in a really specific subset of customer success that focuses on training and implementing our software,65000.0,4000.0,USD,,,US,Oregon,Portland,21 - 30 years,8 - 10 years,College degree,Non-binary,Asian or Asian American
+2021-04-29 15:11:50,25-34,Computing or Tech,Software Quality Assurance and Release Manager,,81000.0,0.0,USD,,,US,Maine,Portland,8 - 10 years,5-7 years,College degree,Woman,White
+2021-04-29 15:12:11,55-64,Computing or Tech,software engineer,,112000.0,16000.0,USD,,,US,Oregon,portland,31 - 40 years,31 - 40 years,Master's degree,Woman,White
+2021-04-29 15:13:27,25-34,Computing or Tech,Software Engineer,,75000.0,,USD,,,US,Virginia,Reston,5-7 years,2 - 4 years,College degree,Non-binary,White
+2021-04-29 15:15:17,25-34,Computing or Tech,Data Scientist,,165000.0,0.0,USD,,Work fully remote for a company in CA,US,Massachusetts,San Jose,2 - 4 years,2 - 4 years,PhD,Man,White
+2021-04-29 15:15:34,25-34,Computing or Tech,Application Developer,,94000.0,0.0,USD,,,US,Minnesota,St. Paul,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-04-29 15:16:26,35-44,Computing or Tech,Senior Software Engineer,,125000.0,0.0,USD,,,US,Oregon,Portland,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-29 15:16:48,25-34,Computing or Tech,Software engineer,,171000.0,,USD,,,US,California,Oakland,5-7 years,5-7 years,College degree,Man,White
+2021-04-29 15:19:46,35-44,Computing or Tech,Software Development Engineer,,135000.0,0.0,USD,,,US,Oregon,Portland,21 - 30 years,5-7 years,College degree,Man,White
+2021-04-29 15:25:03,18-24,Computing or Tech,Software Engineer,,85000.0,8500.0,USD,,,US,Utah,Pleasant Grove,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-04-29 15:25:13,35-44,Computing or Tech,"Senior Software Engineer, Backend",,158000.0,0.0,USD,,,US,California,San Diego,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-04-29 15:27:04,25-34,Computing or Tech,Senior Associate,,104000.0,10000.0,USD,,,US,Georgia,Atlanta,5-7 years,5-7 years,College degree,Man,"Asian or Asian American, Black or African American"
+2021-04-29 15:27:50,35-44,Computing or Tech,Sales Excellence Manager,Not a people manager role,152000.0,27000.0,USD,,,US,Washington,Bellevue,11 - 20 years,5-7 years,Master's degree,Man,White
+2021-04-29 15:28:21,35-44,Computing or Tech,"VP, Learning and Development ",Branch of Human Resources ,150000.0,30000.0,USD,,,US,North Carolina,Raleigh ,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-04-29 15:28:29,45-54,Computing or Tech,Technical Writer,,61500.0,,USD,,,US,Tennessee,Nashville,21 - 30 years,5-7 years,College degree,Woman,White
+2021-04-29 15:28:55,35-44,Computing or Tech,VP Product Design,,242000.0,,USD,,,US,Georgia,Atlanta,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-29 15:29:06,18-24,Computing or Tech,software engineer,,96500.0,5000.0,USD,,,US,Virginia,Richmond,2 - 4 years,2 - 4 years,College degree,Non-binary,White
+2021-04-29 15:30:25,35-44,Computing or Tech,Senior Product Line Manager,,220000.0,150000.0,USD,,,US,Washington,Seattle,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-29 15:33:07,25-34,Computing or Tech,Engineer,front end developer,84000.0,0.0,USD,,,US,New York,New York City,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-29 15:35:31,25-34,Computing or Tech,Software Engineer,,134000.0,,USD,,,US,California,San Francisco,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-04-29 15:41:58,35-44,Computing or Tech,Community Program Manager,Working on experiments and programs aimed at improving community experience on a large platform. Background in Community Management.,105000.0,,USD,,Also receive stock options - not calculated into salary,US,Utah,Salt Lake City,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-29 15:44:25,35-44,Computing or Tech,Senior Product Manager,,198000.0,,USD,,,US,California,San Francisco,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-04-29 15:51:04,25-34,Computing or Tech,Online Course Developer,,102000.0,4000.0,USD,,,US,Massachusetts,Natick,1 year or less,1 year or less,PhD,Man,Asian or Asian American
+2021-04-29 15:51:55,35-44,Computing or Tech,Network Security Engineer,,115000.0,,USD,,,US,Maryland,Columbia,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-04-29 15:55:03,35-44,Computing or Tech,Staff Software Engineer,At my company this is a level between Senior and Principal.,172000.0,0.0,USD,,,US,New York,New York City,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-29 15:55:14,25-34,Computing or Tech,Help Desk Technician,,45760.0,6000.0,USD,,,US,Texas,Fort Worth,5-7 years,5-7 years,College degree,Woman,White
+2021-04-29 15:55:21,35-44,Computing or Tech,Director of SaaS Infrastructure and Operations,,160000.0,15000.0,USD,,,US,Florida,Bradenton,21 - 30 years,11 - 20 years,Some college,Man,White
+2021-04-29 15:56:28,35-44,Computing or Tech,Help Desk Support Specialist,,80000.0,,USD,,,US,New York,New York City,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-29 15:59:41,35-44,Computing or Tech,"Senior Advisor, Data Science",,96160.0,10000.0,USD,,,US,Oklahoma,Oklahoma City,8 - 10 years,2 - 4 years,College degree,Man,"Native American or Alaska Native, White"
+2021-04-29 16:00:25,35-44,Computing or Tech,Na,,100000.0,3000.0,USD,,,US,New York,Hicksville ,11 - 20 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-04-29 16:03:58,35-44,Computing or Tech,Senior Data Scientist,,117000.0,0.0,USD,,,US,"Louisiana, Washington",Spokane,11 - 20 years,5-7 years,Master's degree,Man,Another option not listed here or prefer not to answer
+2021-04-29 16:04:15,25-34,Computing or Tech,Data Analyst,,70000.0,5000.0,USD,,,US,Tennessee,,5-7 years,5-7 years,Master's degree,Woman,White
+2021-04-29 16:07:40,45-54,Computing or Tech,Business Analyst,,76000.0,,USD,,,US,Michigan,Lansing,5-7 years,8 - 10 years,College degree,Man,White
+2021-04-29 16:09:18,25-34,Computing or Tech,Staff Software Engineering Manager,,210000.0,50000.0,USD,,,US,New York,New York City,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-04-29 16:18:10,25-34,Computing or Tech,Technical Support,,44900.0,2000.0,USD,,,US,Florida,West Palm Beach,5-7 years,5-7 years,College degree,Man,White
+2021-04-29 16:19:12,45-54,Computing or Tech,Frontend Designer,,65000.0,500.0,USD,,,US,Ohio,Dayton,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-29 16:21:19,25-34,Computing or Tech,Technical Support Specialist I,Customer service but leaning more on the technical side. ,24000.0,,USD,,,US,Texas,San Antonio,8 - 10 years,11 - 20 years,Some college,Woman,Black or African American
+2021-04-29 16:24:24,35-44,Computing or Tech,Senior Software Engineer,,135200.0,13520.0,USD,,,US,New York,New York City,11 - 20 years,2 - 4 years,Master's degree,Woman,White
+2021-04-29 16:29:12,25-34,Computing or Tech,Senior Software Engineer,,155000.0,0.0,USD,,,US,Pennsylvania,Philadelphia,2 - 4 years,2 - 4 years,Master's degree,Non-binary,White
+2021-04-29 16:31:28,25-34,Computing or Tech,Site Reliability Engineer,,127000.0,4000.0,USD,,,US,Illinois,Chicago,11 - 20 years,8 - 10 years,College degree,Other or prefer not to answer,White
+2021-04-29 16:37:08,25-34,Computing or Tech,Customer service lead,,65624.0,5000.0,USD,,,US,Washington,Seattle,11 - 20 years,5-7 years,Some college,Woman,White
+2021-04-29 16:41:46,25-34,Computing or Tech,Product Director,Lead a team of PMs - responsible for all of revenue,165000.0,,USD,,"Given 35,000 option to buy @ $4 ;;; targeting a $25 IPO in 3 years",US,Washington,Seattle,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-04-29 16:43:03,35-44,Computing or Tech,Senior Software Engineer,,162000.0,0.0,USD,,,US,Florida,Sarasota,21 - 30 years,8 - 10 years,Master's degree,Man,White
+2021-04-29 16:44:51,35-44,Computing or Tech,Manager of Data Science ,,280000.0,780000.0,USD,,,US,California,Oakland,11 - 20 years,11 - 20 years,PhD,Man,White
+2021-04-29 16:47:06,35-44,Computing or Tech,Mid-level SharePoint Developer,,112500.0,960.0,USD,,,US,Virginia,Arlington,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-29 16:47:10,35-44,Computing or Tech,Design Lead,,165000.0,,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-29 16:48:02,25-34,Computing or Tech,Web Developer,,75000.0,0.0,USD,,,US,Utah,Lehi,5-7 years,5-7 years,College degree,Man,White
+2021-04-29 16:48:38,45-54,Computing or Tech,Sales Director,,240000.0,,USD,,50/50 - Salary/Commission,US,Georgia,Atlanta,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 16:52:06,25-34,Computing or Tech,software engineer,,95000.0,0.0,USD,,,US,California,Santa Clara,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-04-29 16:59:44,35-44,Computing or Tech,Site Reliability Engineer SRE,,180000.0,20000.0,USD,,,US,Washington,Seattle,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 17:00:12,35-44,Computing or Tech,Software Developer,,242985.0,24000.0,USD,,,US,Wisconsin,Madison,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-29 17:00:27,25-34,Computing or Tech,Technical project manager,,102000.0,2500.0,USD,,,US,Massachusetts,Boston,8 - 10 years,5-7 years,College degree,Woman,White
+2021-04-29 17:03:09,25-34,Computing or Tech,Systems Engineer,Networking and Security,55000.0,0.0,USD,,,US,New York,New York City,11 - 20 years,2 - 4 years,Some college,Man,White
+2021-04-29 17:05:17,35-44,Computing or Tech,Project Engineer,,55000.0,,USD,,,US,Georgia,Athens,11 - 20 years,11 - 20 years,High School,Man,White
+2021-04-29 17:13:40,18-24,Computing or Tech,Full Stack Developer,,56400.0,5000.0,USD,,,US,California,San Diego,2 - 4 years,2 - 4 years,College degree,Man,Asian or Asian American
+2021-04-29 17:14:44,25-34,Computing or Tech,Technical Support,,30000.0,0.0,USD,,,US,Georgia,Athens,2 - 4 years,1 year or less,College degree,Man,White
+2021-04-29 17:14:59,45-54,Computing or Tech,Senior Software Developer,,150000.0,5000.0,USD,,,US,Oregon,Eugene,11 - 20 years,11 - 20 years,PhD,Man,White
+2021-04-29 17:27:42,25-34,Computing or Tech,Quality Manager,"Software testing, project and people management ",83000.0,3000.0,USD,,,US,Wisconsin,Madison,5-7 years,5-7 years,College degree,Woman,White
+2021-04-29 17:30:31,35-44,Computing or Tech,Implementation Specialist ,,80000.0,5000.0,USD,,,United States of America ,Massachusetts,South Yarmouth ,21 - 30 years,2 - 4 years,Some college,Woman,White
+2021-04-29 17:36:51,45-54,Computing or Tech,Principal Data Science Manager,,162000.0,4800.0,USD,,,US,Maryland,Baltimore ,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-04-29 17:39:05,35-44,Computing or Tech,Engineering Manager,,200000.0,50000.0,USD,,Stock,US,New York,New York,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-04-29 17:52:02,25-34,Computing or Tech,Project Manager,,80000.0,8000.0,USD,,,US,Illinois,Chicago,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-29 17:57:07,25-34,Computing or Tech,Senior Business Analyst,,72000.0,,USD,,,US,Massachusetts,Ipswich,8 - 10 years,8 - 10 years,Master's degree,Woman,White
+2021-04-29 18:09:44,35-44,Computing or Tech,Software Consultant,,100000.0,10000.0,USD,,,US,Wisconsin,Milwaukee,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-04-29 18:11:47,45-54,Computing or Tech,Principal Software Engineer,,142000.0,15000.0,USD,,,US,Iowa,Cedar Rapids,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 18:14:06,45-54,Computing or Tech,Principal Software Engineer ,Labor grade 6 out of 8,142000.0,15000.0,USD,,,US,Iowa,Cedar Rapids ,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 18:18:18,25-34,Computing or Tech,Software Engineer,,95000.0,2000.0,USD,,,US,Washington,"Seattle, Wa",5-7 years,5-7 years,College degree,Woman,White
+2021-04-29 18:20:00,45-54,Computing or Tech,Senior software developer ,,128000.0,,USD,,,US,Massachusetts,Boston ,21 - 30 years,8 - 10 years,Master's degree,Man,White
+2021-04-29 18:30:45,25-34,Computing or Tech,Staff Software Engineer,,195700.0,0.0,USD,,,US,Oregon,Portland,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-04-29 18:32:50,35-44,Computing or Tech,Taxonomy Manager,,65000.0,,USD,,,US,New York,New York,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-04-29 18:36:46,25-34,Computing or Tech,Director of Product Design,,200000.0,0.0,USD,,,US,New York,New York City,11 - 20 years,8 - 10 years,Master's degree,Man,White
+2021-04-29 18:46:42,25-34,Computing or Tech,Staff Researcher,,195000.0,0.0,USD,,"20000 signing bonus, retirement matching",US,California,Saint Helena,11 - 20 years,2 - 4 years,PhD,Man,White
+2021-04-29 18:48:17,35-44,Computing or Tech,Senior Customer Support Representative,,80000.0,,USD,,,US,Oregon,Salem (remote for Boston Mass),8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-04-29 18:50:29,35-44,Computing or Tech,Software Architect ,,170000.0,,USD,,,US,Idaho,Boise,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 18:52:17,35-44,Computing or Tech,Customer Marketing Manager,,120000.0,,USD,,,US,Ohio,Columbus,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-29 18:56:42,45-54,Computing or Tech,iOS Engineer,,165000.0,50000.0,USD,,the extra is variable,US,California,Los Angeles,11 - 20 years,5-7 years,PhD,Man,White
+2021-04-29 18:59:10,45-54,Computing or Tech,CTO,,240000.0,,USD,,,US,Massachusetts,Boston,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 19:01:55,25-34,Computing or Tech,Sales Engineer,,110000.0,50000.0,USD,,,US,Tennessee,Nashville ,8 - 10 years,1 year or less,College degree,Woman,White
+2021-04-29 19:03:55,35-44,Computing or Tech,Business Operations (Data Analyst),,117000.0,5000.0,USD,,,US,California,Remote (Southern CA),8 - 10 years,5-7 years,Master's degree,Woman,White
+2021-04-29 19:04:19,25-34,Computing or Tech,Software engineer,temp,61000.0,,USD,,,US,California,San Francisco,5-7 years,1 year or less,College degree,Woman,White
+2021-04-29 19:07:02,25-34,Computing or Tech,Senior Engineer,,180000.0,0.0,USD,,,US,Massachusetts,Boston,5-7 years,5-7 years,College degree,Man,White
+2021-04-29 19:13:15,35-44,Computing or Tech,Lead Developer,,131000.0,1000.0,USD,,,US,Michigan,Detroit,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-29 19:25:22,25-34,Computing or Tech,Technical writer,,116000.0,110000.0,USD,,Bonus >= 15% of salary each year. Other additional income comes from stock grants.,US,Washington,Seattle,5-7 years,5-7 years,College degree,Woman,White
+2021-04-29 19:45:41,35-44,Computing or Tech,Senior Program Manager,,170000.0,,USD,,Plus equity,US,Pennsylvania,Pittsburgh,11 - 20 years,5-7 years,"Professional degree (MD, JD, etc.)",Woman,White
+2021-04-29 19:54:20,35-44,Computing or Tech,Customer Support ,Technical SAAS support,76000.0,5000.0,USD,,,US,Washington,Spokane,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-04-29 19:54:29,25-34,Computing or Tech,Senior Analyst,Customer Service Team,55000.0,2000.0,USD,,salaried + bonus (bonus after taxes),US,Massachusetts,Remotely,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-29 19:57:18,25-34,Computing or Tech,Software Engineer ,,350000.0,20000.0,USD,,,US,California,SF Bay Area,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-04-29 20:09:51,45-54,Computing or Tech,User experience designer,,180000.0,0.0,USD,,There are also stock grants that vest over time,US,California,Mountain View California,21 - 30 years,21 - 30 years,Master's degree,,White
+2021-04-29 20:12:31,25-34,Computing or Tech,Director of Software,,170000.0,30000.0,USD,,,US,Massachusetts,Boston,5-7 years,5-7 years,Master's degree,Woman,White
+2021-04-29 20:14:24,45-54,Computing or Tech,Support Engineer,,75000.0,,USD,,,US,Georgia,Atlanta,31 - 40 years,21 - 30 years,Some college,Woman,White
+2021-04-29 20:25:02,25-34,Computing or Tech,Senior Security Engineer,Software Security,196000.0,,USD,,,US,California,San Francisco,8 - 10 years,8 - 10 years,High School,Man,White
+2021-04-29 20:25:39,35-44,Computing or Tech,Principal software developer,,200000.0,0.0,USD,,,US,Massachusetts,boston,11 - 20 years,11 - 20 years,Master's degree,Woman,"Hispanic, Latino, or Spanish origin"
+2021-04-29 20:28:26,35-44,Computing or Tech,Software Architect,,186987.0,37397.0,USD,,,US,California,Irvine,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-04-29 20:32:15,25-34,Computing or Tech,Software Developer,,158400.0,,USD,,,US,Massachusetts,Cambridge,2 - 4 years,2 - 4 years,Master's degree,Woman,Asian or Asian American
+2021-04-29 20:32:28,35-44,Computing or Tech,Staff Software Engineer,,105000.0,5500.0,USD,,,US,Virginia,Waynesboro,21 - 30 years,5-7 years,Master's degree,Man,White
+2021-04-29 20:35:07,25-34,Computing or Tech,Research Scientist 3,,133000.0,60000.0,USD,,Comp includes bonus & RSU before tax. This varies annually.,US,California,San Francisco,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-04-29 20:36:12,35-44,Computing or Tech,Penetration Tester,Ethical Hacker,106000.0,4000.0,USD,,,US,Virginia,Richmond,21 - 30 years,8 - 10 years,Some college,Man,White
+2021-04-29 20:47:51,35-44,Computing or Tech,Senior Manager,,93000.0,6000.0,USD,,,US,Georgia,Atlanta,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-04-29 20:49:40,55-64,Computing or Tech,Senior Software Engineer,Mobile iOS developer ,172000.0,15000.0,USD,,,US,New York,New York,31 - 40 years,8 - 10 years,Master's degree,Man,White
+2021-04-29 21:01:53,35-44,Computing or Tech,Senior User Experience (UX) Designer,,155000.0,12000.0,USD,,,United States ,Texas,Austin,11 - 20 years,11 - 20 years,Master's degree,Woman,"Hispanic, Latino, or Spanish origin"
+2021-04-29 21:04:55,35-44,Computing or Tech,Senior Software Engineer,,135000.0,0.0,USD,,,US,New York,New York City,11 - 20 years,5-7 years,College degree,Man,White
+2021-04-29 21:05:12,25-34,Computing or Tech,Senior software developer,,150000.0,40000.0,USD,,Bonus + RSU,USA ,Michigan,Novi,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-04-29 21:13:48,25-34,Computing or Tech,Engineering Manager,,190000.0,141000.0,USD,,"190k base, 112.5k RSUs, 15% target bonus",US,New York,Brooklyn,11 - 20 years,11 - 20 years,College degree,Man,Asian or Asian American
+2021-04-29 21:22:41,18-24,Computing or Tech,Product Designer,,140000.0,21000.0,USD,,,US,Massachusetts,Remote,2 - 4 years,2 - 4 years,Master's degree,Woman,Asian or Asian American
+2021-04-29 21:31:28,35-44,Computing or Tech,Senior software engineer,,156000.0,0.0,USD,,,US,California,San Jose,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-29 21:33:34,18-24,Computing or Tech,Brand Asset Manager,,40000.0,,USD,,,US,Georgia,Atlanta,2 - 4 years,2 - 4 years,Master's degree,Woman,Black or African American
+2021-04-29 21:40:23,25-34,Computing or Tech,Software Engineer,,261000.0,40000.0,USD,,,US,New York,New York City,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-04-29 21:40:27,25-34,Computing or Tech,Technical Writer,,95000.0,1200.0,USD,,,US,Colorado,Denver - remote,5-7 years,2 - 4 years,College degree,Woman,White
+2021-04-29 21:43:53,55-64,Computing or Tech,Senior Technical Writer,,112000.0,10000.0,USD,,,US,Massachusetts,Boston,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-04-29 21:45:35,35-44,Computing or Tech,Product Manager,,112000.0,18000.0,USD,,,US,Texas,Austin,11 - 20 years,2 - 4 years,College degree,Man,Asian or Asian American
+2021-04-29 21:47:58,35-44,Computing or Tech,VP Innovation,Innovation and Product Development ,200000.0,20000.0,USD,,,US,Missouri,St Loui,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-04-29 21:48:40,45-54,Computing or Tech,Software Application Development Advisor,It is the senior most technical title at my company,140000.0,10000.0,USD,,,US,Pennsylvania,Pittsburgh,21 - 30 years,21 - 30 years,Master's degree,Woman,White
+2021-04-29 21:59:34,18-24,Computing or Tech,Technology developer,,67500.0,10000.0,USD,,,United states,New Jersey,Jersey city,2 - 4 years,1 year or less,College degree,Woman,Black or African American
+2021-04-29 21:59:40,25-34,Computing or Tech,Customer Success Manager,,87000.0,8700.0,USD,,"Fully paid health insurance & HSA, about $1500 annually for misc.  ""perks"", fully remote",US,New York,NYC,5-7 years,5-7 years,College degree,Woman,"Hispanic, Latino, or Spanish origin"
+2021-04-29 22:03:39,25-34,Computing or Tech,Software Engineer,,185000.0,112000.0,USD,,,US,New York,"New York, NY",8 - 10 years,5-7 years,Master's degree,Woman,Asian or Asian American
+2021-04-29 22:09:03,35-44,Computing or Tech,Application Analyst,Epic Consultant,250000.0,0.0,USD,,Independent Contractor - pay own taxes,US,Wisconsin,Madison,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-29 22:10:48,25-34,Computing or Tech,Senior systems consultant,,140000.0,0.0,USD,,,US,Florida,Fort Lauderdale,5-7 years,2 - 4 years,College degree,Woman,White
+2021-04-29 22:13:29,35-44,Computing or Tech,Business analyst,Gathers requirements,112000.0,0.0,USD,,I work for a government agency.,US,Washington,Seattle,11 - 20 years,11 - 20 years,Master's degree,Man,Black or African American
+2021-04-29 22:15:11,35-44,Computing or Tech,Software Engineer,,115000.0,5750.0,USD,,,United States of America ,Washington,Seattle,21 - 30 years,5-7 years,College degree,Woman,White
+2021-04-29 22:17:19,45-54,Computing or Tech,Senior Staff Site Reliability Engineer ,,237000.0,0.0,USD,,,US,Pennsylvania,Pittsburgh,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-04-29 22:17:32,25-34,Computing or Tech,Product Manager 2,,135000.0,15000.0,USD,,,US,Washington,Redmond,5-7 years,2 - 4 years,College degree,Woman,White
+2021-04-29 22:43:33,25-34,Computing or Tech,Business Applications Delivery Manager,,119161.0,6000.0,USD,,,US,Virginia,McLean,5-7 years,5-7 years,College degree,Woman,"Asian or Asian American, White"
+2021-04-29 22:49:16,25-34,Computing or Tech,Computer programmer,,170000.0,0.0,USD,,,US,New York,New York City,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-29 22:59:15,25-34,Computing or Tech,Senior Program Manager,,120000.0,20000.0,USD,,,US,New York,New York,8 - 10 years,5-7 years,Master's degree,Woman,Asian or Asian American
+2021-04-29 23:01:04,25-34,Computing or Tech,Operations Analyst,,69000.0,0.0,USD,,,US,Massachusetts,Boston,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-04-29 23:10:25,25-34,Computing or Tech,"Sr. Manager, Customer Success",,207600.0,,USD,,,US,California,San Francisco,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-04-29 23:14:06,18-24,Computing or Tech,Software Engineer,,141750.0,,USD,,,US,California,San Mateo,1 year or less,1 year or less,College degree,Woman,White
+2021-04-29 23:26:50,35-44,Computing or Tech,Data warehouse operations analyst ,,70000.0,0.0,USD,,,US,Virginia,"Fairfax, va",11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-29 23:30:07,35-44,Computing or Tech,Software developer ,,74860.0,0.0,USD,,,US,Idaho,Boise ,11 - 20 years,11 - 20 years,College degree,Non-binary,White
+2021-04-29 23:50:46,45-54,Computing or Tech,Data Strategy & Analytics Consultant,,119000.0,0.0,USD,,,US,Washington,Seattle,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-04-29 23:57:07,18-24,Computing or Tech,Solution Support Analyst,,45000.0,,USD,,,US,Missouri,Springfield,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-04-29 23:57:22,25-34,Computing or Tech,CEO,,120000.0,,USD,,,US,California,San Francisco,2 - 4 years,2 - 4 years,Master's degree,Woman,White
+2021-04-29 23:59:47,35-44,Computing or Tech,Senior developer,,90000.0,,USD,,,US,Wisconsin,Madison,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-30 00:19:43,35-44,Computing or Tech,Senior Software Engineer,,185000.0,60000.0,USD,,,US,Illinois,Chicago,11 - 20 years,8 - 10 years,Some college,Woman,White
+2021-04-30 00:29:20,35-44,Computing or Tech,Senior Software Engineer,,150000.0,15000.0,USD,,,US,Oregon,Portland,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-30 00:32:34,25-34,Computing or Tech,Senior product manager,,300000.0,,USD,,,US,Washington,Seattle,5-7 years,5-7 years,College degree,Woman,White
+2021-04-30 00:42:19,25-34,Computing or Tech,Senior Software Engineer,,115000.0,,USD,,,US,Oregon,Portland,11 - 20 years,11 - 20 years,Some college,Woman,White
+2021-04-30 00:47:55,18-24,Computing or Tech,Software Engineer,,135000.0,88000.0,USD,,,US,New York,New York City,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-04-30 00:55:40,35-44,Computing or Tech,"Senior Director, Data Engineering",,220000.0,0.0,USD,,,US,Massachusetts,Cambridge,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-04-30 01:31:13,25-34,Computing or Tech,Product Strategy and Marketing Manager,,180000.0,63800.0,USD,,,US,California,San Francisco,5-7 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-04-30 01:32:45,35-44,Computing or Tech,Principal Software Engineer,,175000.0,18000.0,USD,,,US,Massachusetts,Boston,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-04-30 02:06:05,25-34,Computing or Tech,Senior Data Scientist,,154000.0,,USD,,,US,California,SF,5-7 years,5-7 years,College degree,Woman,White
+2021-04-30 02:06:07,45-54,Computing or Tech,"Senior Manager, Engineering ",,230000.0,46000.0,USD,,,US,Oregon,Portland,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-04-30 02:37:28,25-34,Computing or Tech,Director of Customer Experience,"I'm the head of sales, support and customer success at a small tech company.",120000.0,1000.0,USD,,,US,New Hampshire,Remote job,5-7 years,5-7 years,College degree,Woman,White
+2021-04-30 03:07:59,45-54,Computing or Tech,Senior Software Engineer,,144000.0,0.0,USD,,,US,Colorado,Boulder,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-04-30 03:12:18,35-44,Computing or Tech,Senior Software Engineer,,145000.0,22000.0,USD,,,US,Oregon,Portland,11 - 20 years,5-7 years,Some college,Man,White
+2021-04-30 03:12:37,25-34,Computing or Tech,Lead Software Engineer,,159000.0,23850.0,USD,,,US,Washington,Seattle,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-04-30 03:12:47,35-44,Computing or Tech,Information Security Systems Specialist,,174000.0,6000.0,USD,,,US,California,San Jose,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-04-30 03:41:06,35-44,Computing or Tech,Customer Success Manager,,116000.0,34000.0,USD,,,US,New York,NYC,5-7 years,2 - 4 years,Master's degree,Woman,Asian or Asian American
+2021-04-30 03:50:44,25-34,Computing or Tech,Technical Program Manager  ,,220000.0,200000.0,USD,,Most additional company is RSUs ,US,California,Menlo Park,5-7 years,5-7 years,College degree,Woman,White
+2021-04-30 04:11:19,35-44,Computing or Tech,Director of engineering,,205000.0,15000.0,USD,,,US,California,Los Angeles,11 - 20 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-04-30 04:58:11,35-44,Computing or Tech,HR Manager,,75000.0,6000.0,USD,,,US,Ohio,Columbus,11 - 20 years,5-7 years,College degree,Woman,Another option not listed here or prefer not to answer
+2021-04-30 05:00:56,45-54,Computing or Tech,Manager,,135000.0,,USD,,,Japan,,Tokyo,21 - 30 years,11 - 20 years,PhD,Woman,White
+2021-04-30 05:06:30,45-54,Computing or Tech,Application Support Technician II,We're tier 3 support for medical billing software,65000.0,2500.0,USD,,,US,Indiana,Indianapolis,21 - 30 years,8 - 10 years,Some college,Woman,White
+2021-04-30 07:09:58,55-64,Computing or Tech,Senior Programmer,,95000.0,,USD,,,US,Pennsylvania,Harrisburg,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-04-30 07:11:10,25-34,Computing or Tech,Project Manager,,97000.0,0.0,USD,,,US,Massachusetts,Boston,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-04-30 07:30:55,25-34,Computing or Tech,Product Marketing Manager,,126000.0,8000.0,USD,,,US,Massachusetts,Natick,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-04-30 07:35:32,25-34,Computing or Tech,Senior software engineer,,150000.0,20000.0,USD,,,US,Massachusetts,Cambridge ,5-7 years,5-7 years,College degree,Woman,White
+2021-04-30 07:38:38,25-34,Computing or Tech,QA Engineer II,,95000.0,0.0,USD,,,US,Massachusetts,Boston,5-7 years,1 year or less,College degree,Non-binary,White
+2021-04-30 07:39:35,25-34,Computing or Tech,Software Engineer II,,145000.0,,USD,,,US,New York,New York City,5-7 years,5-7 years,College degree,Man,Another option not listed here or prefer not to answer
+2021-04-30 07:56:52,25-34,Computing or Tech,Design Manager,,158000.0,,USD,,,US,New York,Brooklyn,5-7 years,5-7 years,College degree,Woman,White
+2021-04-30 08:06:19,25-34,Computing or Tech,VP of Business Development,,200000.0,,USD,,,US,New York,New York,5-7 years,5-7 years,College degree,Man,White
+2021-04-30 08:33:09,35-44,Computing or Tech,Customer Support,I’ma one person team for a small company,75000.0,1000.0,USD,,,US,Texas,O,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-30 08:39:59,35-44,Computing or Tech,Lead Engineer,,186000.0,15000.0,USD,,,US,New York,New York,11 - 20 years,11 - 20 years,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-04-30 09:22:33,35-44,Computing or Tech,CEO,,75000.0,5000.0,USD,,,Poland,,Krakow,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-04-30 09:54:39,45-54,Computing or Tech,Director of Software Engineering ,,262650.0,65662.0,USD,,"This income doesn’t include stock RSU vesting this year, which are substantial at about $1,300,000 USD",US,California,San Francisco,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-04-30 10:05:17,25-34,Computing or Tech,Analyst Manager,"It's more accurately: ""Customer Support Analyst Team Manager""",71000.0,500.0,USD,,,US,New Hampshire,Conway,8 - 10 years,5-7 years,Master's degree,Man,White
+2021-04-30 10:07:23,45-54,Computing or Tech,data scientist,,168000.0,50000.0,USD,,,US,Washington,Seattle,21 - 30 years,21 - 30 years,"Professional degree (MD, JD, etc.)",Man,White
+2021-04-30 10:07:59,25-34,Computing or Tech,Data Scientist,,105000.0,5000.0,USD,,,US,District of Columbia,Washington DC,5-7 years,2 - 4 years,Master's degree,Man,White
+2021-04-30 10:12:24,25-34,Computing or Tech,Senior QA Engineer,,101000.0,30000.0,USD,,,US,,Austin,5-7 years,5-7 years,,Woman,
+2021-04-30 10:27:16,35-44,Computing or Tech,Engineering Manager,,240000.0,48000.0,USD,,Equity compensation roughly doubles salary,US,California,Silicon Valley,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-04-30 10:56:16,35-44,Computing or Tech,Data Engineer,,115000.0,2000.0,USD,,,US,Pennsylvania,Pittsburgh,11 - 20 years,11 - 20 years,Some college,Woman,White
+2021-04-30 11:00:32,35-44,Computing or Tech,Director of Technical Services,I run the implementation and professional services engineering team at a B2B software company,100000.0,50000.0,USD,,The non-salary bonus is tied to overall company revenue and will likely not pay out the full amount even in a good year,US,California,Los Angeles (but my job is remote),11 - 20 years,5-7 years,"Professional degree (MD, JD, etc.)",Man,White
+2021-04-30 11:12:12,35-44,Computing or Tech,Executive Assistant to CEO,,130000.0,15000.0,USD,,,US,California,San Francisco,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-30 11:39:56,35-44,Computing or Tech,Head of Solutions Engineering ,,138000.0,138000.0,USD,,"Half my pay is “commission” with a $138k target, it could be above or below, but in practice it’s pretty close.",US,California,Santa Rosa,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-30 11:41:52,25-34,Computing or Tech,Sys admin,,62000.0,0.0,USD,,,U.S.A,Maryland,Silver Spriung,11 - 20 years,5-7 years,College degree,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-04-30 11:58:06,35-44,Computing or Tech,Software Engineer,,249000.0,60000.0,USD,,,US,New York,New York City,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-04-30 12:10:32,25-34,Computing or Tech,Customer Engineer,Hybrid Software Engineer and Customer Implementations (integrating our product into customers code),117000.0,2000.0,USD,,,US,Indiana,New Albany,11 - 20 years,2 - 4 years,Some college,Man,White
+2021-04-30 12:11:56,35-44,Computing or Tech,Senior Product Support Manager,,133000.0,84200.0,USD,,,US,Colorado,Boulder,11 - 20 years,11 - 20 years,Some college,Woman,White
+2021-04-30 12:21:40,35-44,Computing or Tech,Senior Technical Project Manager,,127000.0,4000.0,USD,,,US,New York,New York City,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-30 12:36:50,25-34,Computing or Tech,Senior Data scientist,,100000.0,8000.0,USD,,,United states,Nebraska,Omaha,5-7 years,5-7 years,Master's degree,Man,White
+2021-04-30 12:54:50,35-44,Computing or Tech,Mapping Lead,Team lead for GIS specialists,76000.0,8000.0,USD,,,US,Massachusetts,Boston,8 - 10 years,5-7 years,College degree,Non-binary,White
+2021-04-30 12:56:38,35-44,Computing or Tech,Lead Data Scientist,,187000.0,5000.0,USD,,,US,California,West Hollywood,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-04-30 13:15:04,45-54,Computing or Tech,Sr Software Architect,,150000.0,0.0,USD,,,US,Texas,Austin,21 - 30 years,21 - 30 years,Some college,Non-binary,White
+2021-04-30 13:15:12,25-34,Computing or Tech,Web developer ,,60000.0,,USD,,,United States ,New York,New York City ,2 - 4 years,1 year or less,College degree,Woman,White
+2021-04-30 13:20:46,25-34,Computing or Tech,Senior Site Reliability Engineer,,131200.0,,USD,,"This is a tech job at a nonprofit: salary only, no bonus or stock.",US,Florida,Tallahassee,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-04-30 13:23:47,35-44,Computing or Tech,End User Support 2,Higher Ed,52124.0,0.0,USD,,,US,Minnesota,Duluth,5-7 years,5-7 years,Some college,Man,White
+2021-04-30 13:25:51,35-44,Computing or Tech,Security Engineering Manager,,185000.0,215000.0,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-30 13:32:14,25-34,Computing or Tech,Software Engineer,,112200.0,,USD,,,US,North Carolina,RTP,2 - 4 years,2 - 4 years,College degree,Non-binary,White
+2021-04-30 13:46:22,25-34,Computing or Tech,Customer Success Manager,,83000.0,5700.0,USD,,,US,Massachusetts,Boston,5-7 years,5-7 years,College degree,Man,White
+2021-04-30 13:57:54,25-34,Computing or Tech,Product Manager,,135000.0,,USD,,,US,California,Oakland,2 - 4 years,2 - 4 years,College degree,Woman,Black or African American
+2021-04-30 14:07:55,35-44,Computing or Tech,Education Systems Development Specialist,Project manager in Education Tech,60000.0,0.0,USD,,,US,New York,Buffalo,11 - 20 years,11 - 20 years,PhD,Woman,White
+2021-04-30 14:08:11,55-64,Computing or Tech,Contract Administrator,,61000.0,0.0,USD,,,US,Massachusetts,Milford,31 - 40 years,11 - 20 years,Some college,Woman,White
+2021-04-30 14:15:30,35-44,Computing or Tech,Senior Android Developer,,144000.0,16000.0,USD,,,US,,Remote,11 - 20 years,5-7 years,,Man,White
+2021-04-30 14:55:55,35-44,Computing or Tech,Solutions Architect,,133000.0,18000.0,USD,,,US,Colorado,Denver,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-04-30 14:56:20,25-34,Computing or Tech,IT Consultant,"Municipal IT, police, water dept., etc. ",55000.0,5000.0,USD,,,US,Illinois,Chicago Suburbs,5-7 years,5-7 years,High School,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-04-30 15:00:56,25-34,Computing or Tech,Product Manager,,117000.0,4000.0,USD,,,US,Colorado,Denver,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-04-30 15:01:48,25-34,Computing or Tech,Project Manager,Scrum master/Agile project management in software development,920000.0,,USD,,,US,Wisconsin,Madison,8 - 10 years,2 - 4 years,College degree,Man,White
+2021-04-30 15:17:36,35-44,Computing or Tech,Web applications developer,,83000.0,0.0,USD,,"In academe, not in industry.",US,Massachusetts,Cambridge,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-04-30 15:19:21,35-44,Computing or Tech,IT Support Analyst,,54000.0,5000.0,USD,,,US,Michigan,Grand Rapids,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-30 15:24:35,25-34,Computing or Tech,Sr. Customer Success Manager,,80500.0,16000.0,USD,,,US,Colorado,Broomfield,8 - 10 years,5-7 years,Some college,Man,White
+2021-04-30 15:32:11,25-34,Computing or Tech,Senior Software Engineer,,170000.0,,USD,,,US,Texas,Austin,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-30 15:43:43,55-64,Computing or Tech,Senior Software Engineer,,230000.0,0.0,USD,,,US,Connecticut,Norwalk,31 - 40 years,31 - 40 years,College degree,Man,White
+2021-04-30 15:51:41,18-24,Computing or Tech,Technical Solutions Engineer,,92000.0,5000.0,USD,,,US,Wisconsin,Madison,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-04-30 16:07:25,25-34,Computing or Tech,Content Designer,,164000.0,35000.0,USD,,,US,California,Menlo Park,8 - 10 years,5-7 years,Master's degree,Woman,White
+2021-04-30 16:08:47,35-44,Computing or Tech,Software Engineer,,175000.0,90000.0,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-04-30 16:12:57,55-64,Computing or Tech,Master writer,,109000.0,3500.0,USD,,,US,Pennsylvania,Philadelphia,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-04-30 16:14:01,25-34,Computing or Tech,Director,,120000.0,,USD,,,United States ,Pennsylvania,Philadelphia ,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-04-30 16:18:54,45-54,Computing or Tech,Sr asst vp,IT Consulting,220000.0,12000.0,USD,,,US,Virginia,D.C.,31 - 40 years,31 - 40 years,College degree,Woman,White
+2021-04-30 16:31:31,25-34,Computing or Tech,ETL Administrator ,,109200.0,0.0,USD,,,US,Ohio,Columbus ,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-30 16:32:37,45-54,Computing or Tech,Help Desk Analyst Level III,Escalation desk,52000.0,12000.0,USD,,,US,Pennsylvania,Pittsburgh ,21 - 30 years,21 - 30 years,Some college,Man,Middle Eastern or Northern African
+2021-04-30 16:34:37,35-44,Computing or Tech,Consultant,Mortgage Technology Consultant,115000.0,40000.0,USD,,,US,Colorado,Remote,11 - 20 years,2 - 4 years,High School,Woman,White
+2021-04-30 16:35:02,35-44,Computing or Tech,Senior Business Analyst,,116000.0,3500.0,USD,,,US,Massachusetts,Remote near Worcester,21 - 30 years,11 - 20 years,Master's degree,Woman,White
+2021-04-30 16:38:11,25-34,Computing or Tech,Software Engineer,,172500.0,,USD,,"I also have equity grants currently valued at $280000 vesting over four years.  My company is private (so the equity is currently worth nothing in real life), but may soon become public (in which case this could become actual money valued at more or less than the current estimate).",US,New York,New York City,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-04-30 16:42:43,35-44,Computing or Tech,Sr. Network Engineer ,,87000.0,0.0,USD,,,US,Oregon,Portland,21 - 30 years,21 - 30 years,Some college,Man,"Black or African American, White"
+2021-04-30 16:43:30,25-34,Computing or Tech,Senior Software Engineer,,183000.0,,USD,,,US,New York,New York City,8 - 10 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-04-30 16:43:48,35-44,Computing or Tech,Advanced Systems Administrator,,140000.0,0.0,USD,,,US,Massachusetts,Waltham,11 - 20 years,11 - 20 years,College degree,Man,Another option not listed here or prefer not to answer
+2021-04-30 16:43:59,35-44,Computing or Tech,Technical Data Msnager,Change Analyst,100000.0,7500.0,USD,,,US,California,Mountain View,5-7 years,1 year or less,College degree,Woman,White
+2021-04-30 16:44:18,55-64,Computing or Tech,Sr. Programmer Analyst,,107000.0,15000.0,USD,,,US,Florida,Fort Lauderdale,31 - 40 years,21 - 30 years,Some college,Woman,White
+2021-04-30 16:46:15,35-44,Computing or Tech,Senior Engineering Manager,,235000.0,170000.0,USD,,,US,Michigan,Full remote position,8 - 10 years,5-7 years,College degree,Man,White
+2021-04-30 16:46:45,35-44,Computing or Tech,Producer,,140000.0,35000.0,USD,,,United States ,New York,New York ,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-30 16:49:58,25-34,Computing or Tech,Software Engineer II,,90000.0,0.0,USD,,,US,Utah,Logan,5-7 years,8 - 10 years,Master's degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-04-30 16:50:09,25-34,Computing or Tech,Senior Software Engineer (iOS),,198000.0,0.0,USD,,,US,New York,NYC,8 - 10 years,8 - 10 years,College degree,Woman,"Black or African American, White"
+2021-04-30 16:51:14,18-24,Computing or Tech,Data Scientist,,136000.0,,USD,,Excluding stock,US,New York,New York,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-04-30 16:52:07,35-44,Computing or Tech,Analyst,,78000.0,0.0,USD,,,US,Michigan,Detroit ,11 - 20 years,1 year or less,Master's degree,Woman,White
+2021-04-30 16:53:31,25-34,Computing or Tech,Field Services Technician ,,49920.0,10000.0,USD,,Additional pay is overtime. No bonuses.,US,Massachusetts,Springfield ,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-04-30 16:56:20,18-24,Computing or Tech,Rotational Analyst,,85000.0,8000.0,USD,,"New hires and promotions are also compensated with stock units. For new hires, this is valued at about $20,000 once fully vested ",USA ,New York,New York City,2 - 4 years,1 year or less,College degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-04-30 16:57:44,35-44,Computing or Tech,Office and facilities manager,,61000.0,,USD,,,United states,Virginia,Charlottesville ,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-30 16:59:32,25-34,Computing or Tech,Product Manager,,105000.0,0.0,USD,,,US,Colorado,Denver,5-7 years,1 year or less,Master's degree,Woman,White
+2021-04-30 17:01:27,25-34,Computing or Tech,Product Manager,,130000.0,0.0,USD,,,US,California,Palo Alto,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-04-30 17:01:41,25-34,Computing or Tech,Software Developer ,,66000.0,0.0,USD,,,US,Ohio,Cleveland ,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-04-30 17:06:32,25-34,Computing or Tech,Incident Response Consultant,,136500.0,44000.0,USD,,Partially RSUs,US,Georgia,Atlanta,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-04-30 17:09:30,35-44,Computing or Tech,Engineering Manager,,223500.0,,USD,,,US,New York,Manhattan,21 - 30 years,21 - 30 years,High School,Man,White
+2021-04-30 17:11:30,35-44,Computing or Tech,Business Analyst ,,72250.0,2200.0,USD,,,US,Texas,Dallas,11 - 20 years,2 - 4 years,College degree,Woman,White
+2021-04-30 17:16:21,35-44,Computing or Tech,Manager,,101900.0,16000.0,USD,,,US,Virginia,Arlington,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-30 17:21:52,25-34,Computing or Tech,Product Manager,,110000.0,,USD,,Have stock options but company is not yet public so value can’t be pinned down ,US,Maine,Portland,5-7 years,5-7 years,College degree,Woman,White
+2021-04-30 17:23:30,35-44,Computing or Tech,Digital Archivist,User experience researcher and developer,60700.0,0.0,USD,,,US,New York,"Tarrytown, NY",11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-04-30 17:24:43,45-54,Computing or Tech,Business Analyst,Senior Technical Lead,141000.0,,USD,,,US,California,Irvine,21 - 30 years,21 - 30 years,Some college,Woman,"Hispanic, Latino, or Spanish origin, Native American or Alaska Native"
+2021-04-30 17:28:15,35-44,Computing or Tech,Program Manager,Corporate Responsibility ,160000.0,52000.0,USD,,,US,California,Santa Clara,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-04-30 17:30:34,25-34,Computing or Tech,Project Manager,,50000.0,8000.0,USD,,,US,Texas,Frisco,8 - 10 years,1 year or less,College degree,Woman,White
+2021-04-30 17:33:49,25-34,Computing or Tech,Software Engineer,,130200.0,20000.0,USD,,,US,Georgia,Atlanta,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-04-30 17:39:38,25-34,Computing or Tech,Head of Customer Success,,73000.0,5000.0,USD,,,US,Washington,Seattle,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-04-30 17:41:14,18-24,Computing or Tech,Software Developer,,75000.0,,USD,,,US,North Carolina,Raleigh,2 - 4 years,1 year or less,College degree,Man,White
+2021-04-30 17:44:56,35-44,Computing or Tech,Senior director data management ,,165000.0,35000.0,USD,,,United states,Massachusetts,Boston,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-04-30 17:54:02,25-34,Computing or Tech,Developer,,131000.0,,USD,,,US,New York,New York City,5-7 years,2 - 4 years,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-04-30 17:55:30,35-44,Computing or Tech,Content Strategist,,97000.0,70000.0,USD,,,USA ,Washington,Seattle ,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-30 18:04:04,45-54,Computing or Tech,AVP portfolio manager,Manage multiple applications fir a Fortune 500 company ,169000.0,30000.0,USD,,,US,Delaware,Wilmington ,31 - 40 years,31 - 40 years,College degree,Woman,White
+2021-04-30 18:04:25,25-34,Computing or Tech,IT Project Manager ,,111500.0,0.0,USD,,,US,Pennsylvania,Pittsburgh ,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-04-30 18:04:30,25-34,Computing or Tech,Sr. Risk Specialist - Cybersecurity ,,95000.0,10000.0,USD,,,US,Arkansas,Rogers,5-7 years,2 - 4 years,"Professional degree (MD, JD, etc.)",Woman,White
+2021-04-30 18:20:12,25-34,Computing or Tech,Junior Delivery Lead,"Similar to a project manager, product owner, and scrum master",50000.0,,USD,,,United Stares,Michigan,Detroit,5-7 years,2 - 4 years,College degree,Woman,White
+2021-04-30 18:28:56,18-24,Computing or Tech,Jr Frontend Engineer,Frontend Web Developer,58000.0,0.0,USD,,,US,Illinois,Chicago,5-7 years,1 year or less,College degree,Woman,White
+2021-04-30 18:30:40,35-44,Computing or Tech,"Manager, Technical Support",,70000.0,7000.0,USD,,,US,Texas,Austin,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-30 18:36:19,45-54,Computing or Tech,Product Owner,Product Owner as defined by the Scaled Agile Framework 100,85000.0,15000.0,USD,,,US,Michigan,Detroit,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-04-30 18:36:55,25-34,Computing or Tech,Business operations manager ,,72500.0,0.0,USD,,,US,New York,New York ,2 - 4 years,2 - 4 years,Master's degree,Woman,White
+2021-04-30 18:42:13,25-34,Computing or Tech,Security Compliance Lead,,100000.0,,USD,,,United States ,Texas,Austin,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-30 18:42:59,35-44,Computing or Tech,Senior Sales Operations Specialist,,90000.0,10000.0,USD,,,US,Washington,Seattle,21 - 30 years,11 - 20 years,High School,Woman,White
+2021-04-30 18:53:57,55-64,Computing or Tech,Implementation Specialist ,I implement HRIS software ,62000.0,5000.0,USD,,Bonus if company makes sales goals,US,Georgia,Augusta ,31 - 40 years,8 - 10 years,Some college,Woman,White
+2021-04-30 18:55:40,35-44,Computing or Tech,Corporate Trainer,Client training/implemention for a medical software company,53000.0,1800.0,USD,,,US,Georgia,Duluth,11 - 20 years,2 - 4 years,Master's degree,Woman,White
+2021-04-30 19:04:55,45-54,Computing or Tech,Senior software architect,,126000.0,5000.0,USD,,,US,Oregon,Portland,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-04-30 19:12:26,35-44,Computing or Tech,Account Executive,,140000.0,110000.0,USD,,,US,Texas,Plano,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-04-30 19:12:30,25-34,Computing or Tech,"Director, product management ",,240000.0,170000.0,USD,,,US,California,San Francisco,11 - 20 years,5-7 years,College degree,Man,Asian or Asian American
+2021-04-30 19:12:46,35-44,Computing or Tech,Program Manager,,145000.0,5000.0,USD,,,US,Arizona,Sierra Vista,21 - 30 years,11 - 20 years,Master's degree,Woman,White
+2021-04-30 19:15:28,45-54,Computing or Tech,Support Analyst,I support my company's software,46000.0,4000.0,USD,,,US,Missouri,Wentzville but I am remote,5-7 years,5-7 years,Some college,Woman,White
+2021-04-30 19:18:27,25-34,Computing or Tech,Senior analyst,,97000.0,14000.0,USD,,,US,Colorado,Denver,5-7 years,2 - 4 years,Master's degree,Woman,Asian or Asian American
+2021-04-30 19:24:15,25-34,Computing or Tech,Sr. Information Security Officer,,112550.0,,USD,,I also get bonuses but not regularly / regular amounts. ,US,Connecticut,Hartford,8 - 10 years,5-7 years,Master's degree,Woman,White
+2021-04-30 19:45:53,25-34,Computing or Tech,Test automation engineer ,,85000.0,0.0,USD,,,USA ,Missouri,Kansas city ,5-7 years,5-7 years,College degree,Man,White
+2021-04-30 19:48:19,25-34,Computing or Tech,Product manager,,110000.0,10000.0,USD,,,USA ,Pennsylvania,Philadelphia ,8 - 10 years,1 year or less,College degree,Woman,White
+2021-04-30 19:54:43,25-34,Computing or Tech,Implementation Manager,,110000.0,10000.0,USD,,"Bonuses may be higher or lower, 10k is a reasonable estimate ",US,Virginia,Reston,11 - 20 years,5-7 years,College degree,Woman,White
+2021-04-30 19:55:14,35-44,Computing or Tech,content analyst,part of the content editorial team but more analysis,62355.0,0.0,USD,,,US,Washington,Vancouver,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-04-30 19:56:20,35-44,Computing or Tech,Account Manager ,,150000.0,0.0,USD,,,United States ,Colorado,Denver,11 - 20 years,1 year or less,College degree,Woman,White
+2021-04-30 20:07:26,35-44,Computing or Tech,Senior User Experience Engineer,,116000.0,11000.0,USD,,,US,North Carolina,Raleigh,11 - 20 years,5-7 years,Master's degree,Man,White
+2021-04-30 20:13:56,55-64,Computing or Tech,Principal Software Engineer,,126000.0,,USD,,,US,Oregon,Portland ,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-04-30 20:15:19,35-44,Computing or Tech,Senior Director,,125000.0,20000.0,USD,,,US,District of Columbia,Washington,21 - 30 years,21 - 30 years,PhD,Woman,White
+2021-04-30 20:18:55,25-34,Computing or Tech,Software Engineer,,115000.0,4000.0,USD,,,US,Massachusetts,Boston,11 - 20 years,2 - 4 years,College degree,Non-binary,White
+2021-04-30 20:25:30,25-34,Computing or Tech,Director of Product,,180000.0,,USD,,,US,Georgia,Atlanta,8 - 10 years,8 - 10 years,Master's degree,Woman,White
+2021-04-30 20:28:58,35-44,Computing or Tech,Sr PHP Developer,,112000.0,7000.0,USD,,,UnitedStates,North Carolina,Concord ,11 - 20 years,5-7 years,Some college,Man,White
+2021-04-30 20:29:07,25-34,Computing or Tech,Implementation Operations Manager,,116000.0,11600.0,USD,,,US,Arizona,Apache Junction,11 - 20 years,2 - 4 years,College degree,Woman,White
+2021-04-30 21:23:39,25-34,Computing or Tech,Marketing Communications Specialist,,65000.0,,USD,,,US,Arizona,Scottsdale,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-04-30 21:24:47,35-44,Computing or Tech,Threat Intelligence Analyst,,100000.0,,USD,,,US,California,Irvine,11 - 20 years,5-7 years,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-04-30 21:29:04,45-54,Computing or Tech,Senior iOS Developer/Consultant ,,90000.0,4000.0,USD,,,United States ,Indiana,Indianapolis ,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-30 21:32:25,45-54,Computing or Tech,Project Manager,Software- Implementation ,80000.0,10000.0,USD,,,US,Oregon,Beaverton ,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-30 21:32:34,25-34,Computing or Tech,COO,,140000.0,0.0,USD,,,US,Nebraska,Lincoln,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-04-30 21:33:20,45-54,Computing or Tech,"Manager, Sales Operations",,105000.0,12000.0,USD,,,United States ,Indiana,Indianapolis ,21 - 30 years,11 - 20 years,College degree,Man,White
+2021-04-30 21:56:30,35-44,Computing or Tech,Analytics Manager,,135000.0,0.0,USD,,,US,California,Los Angeles,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-30 22:11:53,25-34,Computing or Tech,Statistical Programmer,,95000.0,6000.0,USD,,,US,Maine,Portland ,5-7 years,5-7 years,Master's degree,Woman,White
+2021-04-30 22:23:12,35-44,Computing or Tech,IT Analyst,Healthcare software,61000.0,3500.0,USD,,,US,Massachusetts,Foxborough ,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-04-30 22:30:09,25-34,Computing or Tech,Operations Specialist,,70000.0,5000.0,USD,,,US,Washington,Seattle,5-7 years,1 year or less,College degree,Woman,White
+2021-04-30 22:33:04,25-34,Computing or Tech,Sr Director,,230000.0,70000.0,USD,,,US,California,San Francisco Bay Area,11 - 20 years,11 - 20 years,PhD,Man,White
+2021-04-30 22:35:27,35-44,Computing or Tech,Business Application Expert,Salesforce Administrator,112000.0,12000.0,USD,,,US,North Carolina,Durham,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-30 22:47:23,55-64,Computing or Tech,"Director, Client Support ",,50000.0,,USD,,,US,Maine,Lewiston ,11 - 20 years,2 - 4 years,Some college,Woman,White
+2021-04-30 22:48:00,35-44,Computing or Tech,Learning Advisor,,138000.0,5000.0,USD,,,US,California,Sam Francisco,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-04-30 23:10:46,25-34,Computing or Tech,Sr UX Researcher,,150000.0,65000.0,USD,,Most of the additional money per year is stock options,US,California,Los Angeles,5-7 years,5-7 years,College degree,Woman,White
+2021-04-30 23:14:16,25-34,Computing or Tech,Senior Dat Scientist,,125000.0,55000.0,USD,,Extra comp is a combination of equity and bonuses,US,New York,New York City,5-7 years,2 - 4 years,College degree,Woman,Black or African American
+2021-04-30 23:37:53,18-24,Computing or Tech,IT Intern,,43680.0,0.0,USD,,The yearly salary given is what I would theoretically make if I was full time but I'm still in college so I'm part time during the semester. ,US,Nebraska,Omaha,5-7 years,1 year or less,Some college,Man,White
+2021-04-30 23:51:48,35-44,Computing or Tech,Business Analyst,,124800.0,0.0,USD,,,US,Washington,Bothell,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-04-30 23:55:40,45-54,Computing or Tech,Helpdesk Manager,Managing a small team (>5) of internal hardware & software support people,85000.0,5000.0,USD,,,US,Colorado,Denver,21 - 30 years,11 - 20 years,Master's degree,Man,White
+2021-05-01 00:45:03,35-44,Computing or Tech,Engineering manager,,185000.0,18500.0,USD,,,US,California,Los Angeles ,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-01 01:00:37,25-34,Computing or Tech,Product Manager,,70200.0,2500.0,USD,,,US,Texas,Houston,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-01 01:38:54,35-44,Computing or Tech,Director of Customer Marketing,,175000.0,28000.0,USD,,,US,California,San Francisco,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-01 01:45:17,35-44,Computing or Tech,Business Systems Analyst III,,954000.0,4000.0,USD,,,USA ,Ohio,Cleveland ,11 - 20 years,8 - 10 years,Some college,Woman,"Asian or Asian American, Native American or Alaska Native"
+2021-05-01 02:30:59,25-34,Computing or Tech,Software Engineer 2,,99000.0,4900.0,USD,,,US,Texas,Austin,5-7 years,5-7 years,College degree,Woman,White
+2021-05-01 04:54:19,18-24,Computing or Tech,Software Engineer,,155000.0,105000.0,USD,,,US,California,Mountain View,2 - 4 years,2 - 4 years,College degree,Man,Another option not listed here or prefer not to answer
+2021-05-01 06:57:25,35-44,Computing or Tech,Client Relationship Manger / Client Success Coach,,57000.0,0.0,USD,,,US,Nebraska,Omaha,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-05-01 07:51:46,35-44,Computing or Tech, Vendor Manager,,125000.0,25000.0,USD,,,US,New Jersey,Ridgefield Park,21 - 30 years,11 - 20 years,Master's degree,Woman,White
+2021-05-01 08:38:50,25-34,Computing or Tech,Incident manager,,164000.0,100000.0,USD,,,US,California,San Francisco,5-7 years,5-7 years,College degree,Woman,White
+2021-05-01 08:54:55,35-44,Computing or Tech,Project manager,,125000.0,,USD,,,United states,District of Columbia,Washington DC ,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-05-01 09:14:28,25-34,Computing or Tech,Software Developer,,220000.0,130000.0,USD,,,US,Wisconsin,Madison,5-7 years,5-7 years,Master's degree,Man,Asian or Asian American
+2021-05-01 09:37:16,35-44,Computing or Tech,Engineering Manager,,119000.0,10000.0,USD,,,US,Texas,Austin,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-01 09:54:06,35-44,Computing or Tech,Solution Consultant ,,117000.0,65000.0,USD,,,United States ,Oregon,Corvallis,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-05-01 10:56:57,35-44,Computing or Tech,Senior Developer,,165000.0,2000.0,USD,,,US,California,San Francisco,11 - 20 years,5-7 years,College degree,Woman,White
+2021-05-01 11:29:08,35-44,Computing or Tech,"Software Engineer, Security",,230000.0,,USD,,,US,California,San Francisco,11 - 20 years,8 - 10 years,PhD,Man,White
+2021-05-01 11:31:37,35-44,Computing or Tech,Director of Engineering,,210000.0,40000.0,USD,,,US,Minnesota,Minneapolis,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-01 11:48:25,25-34,Computing or Tech,Sr Executive Assistant,,120000.0,,USD,,I also receive stock options,US,California,San Francisco,5-7 years,5-7 years,College degree,Woman,White
+2021-05-01 12:23:30,25-34,Computing or Tech,Software engineer,,161000.0,0.0,USD,,,US,Missouri,St. Louis,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-01 12:41:28,35-44,Computing or Tech,Project Manager,,120000.0,40000.0,USD,,,US,California,San Francisco,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-01 13:03:36,25-34,Computing or Tech,Data visualization consultant,I work for a small consulting firm as a developer specializing in data analytics and reporting,108000.0,2000.0,USD,,I just got a raise from 85000 this month!,US,California,Lake Forest,8 - 10 years,5-7 years,Master's degree,Woman,White
+2021-05-01 13:12:28,35-44,Computing or Tech,Staff Software Engineer,“Staff” is the level after “senior engineer”,250000.0,30000.0,USD,,,US,New York,New York,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-01 13:44:38,35-44,Computing or Tech,senior software engineer,,155000.0,,USD,,,US,Maryland,silver spring,11 - 20 years,11 - 20 years,High School,Man,White
+2021-05-01 14:11:20,25-34,Computing or Tech,Software development manager,,160000.0,200000.0,USD,,Extra comp is stock,US,Virginia,Arlington,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-01 14:12:46,45-54,Computing or Tech,Senior software engineer ,Lead engineer ,154000.0,75000.0,USD,,,US,Washington,Seattle ,11 - 20 years,11 - 20 years,Master's degree,Man,Asian or Asian American
+2021-05-01 14:19:12,25-34,Computing or Tech,Software engineer,it’s one of these companies where seniority isn’t public information so everyone has the same title. would probably be a “senior infrastructure engineer” or similar if we had titles.,180000.0,135000.0,USD,,"Additional compensation is in RSUs, so it goes up and down with the stock price. I marked it at the value of the grant at the time it was issued.",US,California,San Francisco,11 - 20 years,8 - 10 years,Some college,Man,White
+2021-05-01 14:19:37,35-44,Computing or Tech,Software Engineer,,95000.0,,USD,,,US,Maryland,Baltimore,8 - 10 years,2 - 4 years,PhD,Man,White
+2021-05-01 14:26:04,25-34,Computing or Tech,Technical Program Manager,,170000.0,80000.0,USD,,Salary + Bonuses + Vesting RSUs,US,California,Mountain View,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-05-01 14:29:33,25-34,Computing or Tech,Data Scientist,,145000.0,14500.0,USD,,,US,New York,New York,2 - 4 years,2 - 4 years,Master's degree,Man,White
+2021-05-01 14:30:59,35-44,Computing or Tech,Privacy Engineer,Manager role under engineering ladder. ,201000.0,350000.0,USD,,Total compensation inclusive of ~1.5x stock growth over last few years. ,US,California,Sunnyvale,11 - 20 years,2 - 4 years,College degree,Man,"Asian or Asian American, White"
+2021-05-01 14:41:52,25-34,Computing or Tech,Platform Engineer,,145000.0,0.0,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-05-01 14:50:57,35-44,Computing or Tech,Senior DevOps Engineer,,200000.0,0.0,USD,,,US,Oregon,Ashland,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-05-01 14:59:38,35-44,Computing or Tech,software engineer,consultant,343200.0,,USD,,,Canada,,Montreal,11 - 20 years,8 - 10 years,College degree,Man,Asian or Asian American
+2021-05-01 15:03:15,35-44,Computing or Tech,Senior data engineer,,115000.0,15000.0,USD,,"I get $40000 of additional income from acquisition bonus and critical impact awards, which are paid annually for 4 years and are running out next year.",US,Pennsylvania,Pittsburgh,11 - 20 years,11 - 20 years,Master's degree,Woman,"Asian or Asian American, White"
+2021-05-01 15:36:44,25-34,Computing or Tech,Lead Developer,,165000.0,,USD,,,US,New York,New York,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-01 15:44:29,25-34,Computing or Tech,Project Manager,,60000.0,0.0,USD,,,US,Pennsylvania,Philadelphia,8 - 10 years,5-7 years,College degree,Woman,Another option not listed here or prefer not to answer
+2021-05-01 15:57:29,25-34,Computing or Tech,CTO,,160000.0,0.0,USD,,,US,New York,New York City,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-01 16:27:11,25-34,Computing or Tech,Product Manager,,140000.0,25000.0,USD,,,US,"New Jersey, New York",NYC,8 - 10 years,2 - 4 years,College degree,Man,White
+2021-05-01 16:40:30,25-34,Computing or Tech,PC support Tech 2,,58000.0,0.0,USD,,,United States of america,Washington,Seattle,5-7 years,5-7 years,High School,Man,White
+2021-05-01 16:47:47,35-44,Computing or Tech,Senior Software Engineer,,136000.0,8000.0,USD,,,US,North Carolina,Asheville,11 - 20 years,8 - 10 years,Master's degree,Man,White
+2021-05-01 17:13:12,45-54,Computing or Tech,Principal iOS Software Engineer,,225000.0,0.0,USD,,,US,Washington,Seattle,31 - 40 years,31 - 40 years,Some college,Man,White
+2021-05-01 17:16:49,35-44,Computing or Tech,UX Designer,,140000.0,40000.0,USD,,,US,Washington,Seattle,8 - 10 years,5-7 years,College degree,Man,White
+2021-05-01 17:18:44,25-34,Computing or Tech,Senior Product Manager,,170000.0,50000.0,USD,,,US,New York,New York,8 - 10 years,5-7 years,College degree,Man,White
+2021-05-01 18:05:42,25-34,Computing or Tech,Customer Success Manager,,85000.0,15000.0,USD,,,US,New York,New York City,8 - 10 years,5-7 years,College degree,Woman,"Black or African American, White"
+2021-05-01 18:06:21,35-44,Computing or Tech,data team lead,,220000.0,10000.0,USD,,,US,California,san francisco ,11 - 20 years,8 - 10 years,Master's degree,Man,White
+2021-05-01 18:11:08,25-34,Computing or Tech,iOS Developer,,128000.0,,USD,,,US,Montana,Bozeman ,5-7 years,2 - 4 years,College degree,Man,White
+2021-05-01 18:11:23,45-54,Computing or Tech,Head of Developer Relations,,165000.0,,USD,,,US,California,San Francisco,21 - 30 years,8 - 10 years,College degree,Woman,
+2021-05-01 18:29:59,25-34,Computing or Tech,Technical Writer,,128000.0,18000.0,USD,,,US,New York,New York,8 - 10 years,5-7 years,College degree,Woman,White
+2021-05-01 19:07:49,35-44,Computing or Tech,Training Manager,,109000.0,10900.0,USD,,,US,Utah,Salt Lake City,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-01 19:23:02,35-44,Computing or Tech,Engineering Manager,,245000.0,49000.0,USD,,,USA ,California,San Francisco,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-05-01 19:37:44,25-34,Computing or Tech,Senior UX Designer,,140000.0,0.0,USD,,I'm a city government employee and took a pay cut after moving from the private sector,US,California,San Francisco,11 - 20 years,8 - 10 years,Some college,Man,White
+2021-05-01 20:00:14,25-34,Computing or Tech,Senior SRE,,192000.0,10000.0,USD,,,US,New Jersey,"Stockton, NJ",8 - 10 years,8 - 10 years,College degree,Man,White
+2021-05-01 20:00:29,25-34,Computing or Tech,Software Engineer II,,132000.0,85000.0,USD,,,US,Colorado,Boulder,5-7 years,5-7 years,College degree,Man,White
+2021-05-01 20:03:33,25-34,Computing or Tech,Product Manager,,90000.0,,USD,,,USA ,California,Long Beach,2 - 4 years,2 - 4 years,College degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-05-01 20:38:29,35-44,Computing or Tech,Technical Lead,,195000.0,15000.0,USD,,,Australian ,,Sydney,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-01 21:05:42,25-34,Computing or Tech,Technical Services Engineer,,120000.0,2000.0,USD,,,US,Wisconsin,Madison,5-7 years,5-7 years,College degree,Man,White
+2021-05-01 21:12:43,35-44,Computing or Tech,Software Engineering Manager,,235000.0,,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-01 21:15:49,45-54,Computing or Tech,Design Program Manager,,140000.0,,USD,,,US,Oregon,Salem,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-05-01 21:19:42,45-54,Computing or Tech,Program Manager,in IT,158000.0,0.0,USD,,,USA ,District of Columbia,Washington,21 - 30 years,21 - 30 years,Master's degree,Woman,White
+2021-05-01 21:21:36,35-44,Computing or Tech,"Sr director, design",,350000.0,100000.0,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-01 21:34:22,25-34,Computing or Tech,senior program manager,,130000.0,30000.0,USD,,the 30k is how much i vest each year from my equity grant,US,California,san francisco,5-7 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-05-01 21:38:05,45-54,Computing or Tech,Team Lead,,120000.0,,USD,,,US,West Virginia,Charleston,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-01 21:40:47,25-34,Computing or Tech,"Manager, Information Security",,226500.0,300000.0,USD,,Typically with 25% of salary as bonus plus 100-200% of salary in restricted stock options,US,California,San Jose,8 - 10 years,8 - 10 years,High School,Man,White
+2021-05-01 21:49:52,25-34,Computing or Tech,Team Lead,Team Lead for content moderators,80000.0,10000.0,USD,,,US,Tennessee,Nashville,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-05-01 21:49:53,45-54,Computing or Tech,Staff Software Engineer,,216000.0,,USD,,,US,California,San Francisco,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-05-01 22:24:19,35-44,Computing or Tech,Solution Architect,a senior software engineering role,123000.0,15000.0,USD,,,US,Georgia,Atlanta,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-05-01 22:50:59,35-44,Computing or Tech,Senior Software Developer,,140000.0,,USD,,,US,New York,Rochester,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-01 23:09:15,35-44,Computing or Tech,Principal Software Engineer,,185000.0,20000.0,USD,,,US,Illinois,Remote,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-01 23:10:32,45-54,Computing or Tech,Senior Director,,200000.0,50000.0,USD,,,US,"California, Oregon",Portland,31 - 40 years,21 - 30 years,Some college,Man,White
+2021-05-01 23:31:13,35-44,Computing or Tech,Group manager of analytics,,170000.0,110000.0,USD,,Additional comp includes cash bonus and RSUs with 4-year vesting schedule,US,California,San Diego,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-05-01 23:49:19,25-34,Computing or Tech,Technical Writer ,,47840.0,,USD,,,United States ,Missouri,Kansas City ,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-02 00:17:38,35-44,Computing or Tech,Software Developer,,107000.0,20000.0,USD,,,US,Arizona,Tucson,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-02 00:47:35,35-44,Computing or Tech,Software Developer,,175000.0,25000.0,USD,,,US,California,San Francisco,21 - 30 years,11 - 20 years,Some college,Man,White
+2021-05-02 00:50:23,25-34,Computing or Tech,Operations manager,,125000.0,30000.0,USD,,,USA ,Texas,Dallas,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-05-02 01:14:40,35-44,Computing or Tech,Director of Application Development,,150000.0,0.0,USD,,,US,Pennsylvania,Lancaster,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-05-02 02:03:44,55-64,Computing or Tech,Product Manager,,114000.0,15000.0,USD,,,US,Maine,Work from home,31 - 40 years,11 - 20 years,College degree,Woman,Another option not listed here or prefer not to answer
+2021-05-02 02:17:25,25-34,Computing or Tech,software engineer,,95680.0,,USD,,,US,California,Redlands,2 - 4 years,2 - 4 years,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-05-02 02:49:30,25-34,Computing or Tech,Software Engineer,,400000.0,0.0,USD,,,US,Massachusetts,Boston,5-7 years,5-7 years,PhD,Man,White
+2021-05-02 07:53:32,55-64,Computing or Tech,Senior Software Developer,,115000.0,,USD,,,US,Georgia,Atlanta,31 - 40 years,21 - 30 years,College degree,Man,White
+2021-05-02 08:01:58,35-44,Computing or Tech,Software Development Manager,,200000.0,500000.0,USD,,Additional money is from RSU grants,US,Georgia,Atlanta,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-02 09:13:41,25-34,Computing or Tech,Principal Architect,It’s a fancy-pants senior software engineer,145000.0,5000.0,USD,,,US,Montana,Missoula,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-02 09:21:13,35-44,Computing or Tech,Sales Engineer,,150000.0,60000.0,USD,,,US,Georgia,Atlanta,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-05-02 10:27:58,35-44,Computing or Tech,Manager,,90000.0,0.0,USD,,,US,District of Columbia,Washington,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-02 10:41:29,25-34,Computing or Tech,Senior Manager of Customer Success,,155000.0,,USD,,,US,District of Columbia,Washington DC,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-02 11:00:09,35-44,Computing or Tech,VP Talent,,170000.0,,USD,,,US,New Jersey,NYC ,11 - 20 years,11 - 20 years,,Woman,
+2021-05-02 11:02:04,25-34,Computing or Tech,Senior software engineer,,156860.0,47300.0,USD,,,United States of america,Washington,Redmond,5-7 years,5-7 years,College degree,Man,White
+2021-05-02 11:49:55,25-34,Computing or Tech,Senior Software Engineer,,183000.0,,USD,,,US,California,Oakland,8 - 10 years,5-7 years,Some college,Man,White
+2021-05-02 12:11:13,45-54,Computing or Tech,DevSecOps,"I run Development, Operations and Cyber Security",180000.0,,USD,,,US,California,Los Angeles,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-05-02 12:27:29,55-64,Computing or Tech,Lead Software Engineer,,198000.0,100000.0,USD,,,US,Washington,Seattle,31 - 40 years,31 - 40 years,College degree,Man,White
+2021-05-02 13:02:55,25-34,Computing or Tech,Technical Program Manager,Software,151000.0,25000.0,USD,,,US,California,San Francisco ,8 - 10 years,5-7 years,College degree,Man,Asian or Asian American
+2021-05-02 14:13:49,25-34,Computing or Tech,Hardware Engineer I,"This is the second tier in a technical track, just above the entry level position",86000.0,2700.0,USD,,,US,Wisconsin,"Madison, WI",5-7 years,5-7 years,College degree,Non-binary,"Asian or Asian American, White"
+2021-05-02 14:18:48,35-44,Computing or Tech,software development manager,I manage a team of 11 engineers (software developers + systems administrators + one project manager) that own an internal security & compliance tool,144000.0,0.0,USD,,,US,Washington,Seattle,8 - 10 years,11 - 20 years,Master's degree,Woman,White
+2021-05-02 14:37:19,45-54,Computing or Tech,Senior Software Engineer,,140000.0,,USD,,,US,Colorado,"Boulder, CO",11 - 20 years,5-7 years,College degree,Man,White
+2021-05-02 14:53:38,35-44,Computing or Tech,Senior Director,,300000.0,30000.0,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-02 16:22:05,35-44,Computing or Tech,Electrical Engineer,,109000.0,12500.0,USD,,,US,Virginia,Manassas,11 - 20 years,5-7 years,Master's degree,Woman,Another option not listed here or prefer not to answer
+2021-05-02 16:25:13,25-34,Computing or Tech,Software engineer ,,120000.0,15000.0,USD,,,US,Texas,San antonio,5-7 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-05-02 17:07:07,35-44,Computing or Tech,Software Engineer,,166000.0,60000.0,USD,,Additional compensation includes RSUs and 1x/year cash bonus ,US,Washington,Seattle,11 - 20 years,8 - 10 years,College degree,Man,White
+2021-05-02 17:16:13,18-24,Computing or Tech,Junior Technical Writer,,45000.0,0.0,USD,,,US,New York,New York City,1 year or less,1 year or less,College degree,Woman,White
+2021-05-02 17:25:47,45-54,Computing or Tech,People Operations Manager,,80000.0,,USD,,,US,Pennsylvania,Pittsburgh ,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-05-02 19:01:58,25-34,Computing or Tech,Senior Software Engineer,,149000.0,15000.0,USD,,,US,California,San Jose,5-7 years,5-7 years,Master's degree,Man,White
+2021-05-02 19:25:09,25-34,Computing or Tech,Marketing Director,,130000.0,,USD,,,US,Texas,Austin,8 - 10 years,8 - 10 years,College degree,Woman,Black or African American
+2021-05-02 20:00:37,25-34,Computing or Tech,Senior Software Engineer,,162319.0,20000.0,USD,,,US,California,Cotati,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-05-02 20:53:46,25-34,Computing or Tech,Engineering Leadership,,93000.0,25000.0,USD,,,US,North Carolina,Chapel Hill,5-7 years,5-7 years,College degree,Man,White
+2021-05-02 22:09:26,25-34,Computing or Tech,software engineer,,165000.0,100000.0,USD,,the additional compensation is RSUs,US,New York,New York City,5-7 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-05-02 22:45:26,18-24,Computing or Tech,Product Owner,,83500.0,1000.0,USD,,also get 9.3% 401k match and profit sharing,US,Texas,Dallas,2 - 4 years,2 - 4 years,Master's degree,Woman,White
+2021-05-02 23:55:16,25-34,Computing or Tech,Director of Operations,,75000.0,,USD,,"I work at a startup, and I also have stock options as part of my compensation.",US,Oregon,Portland,5-7 years,2 - 4 years,Master's degree,Woman,White
+2021-05-03 00:11:03,25-34,Computing or Tech,Technical Editor,,105000.0,35000.0,USD,,,US,Washington,Seattle,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-03 01:01:17,45-54,Computing or Tech,Senior Technical Writer,,105000.0,9000.0,USD,,,US,New York,Syracuse,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-03 08:34:55,25-34,Computing or Tech,Sales Engineer,"Was a software engineer, now I’m the technical sales resource ",110000.0,40000.0,USD,,"40000 is commission, i could make more or less than",US,New York,Manhattan,2 - 4 years,1 year or less,College degree,Woman,"Hispanic, Latino, or Spanish origin"
+2021-05-03 09:17:16,35-44,Computing or Tech,Director - Data Science,,156000.0,31000.0,USD,,,US,District of Columbia,Washington,11 - 20 years,11 - 20 years,Master's degree,Other or prefer not to answer,
+2021-05-03 10:16:57,25-34,Computing or Tech,QA Manager,,130000.0,,USD,,,US,New York,New York City,11 - 20 years,5-7 years,College degree,Woman,White
+2021-05-03 10:34:11,25-34,Computing or Tech,InfoSec Risk & Compliance Analyst ,,93500.0,5000.0,USD,,"The $5,000 was a one time signing bonus, it is not annualized",US,New Jersey,Camden,5-7 years,5-7 years,College degree,Man,White
+2021-05-03 11:53:20,25-34,Computing or Tech,Management & Strategy Consltant,,110000.0,3000.0,USD,,We also get great stock options from the comany at a discount which I've omitted here,US,Texas,Dallas,8 - 10 years,2 - 4 years,Master's degree,Woman,White
+2021-05-03 11:54:02,35-44,Computing or Tech,IT Support Specialist II,,60000.0,,USD,,,US,Missouri,Kansas City,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-03 11:56:02,45-54,Computing or Tech,Project Manager,,127291.0,17500.0,USD,,,US,California,San Diego,21 - 30 years,11 - 20 years,Some college,Woman,"Native American or Alaska Native, White"
+2021-05-03 12:07:34,25-34,Computing or Tech,Senior IT Administrator,,113300.0,10000.0,USD,,,US,Massachusetts,Boston,5-7 years,5-7 years,College degree,Man,White
+2021-05-03 12:07:46,35-44,Computing or Tech,IT Operations,,100648.0,20000.0,USD,,,US,California,San Francisco,11 - 20 years,5-7 years,High School,Man,Native American or Alaska Native
+2021-05-03 12:10:38,45-54,Computing or Tech,Site Support Engineer,IT Support,75000.0,0.0,USD,,,US,North Carolina,Durham,21 - 30 years,11 - 20 years,College degree,Man,White
+2021-05-03 12:23:25,25-34,Computing or Tech,Technical Expert,Mac Admin,176000.0,152000.0,USD,,,US,Utah,Salt Lake City,5-7 years,5-7 years,High School,Man,White
+2021-05-03 12:34:52,35-44,Computing or Tech,Marketing manager ,,160000.0,50000.0,USD,,,USA ,California,SF,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-03 12:43:53,25-34,Computing or Tech,DevOps Engineer,,141000.0,14000.0,USD,,,US,California,San Francisco,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-03 12:52:17,25-34,Computing or Tech,VP of Strategy,,285000.0,0.0,USD,,,US,New York,New York,8 - 10 years,5-7 years,Master's degree,Woman,White
+2021-05-03 12:56:12,18-24,Computing or Tech,IT Support Engineer,,85000.0,3000.0,USD,,,US,California,San Francisco,2 - 4 years,2 - 4 years,Some college,Man,Asian or Asian American
+2021-05-03 13:12:05,35-44,Computing or Tech,Senior DevOps Engineer,,190000.0,,USD,,,US,New York,New York,11 - 20 years,11 - 20 years,High School,Man,White
+2021-05-03 13:45:18,25-34,Computing or Tech,Product Manager,,90000.0,,USD,,,US,New Mexico,Albuquerque,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-03 14:16:33,25-34,Computing or Tech,Senior Software Engineer,,155000.0,5000.0,USD,,,France,,Lons Le Saunier,5-7 years,5-7 years,College degree,Man,White
+2021-05-03 14:16:50,25-34,Computing or Tech,Senior Graphic Designer,,79000.0,0.0,USD,,,US,Washington,Seattle,5-7 years,5-7 years,College degree,Woman,White
+2021-05-03 14:17:24,25-34,Computing or Tech,Principal Product Manager,,103000.0,10000.0,USD,,10% bonus,Denmark,,Copenhagen,8 - 10 years,2 - 4 years,High School,Man,White
+2021-05-03 14:17:49,35-44,Computing or Tech,Principal Engineer ,,190000.0,25000.0,USD,,,USA ,Pennsylvania,Philadelphia ,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-05-03 14:18:30,25-34,Computing or Tech,Sr Associate Project Manager,,124800.0,,USD,,,US,Colorado,Denver,5-7 years,5-7 years,College degree,Woman,"Asian or Asian American, White"
+2021-05-03 14:22:31,25-34,Computing or Tech,Senior Software Engineer,,155000.0,9300.0,USD,,,US,New York,New York City,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-03 14:23:50,35-44,Computing or Tech,Workday Analyst,,144000.0,150000.0,USD,,Additional Compensation is estimated stock options present value if immediately purchased and sold at vest.,US,Washington,Bellevue,11 - 20 years,5-7 years,Master's degree,Man,White
+2021-05-03 14:27:05,25-34,Computing or Tech,Services Sales Manager,Telephony software contract sales,105000.0,3000.0,USD,,,US,North Carolina,Durham,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-03 14:28:05,35-44,Computing or Tech,IT Team Lead,,45000.0,9000.0,USD,,,Jamaica,,Kingston,11 - 20 years,11 - 20 years,Master's degree,Woman,Black or African American
+2021-05-03 14:28:34,35-44,Computing or Tech,Technology Manager/Scrum Master,I manage a team of software developers and am the scrum master for several projects my people work on. ,99300.0,9900.0,USD,,The bonus is a goal of 10% but can be higher or lower depending on how the company did for the year. ,US,Michigan,Ann Arbor,11 - 20 years,2 - 4 years,College degree,Woman,White
+2021-05-03 14:29:44,45-54,Computing or Tech,Dirextor network engineering,,147500.0,15000.0,USD,,,United states,Georgia,Atlanta,21 - 30 years,21 - 30 years,Master's degree,Woman,Another option not listed here or prefer not to answer
+2021-05-03 14:31:47,25-34,Computing or Tech,Social Media Manager,,90000.0,,USD,,,US,Virginia,Alexandria ,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-03 14:36:10,35-44,Computing or Tech,Member of Technical Staff,,130000.0,0.0,USD,,,US,Georgia,Atlanta,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-03 14:43:25,25-34,Computing or Tech,Senior Software Engineer ,,95000.0,,USD,,,US,Missouri,Kansas City,2 - 4 years,2 - 4 years,College degree,Man,"Middle Eastern or Northern African, White"
+2021-05-03 14:44:29,55-64,Computing or Tech,Technical Documentation Manager,,124000.0,0.0,USD,,,US,Illinois,Chicago,21 - 30 years,21 - 30 years,Master's degree,Woman,White
+2021-05-03 14:50:37,25-34,Computing or Tech,Senior Software Engineer,,206000.0,30000.0,USD,,"an additional $700,000/year in RSUs",US,New York,New York City,8 - 10 years,8 - 10 years,College degree,Man,"Asian or Asian American, Another option not listed here or prefer not to answer"
+2021-05-03 15:00:16,35-44,Computing or Tech,Web content specialist,,67000.0,,USD,,,USA ,California,Huntington beach ,11 - 20 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-05-03 15:09:04,25-34,Computing or Tech,Product Analyst,,80000.0,,USD,,,US,Florida,Jacksonville,11 - 20 years,5-7 years,College degree,Woman,White
+2021-05-03 15:12:59,45-54,Computing or Tech,Email Marketing Executive,My company HQ is in London where titles mean very different things. An equivalent here would be ‘Specialist.’ My title and job description only vaguely match what I actually do; my responsibilities are much larger than a specialist’s would usually be.,52000.0,0.0,USD,,,US,Washington,"Tacoma (we are now permanently WFH, but our office was based in Tacoma)",21 - 30 years,2 - 4 years,College degree,Woman,White
+2021-05-03 15:18:31,35-44,Computing or Tech,Accounting manager,,115000.0,15000.0,USD,,,US,California,San Francisco ,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-03 15:18:38,35-44,Computing or Tech,Head of of Product Operations,,185000.0,,USD,,,US,California,San Francisco,11 - 20 years,5-7 years,College degree,Woman,White
+2021-05-03 15:21:23,25-34,Computing or Tech,Product Manager,,121000.0,,USD,,,US,Arizona,Phoenix,8 - 10 years,2 - 4 years,College degree,Man,White
+2021-05-03 15:27:22,25-34,Computing or Tech,Senior Business Systems Analyst ,,136000.0,1000000.0,USD,,I receive bonus and stock on top of base pay ,USA ,California,San Jose ,8 - 10 years,5-7 years,College degree,Woman,White
+2021-05-03 15:28:21,25-34,Computing or Tech,Program Manager II,CS organization in tech company,95000.0,40000.0,USD,,,US,Washington,Seattle,8 - 10 years,5-7 years,College degree,Woman,White
+2021-05-03 16:07:56,35-44,Computing or Tech,Global Operations Manager,,113000.0,20000.0,USD,,,US,Georgia,Remote,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-05-03 16:14:06,35-44,Computing or Tech,Electronics Technician,,59000.0,,USD,,,US,Arizona,Sierra Vista,11 - 20 years,5-7 years,College degree,Woman,White
+2021-05-03 16:20:21,35-44,Computing or Tech,Team lead,,41000.0,3000.0,USD,,,United States ,Indiana,Indianapolis ,8 - 10 years,5-7 years,College degree,Woman,White
+2021-05-03 16:25:38,35-44,Computing or Tech,Senior Support Engineer ,I am not an actual engineer. I support our internal and external customer relationship management systems ,55000.0,,USD,,,USA ,Alabama,Huntsville ,11 - 20 years,5-7 years,Some college,Woman,White
+2021-05-03 16:36:41,25-34,Computing or Tech,Staff Software Engineer,,140000.0,1000.0,USD,,,US,Indiana,Jeffersonville,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-05-03 16:44:24,35-44,Computing or Tech,Help Desk,,65000.0,3000.0,USD,,,US,Florida,Orlando ,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-05-03 16:48:48,25-34,Computing or Tech,IT Infrastructure Support,I perform both Infrastructure Admin jobs as well as Helpdesk,55000.0,,USD,,,US,Texas,Dallas,2 - 4 years,1 year or less,College degree,Other or prefer not to answer,White
+2021-05-03 16:49:23,35-44,Computing or Tech,Senior Project Manager,,145000.0,0.0,USD,,W4 contractor,US,Minnesota,Minneapolis,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-05-03 16:49:44,35-44,Computing or Tech,Software QA,,41500.0,300.0,USD,,,US,Kansas,Manhattan,11 - 20 years,2 - 4 years,College degree,Woman,White
+2021-05-03 16:58:55,35-44,Computing or Tech,Customer Success Manager,,155250.0,25000.0,USD,,,US,California,Palo Alto,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-03 17:00:26,25-34,Computing or Tech,Developer,,83000.0,12000.0,USD,,,US,North Carolina,Charlotte,8 - 10 years,5-7 years,College degree,Woman,White
+2021-05-03 17:09:22,35-44,Computing or Tech,Operations Manager,,69600.0,,USD,,,Unites States,California,Camarillo ,11 - 20 years,5-7 years,College degree,Woman,White
+2021-05-03 17:17:14,25-34,Computing or Tech,Software Engineer,,100000.0,,USD,,,US,Virginia,Vienna,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-05-03 17:25:52,35-44,Computing or Tech,Director of Engineering,,97000.0,0.0,USD,,,US,Massachusetts,Boston,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-03 17:30:41,35-44,Computing or Tech,IT Manager,,90000.0,,USD,,,US,Texas,Plano,11 - 20 years,11 - 20 years,Some college,Woman,White
+2021-05-03 17:44:49,35-44,Computing or Tech,"Manager, Product Management",,165000.0,70000.0,USD,,,US,Colorado,Broomfield,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-03 17:46:43,35-44,Computing or Tech,Product Manager,,165000.0,25000.0,USD,,,US,Florida,Boca Raton,11 - 20 years,11 - 20 years,College degree,Woman,"Asian or Asian American, White"
+2021-05-03 17:52:00,35-44,Computing or Tech,Cybersecurity Program Coordinator,,83000.0,0.0,USD,,,US,Virginia,Richmond,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-03 17:52:28,35-44,Computing or Tech,Product Manager,,135000.0,10000.0,USD,,,US,"New Jersey, New York",Brooklyn,11 - 20 years,2 - 4 years,College degree,Woman,White
+2021-05-03 17:52:42,35-44,Computing or Tech,Software tester,,42000.0,2000.0,USD,,,US,Ohio,Westlake,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-05-03 17:57:33,25-34,Computing or Tech,SOC Analyst,,160000.0,,USD,,,US,Ohio,Cedarville,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-03 18:33:08,35-44,Computing or Tech,Program Operations Analyst 1,"Sales order processing, contract review, external partners/vendors. ",59363.0,3562.0,USD,,,US,California,Los Angeles,21 - 30 years,8 - 10 years,Master's degree,Woman,White
+2021-05-03 18:59:20,35-44,Computing or Tech,Software test engineer ,,67000.0,2500.0,USD,,,United states,Texas,San antonio,21 - 30 years,5-7 years,Master's degree,Woman,Black or African American
+2021-05-03 19:00:07,35-44,Computing or Tech,Senior consultant,,127500.0,5000.0,USD,,,US,Connecticut,Hartford,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-05-03 19:11:15,35-44,Computing or Tech,Sr. Program Manager,,162854.0,24000.0,USD,,,US,Washington,Redmond,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-03 20:09:18,25-34,Computing or Tech,Staff Software Engineer,,190000.0,50000.0,USD,,,US,Massachusetts,Boston ,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-03 20:16:37,35-44,Computing or Tech,Technical Support Engineer Tier 3,,88000.0,10000.0,USD,,,US,Georgia,Atlanta,11 - 20 years,11 - 20 years,High School,Man,White
+2021-05-03 20:32:49,35-44,Computing or Tech,Director of Events,,95000.0,7000.0,USD,,,US,Illinois,Chicago,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-03 20:33:00,35-44,Computing or Tech,Principal Dev Lead,Principal Software Engineer / Engineering Manager,218400.0,2500.0,USD,,,US,Oregon,Portland,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-03 20:35:23,35-44,Computing or Tech,Product Manager II,,157000.0,0.0,USD,,,US,California,San Francisco,5-7 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-05-03 20:36:06,35-44,Computing or Tech,Director of Data Science,Consulting firm ,175000.0,20000.0,USD,,,US,Massachusetts,Lexington,11 - 20 years,8 - 10 years,PhD,Woman,White
+2021-05-03 20:43:09,25-34,Computing or Tech,Senior Product Manager,,140000.0,14000.0,USD,,,US,Massachusetts,Cambridge,8 - 10 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-05-03 20:43:36,25-34,Computing or Tech,Account Manager,Federal IT Sales,118000.0,136000.0,USD,,,US,Virginia,Herndon,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-03 20:51:44,25-34,Computing or Tech,Linux Systems Administrator,,79200.0,,USD,,,US,Washington,Issaquah,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-03 21:37:51,35-44,Computing or Tech,Sr. Instructional Designer,"Training, learning and development",125000.0,0.0,USD,,"Consultant/contractor, though this was my salary in the same job as an FTE",US,Oregon,Portland OR,21 - 30 years,11 - 20 years,High School,Man,White
+2021-05-03 22:11:16,35-44,Computing or Tech,Pricing Specialist,Set List price for product ,125000.0,25000.0,USD,,,US,Oregon,Hillsboro ,11 - 20 years,2 - 4 years,Master's degree,Woman,White
+2021-05-03 22:33:53,25-34,Computing or Tech,Senior IT Project Manager,,110000.0,,USD,,,US,Minnesota,Minneapolis,5-7 years,5-7 years,Master's degree,Woman,Asian or Asian American
+2021-05-03 22:34:07,35-44,Computing or Tech,Principal Data Scientist,,143000.0,26500.0,USD,,,US,Minnesota,Saint Paul,11 - 20 years,11 - 20 years,College degree,Man,"Middle Eastern or Northern African, White"
+2021-05-03 22:51:20,25-34,Computing or Tech,Systems Analyst,Technical Business Analyst,68000.0,0.0,USD,,,US,Connecticut,Southington,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-03 22:53:15,25-34,Computing or Tech,Software engineer ,,80000.0,,USD,,,US,Ohio,Columbus ,1 year or less,1 year or less,College degree,Non-binary,White
+2021-05-03 23:02:29,35-44,Computing or Tech,Director of Engineering,,130000.0,14000.0,USD,,,United State of America,New Hampshire,Remote,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-05-03 23:23:56,18-24,Computing or Tech,Software Engineer,,93000.0,5500.0,USD,,,US,Arizona,Phoenix,2 - 4 years,2 - 4 years,College degree,Woman,"Hispanic, Latino, or Spanish origin"
+2021-05-03 23:47:49,25-34,Computing or Tech,Marketing Analytics Lead,,215000.0,,USD,,,US,California,San Francisco,8 - 10 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-05-03 23:51:54,35-44,Computing or Tech,Product Manager,,127000.0,18000.0,USD,,,US,California,Carlsbad,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-04 00:48:30,55-64,Computing or Tech,Engineering Manager ,,170000.0,30000.0,USD,,Around 80000 in stock ,US,Washington,Seattle ,31 - 40 years,31 - 40 years,PhD,Man,White
+2021-05-04 01:11:52,25-34,Computing or Tech,Account Manager,,150000.0,30000.0,USD,,,US,California,San Francisco,8 - 10 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-05-04 01:12:54,25-34,Computing or Tech,Support Engineer,,115000.0,,USD,,,US,California,San Francisco ,8 - 10 years,5-7 years,Some college,Man,White
+2021-05-04 01:21:22,35-44,Computing or Tech,Executive,,175000.0,,USD,,,United states,California,Berkeley,5-7 years,5-7 years,PhD,Woman,"Black or African American, White"
+2021-05-04 02:11:47,45-54,Computing or Tech,Senior systems analyst,,116250.0,,USD,,,US,Illinois,Addison,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-05-04 05:39:55,25-34,Computing or Tech,Senior Software Engineer,,175000.0,,USD,,,US,California,San Francisco,8 - 10 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-05-04 08:36:54,25-34,Computing or Tech,Software Engineer,E5,205290.0,450800.0,USD,,Mostly stock,US,Massachusetts,Cambridge,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-05-04 08:50:29,25-34,Computing or Tech,Systems Administrator,,101000.0,60000.0,USD,,,US,Massachusetts,Waltham,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-04 09:31:03,35-44,Computing or Tech,IT Manager,,120000.0,,USD,,,US,New York,Holbrook,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-04 10:35:59,25-34,Computing or Tech,Senior software engineer,,95000.0,,USD,,,US,Colorado,Denver,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-05-04 10:55:29,25-34,Computing or Tech,Project Coordinator,,41600.0,0.0,USD,,"I'm a contract employee working at an hourly rate, so I have to withhold my own taxes/insurance/etc and receive no overtime or holiday pay. After withholding my annual income is more like 28,000.",US,Michigan,Ann Arbor,8 - 10 years,5-7 years,College degree,Non-binary,White
+2021-05-04 11:01:02,25-34,Computing or Tech,Software Engineer,3-6 years experience,80000.0,,USD,,,US,Missouri,Kansas City,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-04 11:09:42,35-44,Computing or Tech,It systems engineer associate,,75000.0,5000.0,USD,,,US,Ohio,"Cleveland, Ohio",11 - 20 years,11 - 20 years,Some college,Woman,White
+2021-05-04 12:23:04,45-54,Computing or Tech,Senior Project Manager,,120000.0,16000.0,USD,,,US,Vermont,Bennington,11 - 20 years,8 - 10 years,Master's degree,Man,White
+2021-05-04 12:42:01,45-54,Computing or Tech,Principal Program Manager,,240000.0,800000.0,USD,,mostly stock,US,Washington,Seattle,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-05-04 13:14:08,35-44,Computing or Tech,Technical Program Manager,,149630.0,12000.0,USD,,,US,Washington,Seattle,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-04 13:40:18,25-34,Computing or Tech,Business Analyst 1,,60000.0,2000.0,USD,,,US,California,Sacramento,2 - 4 years,2 - 4 years,College degree,Man,Another option not listed here or prefer not to answer
+2021-05-04 13:50:22,25-34,Computing or Tech,Program Manager,,137000.0,20000.0,USD,,base + 10% bonus + RSUs,US,Massachusetts,Cambridge,5-7 years,5-7 years,College degree,Woman,White
+2021-05-04 13:51:51,45-54,Computing or Tech,Technical Project Manager,,120000.0,,USD,,,US,Massachusetts,Peabody,21 - 30 years,5-7 years,College degree,Woman,White
+2021-05-04 13:53:33,55-64,Computing or Tech,Customer Success Manger,,54000.0,,USD,,"I live in Ohio, but the company I work for is located in New Jersey",US,Ohio,Akron,31 - 40 years,21 - 30 years,College degree,Woman,White
+2021-05-04 15:29:43,35-44,Computing or Tech,Engineering Program Manager,,125500.0,9000.0,USD,,,US,North Carolina,Cary,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-04 15:56:20,35-44,Computing or Tech,Director of Learning & Development,Director of a corporate training department,125000.0,15000.0,USD,,,US,Arizona,Scottsdale,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-04 15:58:49,35-44,Computing or Tech,Software Verification & Validation Specialist,I'm a software quality engineer ,107100.0,,USD,,,US,Nevada,Las Vegas,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-04 16:06:32,25-34,Computing or Tech,Project manager ,,58750.0,650.0,USD,,,US,Virginia,Richmond,2 - 4 years,1 year or less,College degree,Woman,White
+2021-05-04 16:11:30,25-34,Computing or Tech,Project manager,,58750.0,,USD,,,US,Virginia,Richmond,2 - 4 years,1 year or less,College degree,Woman,White
+2021-05-04 17:28:12,25-34,Computing or Tech,Senior Manager ,Finance Project Manager ,156500.0,90000.0,USD,,Mostly RSUs,US,New York,New York,8 - 10 years,5-7 years,College degree,Woman,Another option not listed here or prefer not to answer
+2021-05-04 17:46:42,45-54,Computing or Tech,Senior Software Developer,,190000.0,80000.0,USD,,,US,California,Los Angeles,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-05-04 18:45:47,35-44,Computing or Tech,Senior Manager,Information Security,185000.0,10000.0,USD,,,US,Texas,Austin,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-05-04 18:55:29,35-44,Computing or Tech,Chief of Staff ,,106000.0,0.0,USD,,,United States ,California,Sacramento ,11 - 20 years,1 year or less,Some college,Woman,White
+2021-05-04 20:32:49,25-34,Computing or Tech,Content Designer,,130000.0,20000.0,USD,,,US,New York,New York,5-7 years,2 - 4 years,College degree,Woman,"Asian or Asian American, White"
+2021-05-04 21:21:53,25-34,Computing or Tech,Implementation Consultant II,,72100.0,5000.0,USD,,,US,Texas,Houston,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-05-04 21:51:13,35-44,Computing or Tech,Software Engineer,,82000.0,0.0,USD,,,US,Ohio,Columbus,11 - 20 years,2 - 4 years,College degree,Woman,White
+2021-05-04 21:54:59,35-44,Computing or Tech,Head of client success,,173000.0,0.0,USD,,,United States ,Maine,Remote ,11 - 20 years,8 - 10 years,Master's degree,Woman,"Asian or Asian American, White"
+2021-05-04 22:03:05,18-24,Computing or Tech,UX Designer,,72000.0,,USD,,,US,Michigan,Ann Arbor,2 - 4 years,1 year or less,College degree,Woman,Asian or Asian American
+2021-05-04 23:13:08,25-34,Computing or Tech,Software Engineer ,,137000.0,40000.0,USD,,,USA ,Washington,Seattle ,8 - 10 years,2 - 4 years,College degree,Woman,Black or African American
+2021-05-04 23:43:45,25-34,Computing or Tech,customer success manager,,85000.0,,USD,,,US,Tennessee,Nashville,8 - 10 years,2 - 4 years,Master's degree,Woman,White
+2021-05-05 00:51:03,25-34,Computing or Tech,Product Designer,,135000.0,40500.0,USD,,,US,Wisconsin,Madison,8 - 10 years,5-7 years,College degree,Woman,Black or African American
+2021-05-05 07:47:06,45-54,Computing or Tech,Web Developer,,82000.0,0.0,USD,,,US,Illinois,Champaign,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-05-05 09:05:51,25-34,Computing or Tech,"Senior Manager, Communications",,87000.0,5000.0,USD,,,US,Virginia,Remote,5-7 years,5-7 years,College degree,Woman,"Middle Eastern or Northern African, White"
+2021-05-05 11:15:14,35-44,Computing or Tech,Site Reliability Engineer,,170000.0,17500.0,USD,,,US,Washington,Seattle,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-05 11:27:29,25-34,Computing or Tech,Human Resources Manager,,60000.0,,USD,,,US,Arkansas,Jonesboro,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-05 12:00:59,25-34,Computing or Tech,Senior Product Specialist,,91500.0,,USD,,,US,California,San Francisco,8 - 10 years,5-7 years,College degree,Woman,"Asian or Asian American, White"
+2021-05-05 12:39:59,25-34,Computing or Tech,Engineering Manager,,190000.0,0.0,USD,,,US,New York,NYC,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-05-05 13:04:40,18-24,Computing or Tech,Software developer,ServiceNow developer (a specific type of software),100000.0,10000.0,USD,,"I'm in government contracting, which leads to higher salaries due to security constraints",US,Virginia,Fairfax VA,2 - 4 years,2 - 4 years,College degree,Woman,"Asian or Asian American, White"
+2021-05-05 14:12:07,35-44,Computing or Tech,"Senior Manager, Partner Relations",,100000.0,25000.0,USD,,,US,New Jersey,Somerset,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-05 15:09:56,55-64,Computing or Tech,Administrative Coordinator,process management and financial coordination,78750.0,500.0,USD,,,US,Pennsylvania,Philadelphia,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-05-05 15:14:39,25-34,Computing or Tech,Lead Product Owner,,85000.0,500.0,USD,,,US,Oregon,Portland,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-05 15:18:13,35-44,Computing or Tech,Senior Corporate Counsel,,115000.0,11500.0,USD,,,US,Kansas,Kansas City,11 - 20 years,8 - 10 years,"Professional degree (MD, JD, etc.)",Woman,White
+2021-05-05 15:19:20,35-44,Computing or Tech,Senior Director of Client Services,,165000.0,1000.0,USD,,,US,Pennsylvania,York,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-05-05 15:29:18,25-34,Computing or Tech,Software Engineering Manager,,203000.0,0.0,USD,,,US,California,San Francisco Bay Area,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-05-05 15:31:53,25-34,Computing or Tech,Website Designer/Developer,"I design and develop mainly WordPress websites, doing both frontend and backend development.",45000.0,,USD,,,US,Illinois,Springfield,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-05 15:37:15,25-34,Computing or Tech,User Researcher,,158000.0,0.0,USD,,,US,New York,NYC,5-7 years,5-7 years,Master's degree,Woman,White
+2021-05-05 15:44:04,25-34,Computing or Tech,Software Engineer,,110000.0,,USD,,,US,Minnesota,Minneapolis,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-05-05 15:50:24,45-54,Computing or Tech,Computer Scientist,,97800.0,3000.0,USD,,,US,Massachusetts,Canton,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-05 15:51:58,25-34,Computing or Tech,Program Manager,Technical project manager for backend systems,148422.0,20000.0,USD,,,US,Washington,Seattle,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-05 15:52:08,45-54,Computing or Tech,"Engineer, Risk Management","I'm not technical at all - ""Analyst"" fits better than ""Engineer""",108000.0,6000.0,USD,,,US,North Carolina,Raleigh,5-7 years,5-7 years,"Professional degree (MD, JD, etc.)",Woman,White
+2021-05-05 16:02:27,25-34,Computing or Tech,Staff Software Engineer,,141000.0,0.0,USD,,,US,Illinois,Chicago,8 - 10 years,8 - 10 years,Master's degree,Man,White
+2021-05-05 16:02:33,35-44,Computing or Tech,Engineering Manager,Security & Privacy,392000.0,0.0,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,Master's degree,Non-binary,White
+2021-05-05 16:03:31,35-44,Computing or Tech,QA Engineer,,83000.0,4000.0,USD,,,US,New York,Rochester,11 - 20 years,8 - 10 years,College degree,Non-binary,White
+2021-05-05 16:03:43,25-34,Computing or Tech,Product Manager,,143000.0,92000.0,USD,,,US,Washington,Seattle,8 - 10 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-05-05 16:10:07,45-54,Computing or Tech,Sr Project Manager,,132000.0,39600.0,USD,,,US,Georgia,Atlanta,21 - 30 years,11 - 20 years,Master's degree,Woman,White
+2021-05-05 16:10:36,25-34,Computing or Tech,DevOps Engineer,,102000.0,50000.0,USD,,,US,Colorado,Broomfield,5-7 years,2 - 4 years,College degree,Other or prefer not to answer,White
+2021-05-05 16:13:48,35-44,Computing or Tech,Director of Software Engineering,,130000.0,0.0,USD,,,US,Georgia,Atlanta,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-05-05 16:21:13,45-54,Computing or Tech,Customer Success Manager,,165000.0,10000.0,USD,,,US,Texas,Houston,21 - 30 years,21 - 30 years,Master's degree,Woman,White
+2021-05-05 16:25:58,35-44,Computing or Tech,Data scientist,,190000.0,20000.0,USD,,There is additional stock worth about $100k/ year,US,California,Los Angeles,8 - 10 years,8 - 10 years,PhD,Woman,White
+2021-05-05 16:28:02,35-44,Computing or Tech,Data Analyst,,87000.0,,USD,,,US,Texas,Austin,11 - 20 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-05-05 16:29:06,35-44,Computing or Tech,Senior Program Manager ,,228800.0,20000.0,USD,,Hourly with 1.5x overtime rate,US,Illinois,Chicago,21 - 30 years,21 - 30 years,College degree,Woman,"Asian or Asian American, White"
+2021-05-05 16:31:31,35-44,Computing or Tech,Web Specialist,,39390.0,,USD,,,US,Missouri,Cape Girardeau,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-05 16:47:24,35-44,Computing or Tech,Data Analyst,,53500.0,3000.0,USD,,,US,Texas,Irving,11 - 20 years,5-7 years,College degree,Man,White
+2021-05-05 16:51:06,35-44,Computing or Tech,IT Manager,,95000.0,6000.0,USD,,,US,Pennsylvania,Pittsburgh,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-05 16:55:56,35-44,Computing or Tech,Lead Programmer,,95000.0,,USD,,,US,Massachusetts,Boston,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-05 16:56:43,35-44,Computing or Tech,Systems Support Engineer III,,72000.0,2000.0,USD,,,US,Virginia,Centreville,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-05 17:29:49,25-34,Computing or Tech,Software engineer,,115000.0,14000.0,USD,,,US,Massachusetts,Cambridge,1 year or less,1 year or less,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-05-05 17:35:46,25-34,Computing or Tech,BI Analyst,,80000.0,0.0,USD,,,US,California,Los Angeles,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-05-05 17:52:30,25-34,Computing or Tech,"Senior manager, product",,163000.0,15000.0,USD,,,US,Florida,Miami area,8 - 10 years,8 - 10 years,Master's degree,Man,White
+2021-05-05 17:53:09,35-44,Computing or Tech,Software Development Manager,Senior Executive Service federal gov,185000.0,14000.0,USD,,,US,District of Columbia,"Herndon, Virginia ",11 - 20 years,11 - 20 years,Master's degree,Woman,Black or African American
+2021-05-05 18:08:13,25-34,Computing or Tech,Partnership Sales,business to government sales role,120000.0,45000.0,USD,,,US,New York,New York,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-05-05 18:09:33,25-34,Computing or Tech,Privacy Engineer,,183000.0,80000.0,USD,,additional income includes bonus and stock vesting,US,California,Mountain View,8 - 10 years,5-7 years,College degree,Woman,White
+2021-05-05 18:12:37,18-24,Computing or Tech,Digital Design Engineer,,93000.0,,USD,,,US,California,San Diego,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-05 18:26:35,35-44,Computing or Tech,Technical Support Specialist,,40000.0,,USD,,,US,North Carolina,Charlotte,21 - 30 years,11 - 20 years,College degree,Man,White
+2021-05-05 18:39:24,25-34,Computing or Tech,Software Development Engineer,,147000.0,40000.0,USD,,,US,Washington,Seattle,5-7 years,5-7 years,College degree,Woman,White
+2021-05-05 18:46:09,25-34,Computing or Tech,Engineering Manager,,180000.0,27000.0,USD,,$22k USD equivalent in stock annually,US,Texas,Austin,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-05 18:52:17,25-34,Computing or Tech,Analytics Manager,,172000.0,30000.0,USD,,,US,New York,New York,8 - 10 years,5-7 years,College degree,Man,Black or African American
+2021-05-05 18:56:29,35-44,Computing or Tech,Software Quality Assurance Manager,,112000.0,0.0,USD,,,US,New Hampshire,Lebanon,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-05 18:56:38,35-44,Computing or Tech,Senior Software Engineer,,175000.0,40000.0,USD,,,US,Massachusetts,Boston,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-05 19:10:42,25-34,Computing or Tech,Software Engineer,,156000.0,23400.0,USD,,,US,California,Sunnyvale,2 - 4 years,2 - 4 years,College degree,Other or prefer not to answer,Another option not listed here or prefer not to answer
+2021-05-05 19:26:09,25-34,Computing or Tech,Technical Writer,Technical Writer with no coding-related responsibilities.,71400.0,,USD,,,US,Colorado,Colorado Springs,2 - 4 years,2 - 4 years,Master's degree,Woman,White
+2021-05-05 19:37:42,25-34,Computing or Tech,Senior Manager,,177000.0,10000.0,USD,,,US,California,San Diego,8 - 10 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-05-05 19:46:46,25-34,Computing or Tech,Senior Data Scientist,,150000.0,75000.0,USD,,"Additional income is in RSUs, vesting over 4 years",US,Illinois,Chicago,5-7 years,5-7 years,Master's degree,Woman,White
+2021-05-05 19:47:31,35-44,Computing or Tech,Legal Strategist,non-attorney legal professional ,82000.0,8500.0,USD,,,US,North Carolina,Raleigh,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-05 19:57:56,35-44,Computing or Tech,Project Manager,,70500.0,,USD,,,US,Minnesota,Minneapolis,21 - 30 years,11 - 20 years,College degree,Woman,Another option not listed here or prefer not to answer
+2021-05-05 20:18:38,25-34,Computing or Tech,Program Coordinator ,,62000.0,13000.0,USD,,,US,Washington,Seattle,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-05 20:20:34,35-44,Computing or Tech,Senior Project Manager,,95000.0,5000.0,USD,,,US,Texas,Austin,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-05-05 20:21:39,45-54,Computing or Tech,Intermediate Business Systems Analyst,,68000.0,2000.0,USD,,,US,Pennsylvania,Pittsburgh,21 - 30 years,5-7 years,Some college,Woman,White
+2021-05-05 20:25:28,35-44,Computing or Tech,Engineering Manager,,130000.0,10000.0,USD,,,US,Massachusetts,Boston,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-05 20:25:47,25-34,Computing or Tech,Senior Product Manager,,173000.0,20000.0,USD,,,US,California,San Francisco,11 - 20 years,5-7 years,College degree,Man,Asian or Asian American
+2021-05-05 20:30:22,25-34,Computing or Tech,Product Manager,,138000.0,50000.0,USD,,,US,New York,New York City,8 - 10 years,5-7 years,College degree,Woman,White
+2021-05-05 20:37:04,25-34,Computing or Tech,Marketing Campaign Manager,,110000.0,0.0,USD,,,US,California,Los Angeles,11 - 20 years,5-7 years,College degree,Woman,"Asian or Asian American, White"
+2021-05-05 20:45:10,35-44,Computing or Tech,Technical Program Manager,,139000.0,25000.0,USD,,,US,Colorado,"Denver, CO",21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-05 20:46:55,25-34,Computing or Tech,Project Manager,,63000.0,2000.0,USD,,,US,Iowa,Iowa City,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-05 20:52:31,35-44,Computing or Tech,Lead Software Engineer,,185000.0,250000.0,USD,,,US,Washington,Seattle,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-05 20:56:11,25-34,Computing or Tech,Developer,,100000.0,3000.0,USD,,,US,Michigan,Detroit,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-05-05 21:13:23,25-34,Computing or Tech,Engineering Manager,,223000.0,179600.0,USD,,Additional compensation is 20% annual bonus and value of RSUs that vest in the year,US,New York,New York,11 - 20 years,5-7 years,Master's degree,Man,White
+2021-05-05 21:23:11,25-34,Computing or Tech,Customer Success Manager II,,135000.0,33750.0,USD,,,US,New York,New York,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-05 21:31:06,25-34,Computing or Tech,Security Engineer 2,work in Security operations center responding to general security alerts and escalations,72800.0,9000.0,USD,,,US,Georgia,Alpharetta,8 - 10 years,8 - 10 years,Some college,Man,White
+2021-05-05 21:37:45,35-44,Computing or Tech,Test Engineer,,100000.0,15000.0,USD,,,US,Oregon,Portland,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-05 21:42:39,35-44,Computing or Tech,Senior Software Engineer,,176000.0,,USD,,,US,New York,New York,11 - 20 years,11 - 20 years,Master's degree,Man,Asian or Asian American
+2021-05-05 21:50:11,25-34,Computing or Tech,Senior process development engineer,,97000.0,5000.0,USD,,,US,Massachusetts,Cambridge,8 - 10 years,8 - 10 years,Master's degree,Woman,White
+2021-05-05 21:59:05,25-34,Computing or Tech,Quality Assurance Specialist ,,48700.0,,USD,,,US,Washington,Bellevue ,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-05 22:12:03,35-44,Computing or Tech,Senior Director,,136000.0,0.0,USD,,,US,Illinois,Chicago,11 - 20 years,11 - 20 years,Some college,Non-binary,White
+2021-05-05 22:29:14,45-54,Computing or Tech,Software Engineer,full stack web developer/team lead,130000.0,15000.0,USD,,,US,California,Los Angeles area,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-05 22:29:52,35-44,Computing or Tech,senior software engineer,,151000.0,18000.0,USD,,,US,Washington,Redmond,11 - 20 years,11 - 20 years,College degree,Woman,Asian or Asian American
+2021-05-05 23:00:37,25-34,Computing or Tech,Quality assurance,,100000.0,2000.0,USD,,,US,Wisconsin,Verona,8 - 10 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-05-05 23:14:39,25-34,Computing or Tech,"Senior Manager, Community Engagement",,110000.0,11000.0,USD,,,US,California,San Francisco,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-05-05 23:19:20,25-34,Computing or Tech,Marketing Specialist,,72500.0,,USD,,,US,North Carolina,Raleigh-Durham,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-05 23:19:52,25-34,Computing or Tech,Technical Product Expert,For Ad products,102000.0,30000.0,USD,,,US,New York,New York City,5-7 years,5-7 years,College degree,Woman,White
+2021-05-05 23:34:07,55-64,Computing or Tech,"Director, Voice of the Customer",All customer research ,173000.0,28000.0,USD,,,US,Massachusetts,Boston,31 - 40 years,31 - 40 years,Master's degree,Woman,White
+2021-05-05 23:38:24,25-34,Computing or Tech,Chief of Staff,,120000.0,0.0,USD,,Is a 30 person startup. Excludes equity grant. ,US,California,San Francisco,8 - 10 years,1 year or less,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-05-05 23:44:45,25-34,Computing or Tech,Software Engineer,,152000.0,50000.0,USD,,,US,New York,New York,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-05 23:47:18,45-54,Computing or Tech,Mainframe COBOL Software Developer III,,96000.0,7250.0,USD,,,US,Kansas,Topeka,21 - 30 years,21 - 30 years,Master's degree,Woman,White
+2021-05-05 23:55:28,35-44,Computing or Tech,Senior Staff Engineer,,235000.0,280000.0,USD,,,US,California,"Truckee, CA",11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-06 00:04:36,25-34,Computing or Tech,Engagement Manager,Implementation Manager,105000.0,10000.0,USD,,,US,Texas,Austin,8 - 10 years,8 - 10 years,Master's degree,Woman,Black or African American
+2021-05-06 00:09:26,25-34,Computing or Tech,Senior Security Analyst,,160000.0,30000.0,USD,,,US,Washington,Seattle,5-7 years,5-7 years,College degree,Woman,White
+2021-05-06 03:22:56,35-44,Computing or Tech,Art Director,"Gaming Industry, large studio",210000.0,140000.0,USD,,Bonus depends on personal and company performance,US,California,Los Angeles,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-06 04:28:48,25-34,Computing or Tech,Senior Software Engineer,,105000.0,,USD,,,US,Texas,Houston,8 - 10 years,5-7 years,College degree,,Black or African American
+2021-05-06 06:38:09,35-44,Computing or Tech,Senior Systems Engineer,,80000.0,,USD,,,US,Wisconsin,Marshfield,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-06 07:50:00,25-34,Computing or Tech,Software Engineering Instructor,,70000.0,8000.0,USD,,,US,Pennsylvania,Pittsburgh,5-7 years,1 year or less,PhD,Woman,White
+2021-05-06 08:41:40,35-44,Computing or Tech,Product Owner ,"Technically it's ""Product Owner II""",96670.0,,USD,,"I'm eligible for a 7.5% incentive, which almost never happens.",US,Texas,Dallas / Fort Worth,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-06 08:50:21,25-34,Computing or Tech,Client Services Associate,,55000.0,5000.0,USD,,,US,New York,New York ,11 - 20 years,1 year or less,College degree,Woman,White
+2021-05-06 09:02:05,45-54,Computing or Tech,Sr. Director - Customer Success,,179000.0,25000.0,USD,,,US,Ohio,Cincinnati,21 - 30 years,8 - 10 years,College degree,Woman,White
+2021-05-06 09:12:36,35-44,Computing or Tech,Staff Software Engineer,,193200.0,30000.0,USD,,Also approx $80k of RSU stock grants each year (that take 4 years to fully vest),US,New York,Brooklyn,11 - 20 years,11 - 20 years,College degree,Non-binary,White
+2021-05-06 09:17:55,25-34,Computing or Tech,Senior Software Engineer,,145000.0,13000.0,USD,,,US,Massachusetts,Boston,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-06 09:43:07,25-34,Computing or Tech,Senior Technical Writer,I write product documentation for enterprise cloud software.,93000.0,10000.0,USD,,,US,North Carolina,Raleigh,5-7 years,5-7 years,College degree,Non-binary,White
+2021-05-06 09:52:09,25-34,Computing or Tech,Director of Operations,,130000.0,,USD,,(I am definitely underpaid - I work at a startup),US,New York,New York,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-05-06 09:53:48,35-44,Computing or Tech,Chief of Staff,,198000.0,100000.0,USD,,My bonus is have cash and half stock (vesting over five years),US,Washington,Seattle,11 - 20 years,2 - 4 years,College degree,Woman,White
+2021-05-06 10:01:49,35-44,Computing or Tech,Change Management Director,,160000.0,40000.0,USD,,,US,Illinois,"Chicago, IL",11 - 20 years,8 - 10 years,PhD,Woman,White
+2021-05-06 10:19:47,35-44,Computing or Tech,Data Analyst,,70000.0,0.0,USD,,"I've been in this job <1 year.  I'm told there may be bonuses, but I haven't seen how that plays out yet.",US,New York,Brooklyn (WFH),11 - 20 years,2 - 4 years,College degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-05-06 10:28:35,35-44,Computing or Tech,Lead Software Engineer,,129400.0,,USD,,,US,Illinois,Chicago,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-06 10:35:07,35-44,Computing or Tech,"Customer Service Specialist, Staff",Work is administrative for the Customer Service group not dealing directly with outside customers,107000.0,10000.0,USD,,,US,California,San Diego,21 - 30 years,11 - 20 years,High School,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-05-06 10:49:38,35-44,Computing or Tech,Software Engineer,,122000.0,0.0,USD,,,US,Texas,Houston,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-06 10:55:25,35-44,Computing or Tech,Human Resources Manager,,82000.0,,USD,,,US,New Mexico,Albuquerque,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-05-06 11:00:44,25-34,Computing or Tech,Technical Support,,115000.0,5000.0,USD,,,US,Wisconsin,Madison,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-05-06 11:21:54,25-34,Computing or Tech,Software engineer ,,150000.0,70000.0,USD,,,US,Washington,Seattle ,5-7 years,5-7 years,Master's degree,Woman,White
+2021-05-06 11:47:18,18-24,Computing or Tech,Software Engineer,,150000.0,18000.0,USD,,,US,New York,NYC,2 - 4 years,2 - 4 years,College degree,Woman,"Asian or Asian American, White"
+2021-05-06 12:07:14,35-44,Computing or Tech,IT Manager,,90000.0,4000.0,USD,,,US,New Hampshire,Manchester,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-05-06 12:09:37,25-34,Computing or Tech,Technical Program Manager,,150000.0,25000.0,USD,,,US,New York,New York City,5-7 years,5-7 years,Master's degree,Woman,Black or African American
+2021-05-06 12:40:26,45-54,Computing or Tech,CTO,,142000.0,,USD,,,US,New Jersey,Philiadelpia,21 - 30 years,11 - 20 years,Some college,Man,White
+2021-05-06 12:52:17,35-44,Computing or Tech,Senior Manager of Implementation,Responsible for onboarding,125625.0,0.0,USD,,,US,Massachusetts,Boston,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-06 13:05:05,35-44,Computing or Tech,Recruiting Manager ,,125000.0,15000.0,USD,,,US,Washington,Vancouver,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-06 13:31:46,35-44,Computing or Tech,Senior Email Specialist,I run an email program to reach customers,98000.0,15000.0,USD,,,US,Oregon,Portland,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-05-06 13:43:11,25-34,Computing or Tech,Consultant ,government consulting/contractor,135000.0,1000.0,USD,,,US,Maryland,Bethesda MD,11 - 20 years,8 - 10 years,PhD,Woman,White
+2021-05-06 13:44:03,35-44,Computing or Tech,R&D Software Engineer,,115200.0,,USD,,,US,New Mexico,Albuquerque,11 - 20 years,2 - 4 years,Master's degree,Woman,White
+2021-05-06 13:45:53,25-34,Computing or Tech,Sales Operations Manager,,75000.0,,USD,,,US,Louisiana,Lafayette ,2 - 4 years,2 - 4 years,Master's degree,Woman,"Black or African American, White"
+2021-05-06 14:12:10,25-34,Computing or Tech,Senior Software Engineering Manager,,150000.0,3000.0,USD,,,US,Colorado,Denver,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-06 14:14:20,25-34,Computing or Tech,Data Analyst,,135000.0,,USD,,,US,New York,New York City,5-7 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-05-06 14:24:32,35-44,Computing or Tech,Trainer,Software and database trainer,75000.0,3750.0,USD,,,United States ,North Carolina,Greenville ,11 - 20 years,11 - 20 years,Master's degree,Other or prefer not to answer,White
+2021-05-06 14:26:30,18-24,Computing or Tech,Software Engineering Manager,,150000.0,,USD,,,US,Texas,Austin,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-05-06 14:30:00,35-44,Computing or Tech,Editor in Chief,Content Designer - Lead,125000.0,,USD,,,US,North Carolina,Durham,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-06 14:30:36,35-44,Computing or Tech,Software Engineering Manager,,183500.0,25000.0,USD,,,US,Oregon,Portland,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-06 14:35:08,25-34,Computing or Tech,Public Relations Manager,,85000.0,0.0,USD,,,US,North Carolina,Raleigh,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-06 14:47:08,35-44,Computing or Tech,Software Engineer I,,103500.0,8000.0,USD,,,US,Oregon,Portland,2 - 4 years,1 year or less,Some college,Man,White
+2021-05-06 15:27:39,45-54,Computing or Tech,Senior Business Analyst,,95000.0,6000.0,USD,,,US,Oregon,Portland ,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-05-06 16:30:15,35-44,Computing or Tech,Program Manager 2,IT Program manager ,132000.0,25000.0,USD,,Portion of bonus in stock,US,Washington,Redmond,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-06 17:20:13,35-44,Computing or Tech,Lead HR Partner,I oversee HR for the US,150000.0,0.0,USD,,,US,New York,I work from home,21 - 30 years,11 - 20 years,Master's degree,Woman,White
+2021-05-06 17:35:41,35-44,Computing or Tech,Senior Project Manager,,125000.0,32000.0,USD,,,US,Georgia,Atlanta,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-06 18:11:28,25-34,Computing or Tech,Security Automation Engineer,"My job is a mix of traditional information security, and developing automation software for reoccurring tasks that the department has to do frequently. ",91000.0,,USD,,I also got $10k in stock options that vest periodically over 6 years. ,US,Oregon,Portland,5-7 years,5-7 years,College degree,Woman,White
+2021-05-06 18:16:24,25-34,Computing or Tech,Engineering Manager,,173500.0,15000.0,USD,,,US,California,Oakland,8 - 10 years,8 - 10 years,Master's degree,Woman,Asian or Asian American
+2021-05-06 18:31:32,45-54,Computing or Tech,Senior Technical Support Manager,,130000.0,26000.0,USD,,,US,Oregon,Portland,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-05-06 18:36:51,35-44,Computing or Tech,Data Analyst II,,80000.0,,USD,,,US,Massachusetts,Boston,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-05-06 18:49:01,25-34,Computing or Tech,Director of Client Success,,122000.0,0.0,USD,,,US,District of Columbia,Washington DC,8 - 10 years,5-7 years,Some college,Woman,Asian or Asian American
+2021-05-06 19:04:46,25-34,Computing or Tech,Product Data Analyst,,143000.0,0.0,USD,,,US,California,San Francisco,5-7 years,2 - 4 years,Master's degree,Woman,White
+2021-05-06 19:08:52,35-44,Computing or Tech,Technical Support Engineer,,48500.0,,USD,,,US,North Carolina,Raleigh ,8 - 10 years,8 - 10 years,Some college,Woman,White
+2021-05-06 19:09:47,25-34,Computing or Tech,QA Specialist,,65000.0,,USD,,,US,Montana,Missoula,8 - 10 years,2 - 4 years,Master's degree,Woman,White
+2021-05-06 19:27:52,35-44,Computing or Tech,IT Program Manager,,100000.0,10000.0,USD,,,US,Washington,Seattle ,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-05-06 19:58:10,35-44,Computing or Tech,General Manager,,320000.0,700000.0,USD,,,US,California,San Francisco,21 - 30 years,21 - 30 years,"Professional degree (MD, JD, etc.)",Man,White
+2021-05-06 21:05:53,35-44,Computing or Tech,Sr. UX Researcher,User Experience research,119500.0,10000.0,USD,,,US,Massachusetts,Natick,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-07 00:20:05,25-34,Computing or Tech,Director of Engineering,,195000.0,,USD,,,US,District of Columbia,Washington,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-07 00:35:53,35-44,Computing or Tech,Senior Software Engineer,,103000.0,3000.0,USD,,,US,Ohio,Cleveland,21 - 30 years,2 - 4 years,Some college,Non-binary,White
+2021-05-07 10:00:57,45-54,Computing or Tech,Product Owner,,125700.0,5700.0,USD,,,US,Colorado,Denver,21 - 30 years,21 - 30 years,High School,Man,White
+2021-05-07 13:15:34,25-34,Computing or Tech,Senior Software Engineer,,125000.0,0.0,USD,,,US,Colorado,Colorado Springs,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-05-07 14:41:21,55-64,Computing or Tech,Delivery Manager,,117000.0,,USD,,,US,New Jersey,Na,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-05-07 15:31:38,35-44,Computing or Tech,Database Developer,,107500.0,15000.0,USD,,,US,Oklahoma,Tulsa,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-05-07 15:43:35,35-44,Computing or Tech,Technical Writer,"Solo producer, working at managerial level",102500.0,,USD,,,US,Massachusetts,Boston,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-07 15:50:36,18-24,Computing or Tech,Software Engineer II,,105000.0,0.0,USD,,,US,Massachusetts,Boston,2 - 4 years,2 - 4 years,College degree,Man,Middle Eastern or Northern African
+2021-05-07 15:53:39,25-34,Computing or Tech,Head of Product Management,,180000.0,36000.0,USD,,,US,Massachusetts,Boston,11 - 20 years,5-7 years,College degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-05-07 16:50:33,25-34,Computing or Tech,Senior Supervisor,,77400.0,5000.0,USD,,,US,Massachusetts,Fall River,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-07 17:25:36,25-34,Computing or Tech,Graphic Designer,graphic designer for a user interface,49400.0,0.0,USD,,,US,Colorado,Fort Collins,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-07 18:45:26,25-34,Computing or Tech,Engagement Manager,,140000.0,25000.0,USD,,,US,Texas,Austin,5-7 years,5-7 years,College degree,Woman,White
+2021-05-07 22:51:23,35-44,Computing or Tech,Software engineer,,230100.0,275000.0,USD,,,US,California,San Francisco,11 - 20 years,8 - 10 years,College degree,Non-binary,White
+2021-05-07 23:00:05,25-34,Computing or Tech,software engineer,,135200.0,13200.0,USD,,,US,Illinois,Chicago,5-7 years,5-7 years,Master's degree,Man,White
+2021-05-07 23:55:15,35-44,Computing or Tech,Technology Relationship Manager,,142000.0,15000.0,USD,,,US,Arizona,Phoenix,11 - 20 years,11 - 20 years,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-05-08 00:03:04,35-44,Computing or Tech,Application Support Manager,,115000.0,12000.0,USD,,,US,Colorado,Denver,11 - 20 years,11 - 20 years,College degree,Man,"Asian or Asian American, White"
+2021-05-08 01:12:46,25-34,Computing or Tech,Software Engineer,,168000.0,120000.0,USD,,,United States ,California,Cupertino,8 - 10 years,8 - 10 years,College degree,Non-binary,White
+2021-05-08 12:06:43,25-34,Computing or Tech,Data Scientist,,130000.0,13000.0,USD,,,US,North Carolina,Charlotte,2 - 4 years,2 - 4 years,PhD,Man,White
+2021-05-08 13:33:20,25-34,Computing or Tech,Associate General Counsel,,250000.0,37500.0,USD,,15% performance bonus,US,California,San Francisco,5-7 years,5-7 years,"Professional degree (MD, JD, etc.)",Woman,White
+2021-05-08 14:59:24,25-34,Computing or Tech,SWE manager,,190000.0,100000.0,USD,,,Israel,,Tel Aviv,11 - 20 years,11 - 20 years,College degree,Man,Middle Eastern or Northern African
+2021-05-08 16:42:12,25-34,Computing or Tech,Networking PM,,91000.0,5300.0,USD,,,United States ,Michigan,Detroit,5-7 years,5-7 years,Master's degree,Woman,White
+2021-05-08 19:40:41,45-54,Computing or Tech,Senior Talent Acquisition Specialist ,,107000.0,10500.0,USD,,,US,Pennsylvania,Philadelphia ,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-08 23:49:00,25-34,Computing or Tech,Research IT specialist ,,58000.0,0.0,USD,,,US,Wisconsin,Madison,11 - 20 years,5-7 years,College degree,Non-binary,White
+2021-05-09 11:25:44,25-34,Computing or Tech,GIS Technician,,52000.0,0.0,USD,,,US,California,Sunnyvale,2 - 4 years,1 year or less,College degree,Woman,White
+2021-05-09 12:29:24,45-54,Computing or Tech,Senior HR Generalist,,70000.0,5000.0,USD,,,US,New York,New York,8 - 10 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-05-09 15:15:55,45-54,Computing or Tech,Senior Director,Program lead on a tech consulting gig,201000.0,50000.0,USD,,,US,Illinois,Chicago,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-05-09 17:22:47,25-34,Computing or Tech,Service Delivery Manager,,100000.0,20000.0,USD,,,US,Maryland,Frederick,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-05-09 17:58:15,25-34,Computing or Tech,Lead Software Engineer,,129700.0,5000.0,USD,,,US,New York,New York,5-7 years,5-7 years,Master's degree,Man,Asian or Asian American
+2021-05-09 19:05:58,45-54,Computing or Tech,web Application Developer ,,75000.0,,USD,,,US,Texas,canyon,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-05-09 21:30:13,35-44,Computing or Tech,EHR Analyst Senior,Epic EHR analyst,62000.0,0.0,USD,,,US,Kentucky,Lexington,8 - 10 years,2 - 4 years,College degree,Man,White
+2021-05-09 21:50:35,35-44,Computing or Tech,Software Development Engineer,,95000.0,,USD,,,US,Idaho,Boise,8 - 10 years,8 - 10 years,Some college,Man,White
+2021-05-09 22:21:42,18-24,Computing or Tech,Software Engineer,,82000.0,0.0,USD,,,US,Colorado,Colorado Springs,1 year or less,1 year or less,Master's degree,Man,White
+2021-05-10 09:54:33,25-34,Computing or Tech,Operations Analyst,,88120.0,12350.0,USD,,,US,Texas,Austin,8 - 10 years,5-7 years,College degree,Woman,"Hispanic, Latino, or Spanish origin"
+2021-05-10 10:03:05,35-44,Computing or Tech,Customer Success Manager,,120000.0,20000.0,USD,,,US,Massachusetts,Boston,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-10 12:22:02,25-34,Computing or Tech,Technical writer,,83000.0,10000.0,USD,,,US,Colorado,Colorado Springs,8 - 10 years,8 - 10 years,College degree,Man,"Asian or Asian American, White"
+2021-05-10 14:18:58,55-64,Computing or Tech,Software Test Engineer,,95000.0,1500.0,USD,,,US,Alabama,Montgomery,31 - 40 years,21 - 30 years,Some college,Woman,White
+2021-05-10 17:09:09,25-34,Computing or Tech,Senior Recruiter,,75000.0,15000.0,USD,,"$7,500 annual bonus and $7,500 annual RSU value",US,Massachusetts,Boston,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-10 20:38:50,35-44,Computing or Tech,Senior Software Engineer,,16200.0,20000.0,USD,,RSUs,US,Oregon,Portland,8 - 10 years,5-7 years,PhD,Man,"Hispanic, Latino, or Spanish origin"
+2021-05-11 10:39:10,25-34,Computing or Tech,IT Support Engineer 1,,73000.0,18000.0,USD,,,US,Oregon,Hillsboro,11 - 20 years,5-7 years,College degree,Man,White
+2021-05-11 12:01:42,45-54,Computing or Tech,Software Engineering Principal Member of Technical Staff ,,188000.0,76000.0,USD,,salary + company wide cash bonus + individual stock grant ,U.S.A,Washington,Seattle,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-05-11 12:50:22,35-44,Computing or Tech,Sr B2C Solutions Consultant,Salesforce implementation partner,125000.0,4500.0,USD,,,US,Colorado,Denver,11 - 20 years,2 - 4 years,Master's degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-05-11 16:41:09,35-44,Computing or Tech,Senior Software Engineer,,164500.0,24000.0,USD,,,US,Kansas,Wichita,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-11 18:17:17,35-44,Computing or Tech,Director of People Operations,HR Director,90000.0,,USD,,,US,Illinois,Chicago,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-05-11 20:32:20,25-34,Computing or Tech,Software Engineer III,,123170.0,,USD,,,US,New York,Brooklyn,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-12 00:57:45,35-44,Computing or Tech,Webmaster,,35000.0,250.0,USD,,,US,Arizona,Phoenix,11 - 20 years,2 - 4 years,College degree,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-05-12 15:11:29,25-34,Computing or Tech,Mid-Level Systems Administrator,,87000.0,,USD,,,US,California,Los Angeles,5-7 years,5-7 years,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-05-12 16:30:52,35-44,Computing or Tech,Technical Comms Manager,Managing PR traffic in a tech industry,70000.0,,USD,,,US,Texas,Fort Worth,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-12 16:38:57,18-24,Computing or Tech,Mathematician,,65000.0,,USD,,,US,Texas,Austin,2 - 4 years,1 year or less,College degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-05-12 17:12:39,25-34,Computing or Tech,Operations Analyst,,58822.0,4200.0,USD,,,US,California,Folsom,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-13 13:08:19,25-34,Computing or Tech,Software Engineer,,145000.0,30000.0,USD,,,US,New York,NYC,2 - 4 years,2 - 4 years,College degree,Man,"Asian or Asian American, White"
+2021-05-13 17:38:47,35-44,Computing or Tech,Software Engineer,,126000.0,10000.0,USD,,,US,New York,New York,5-7 years,2 - 4 years,College degree,Woman,White
+2021-05-13 17:43:09,25-34,Computing or Tech,Information security,,125000.0,10000.0,USD,,,US,California,El segundo,5-7 years,5-7 years,Master's degree,Man,White
+2021-05-13 18:53:45,25-34,Computing or Tech,Controller ,(Accounting),170000.0,25500.0,USD,,,US,Texas,Frisco,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-13 20:04:33,25-34,Computing or Tech,Software Engineer,Dev Lead,115000.0,10000.0,USD,,,US,Colorado,Denver,5-7 years,5-7 years,College degree,Woman,White
+2021-05-13 20:11:55,25-34,Computing or Tech,Program Manager,,90000.0,9000.0,USD,,,US,North Carolina,Raleigh,5-7 years,2 - 4 years,College degree,Man,"Asian or Asian American, White"
+2021-05-13 20:33:40,25-34,Computing or Tech,Product Marketing Manager,,140000.0,,USD,,,US,California,Oakland,11 - 20 years,11 - 20 years,College degree,Non-binary,White
+2021-05-14 07:55:58,25-34,Computing or Tech,Executive Communications Manager,,115000.0,,USD,,,US,New York,New York ,8 - 10 years,5-7 years,College degree,Woman,White
+2021-05-14 17:36:19,25-34,Computing or Tech,Product design ,,183000.0,0.0,USD,,,US,District of Columbia,DC,8 - 10 years,5-7 years,Master's degree,Woman,White
+2021-05-14 19:47:03,45-54,Computing or Tech,Senior Software Engineer,,175000.0,50000.0,USD,,,US,Massachusetts,Cambridge,21 - 30 years,21 - 30 years,College degree,Man,"Asian or Asian American, White"
+2021-05-14 23:56:21,18-24,Computing or Tech,Software Engineer,,95000.0,8000.0,USD,,,US,Minnesota,Minneapolis ,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-05-15 09:39:32,25-34,Computing or Tech,Software Engineer II,,140000.0,,USD,,New job; don't know bonuses.,US,Illinois,Chicago,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-05-15 10:29:14,18-24,Computing or Tech,Software Developer,,95000.0,,USD,,,US,Wisconsin,Madison,1 year or less,1 year or less,College degree,Woman,White
+2021-05-17 00:30:18,25-34,Computing or Tech,Data Scientist,,135000.0,40000.0,USD,,,US,Texas,Austin,1 year or less,1 year or less,PhD,Man,White
+2021-05-17 17:47:30,25-34,Computing or Tech,Chief of Staff,,148000.0,29000.0,USD,,,US,California,Bay Area,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-18 10:03:28,25-34,Computing or Tech,Customer Success,,125000.0,12500.0,USD,,,US,Texas,Dallas,2 - 4 years,2 - 4 years,PhD,Man,White
+2021-05-18 20:16:54,35-44,Computing or Tech,Senior Manager - Tax,In-house tax attorney ,378000.0,0.0,USD,,,US,Virginia,Arlington,8 - 10 years,8 - 10 years,"Professional degree (MD, JD, etc.)",Woman,White
+2021-05-18 22:17:56,25-34,Computing or Tech,Marketing Coordinator,,61000.0,3000.0,USD,,,US,California,Orange County,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-05-19 07:34:43,35-44,Computing or Tech,Senior success engineer (tier 2),Support,93000.0,15000.0,USD,,,United States ,Oregon,Portland ,11 - 20 years,11 - 20 years,Some college,Woman,White
+2021-05-19 09:11:04,35-44,Computing or Tech,Senior Embedded Software Engineer,,128000.0,,USD,,"I am paid hourly, including hours worked over 40.  $128,000 is my base pay working 40 hours/week for an entire year based on my hourly rate.",US,Minnesota,Minneapolis,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-05-19 10:43:56,35-44,Computing or Tech,Programmer ,,350000.0,100000.0,USD,,,USA ,Alabama,Mobile ,5-7 years,5-7 years,High School,Woman,Black or African American
+2021-05-19 15:36:24,25-34,Computing or Tech,Candidate Experience Specialist,,70000.0,0.0,USD,,,US,California,San Francisco,8 - 10 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-05-20 07:56:34,35-44,Computing or Tech,principal engineer,,215000.0,40000.0,USD,,,US,New York,New York,11 - 20 years,8 - 10 years,PhD,Man,White
+2021-05-21 07:30:37,25-34,Computing or Tech,Financial analyst ,,77500.0,4000.0,USD,,,USA ,Massachusetts,Boston ,5-7 years,2 - 4 years,College degree,Man,White
+2021-05-21 07:32:17,25-34,Computing or Tech,Financial analyst ,,77500.0,4000.0,USD,,,USA ,Massachusetts,Boston ,5-7 years,2 - 4 years,College degree,Man,White
+2021-05-21 14:25:39,25-34,Computing or Tech,Engineering Manager,,187000.0,0.0,USD,,,US,Virginia,Arlington,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-05-23 13:23:20,25-34,Computing or Tech,Senior Program Associate ,,75000.0,,USD,,,US,California,Redwood City,5-7 years,5-7 years,College degree,Woman,White
+2021-05-24 18:03:17,25-34,Computing or Tech,Graduate Student,,41000.0,6000.0,USD,,,US,Massachusetts,Cambridge,2 - 4 years,2 - 4 years,Master's degree,Man,White
+2021-05-24 20:54:05,35-44,Computing or Tech,Front-end Web Developer,,124800.0,0.0,USD,,W-2 contractor with no benefits,US,California,Los Angeles,21 - 30 years,5-7 years,Master's degree,Woman,White
+2021-05-25 10:39:03,45-54,Computing or Tech,Information Technology Professional,,76480.0,,USD,,,US,Minnesota,Minneapolis,31 - 40 years,21 - 30 years,College degree,Woman,White
+2021-05-25 10:50:28,25-34,Computing or Tech,Database Software Engineer,,93000.0,,USD,,,US,Oregon,Portland,11 - 20 years,2 - 4 years,Master's degree,Woman,White
+2021-05-26 00:33:25,18-24,Computing or Tech,Software Developer,,74000.0,0.0,USD,,,US,Kansas,Wichita,5-7 years,5-7 years,High School,Man,White
+2021-05-27 11:35:59,35-44,Computing or Tech,Senior Director of Engineering,,235000.0,,USD,,Stock options are additional to base salary,US,New York,New York City,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-05-27 16:30:37,25-34,Computing or Tech,Senior Software Engineer,,160000.0,15000.0,USD,,,US,California,San Francisco,8 - 10 years,5-7 years,Master's degree,Man,White
+2021-05-27 21:39:27,35-44,Computing or Tech,Senior Technical Program Manager,,154000.0,84000.0,USD,,,US,Washington,Seattle,11 - 20 years,8 - 10 years,Some college,Woman,Asian or Asian American
+2021-05-28 00:49:37,35-44,Computing or Tech,Quality control ,,84000.0,1000.0,USD,,,United States ,California,Modesto ,11 - 20 years,11 - 20 years,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2021-05-28 14:22:57,25-34,Computing or Tech,UX Product Design Lead,User Experience and Software Product Design just above Senior level,127500.0,1000.0,USD,,,US,Oregon,Portland,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-05-28 15:36:54,35-44,Computing or Tech,Training Content Developer,,58000.0,4000.0,USD,,,US,New York,Rochester,11 - 20 years,2 - 4 years,Master's degree,Woman,White
+2021-05-28 21:44:53,25-34,Computing or Tech,Internal Consultant,technical consulting,120000.0,0.0,USD,,Not eligible for a bonus this year bc I just started,US,Massachusetts,Boston,1 year or less,1 year or less,PhD,Woman,White
+2021-05-29 12:41:05,25-34,Computing or Tech,Software Developer,,180000.0,120000.0,USD,,,US,New York,New York,2 - 4 years,2 - 4 years,College degree,Man,Asian or Asian American
+2021-06-02 01:21:20,25-34,Computing or Tech,Front End Engineer,,100000.0,10000.0,USD,,,US,North Carolina,Raleigh,2 - 4 years,2 - 4 years,Some college,Woman,Asian or Asian American
+2021-06-03 09:15:04,25-34,Computing or Tech,"Manager, Revenue Operations",,100000.0,10000.0,USD,,,US,Massachusetts,Burlington,5-7 years,5-7 years,College degree,Woman,White
+2021-06-03 17:13:46,25-34,Computing or Tech,RPA Developer,,109200.0,0.0,USD,,,US,"District of Columbia, Virginia",Alexandria ,5-7 years,2 - 4 years,Some college,Woman,White
+2021-06-04 18:01:24,25-34,Computing or Tech,Digital marketing manager,,59000.0,3000.0,USD,,,US,District of Columbia,"Washington, DC",2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-06-04 22:10:28,25-34,Computing or Tech,Software Engineer,,175000.0,175000.0,USD,,,US,Massachusetts,Boston,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-06-09 13:26:26,25-34,Computing or Tech,UX Researcher,,66000.0,,USD,,,US,Florida,Remote,11 - 20 years,2 - 4 years,Master's degree,Woman,Black or African American
+2021-06-09 23:07:04,35-44,Computing or Tech,Senior Copywriter,,89000.0,17000.0,USD,,,US,Minnesota,Minneapolis,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-06-10 08:35:46,25-34,Computing or Tech,"Manager, Program Management",,115000.0,25000.0,USD,,,US,Texas,Austin,11 - 20 years,5-7 years,College degree,Woman,White
+2021-06-13 08:23:34,25-34,Computing or Tech,software engineer,,176000.0,,USD,,,US,Maryland,washington DC,8 - 10 years,8 - 10 years,Master's degree,Man,White
+2021-06-13 22:30:26,25-34,Computing or Tech,CX Lead and Scrum Master,"QA Lead for a small team, Support Manager, and Scrum Master",87500.0,1000.0,USD,,,US,Oregon,Salem,11 - 20 years,5-7 years,College degree,Man,White
+2021-06-16 09:23:34,35-44,Computing or Tech,Segment Marketing Manager,Marketing Campaigns,87000.0,12000.0,USD,,Additional compensation is the target bonus payout - actual payout depends on company performance,US,Texas,San Antonio,11 - 20 years,11 - 20 years,College degree,Woman,"Asian or Asian American, White"
+2021-06-16 11:34:32,25-34,Computing or Tech,HRIS Architect,,155000.0,,USD,,,US,Maryland,"Remote, based out of Baltimore, MD metro area",11 - 20 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2021-06-16 21:09:01,25-34,Computing or Tech,Software Engineer II,,78750.0,4000.0,USD,,,US,Florida,Fort Lauderdale,11 - 20 years,2 - 4 years,College degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-06-22 02:30:54,35-44,Computing or Tech,Director of sales,,90000.0,15000.0,USD,,,US,Minnesota,Lakeville,11 - 20 years,2 - 4 years,Some college,Woman,White
+2021-06-25 14:18:54,25-34,Computing or Tech,Front End Web Developer,,85000.0,10200.0,USD,,,US,Utah,Lehi,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-06-25 16:17:55,25-34,Computing or Tech,Project Manager,,128000.0,12800.0,USD,,,US,Michigan,Madison Heights,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-07-01 23:06:50,35-44,Computing or Tech,senior technical professional,defense with a clearance,110000.0,2000.0,USD,,,US,California,Ventura,5-7 years,5-7 years,College degree,Man,Asian or Asian American
+2021-07-02 21:35:13,35-44,Computing or Tech,Product Manager,,99000.0,15000.0,USD,,,US,Pennsylvania,Moon Twp. PA,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-07-06 03:52:12,45-54,Computing or Tech,Principal Engineer,,175000.0,125000.0,USD,,,New Zealand,,Wellington,21 - 30 years,11 - 20 years,High School,Man,White
+2021-07-06 04:13:00,35-44,Computing or Tech,Creative technologist ,,200000.0,200000.0,USD,,,USA ,California,Sunnyvale ,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-07-13 23:39:05,25-34,Computing or Tech,Services and Systems designer,"Human centered Design work, building of tech and products, redesigning systems and services ",49000.0,0.0,USD,,,US,Florida,Miami,11 - 20 years,5-7 years,College degree,Non-binary,"Asian or Asian American, Hispanic, Latino, or Spanish origin"
+2021-07-14 11:16:14,18-24,Computing or Tech,Implementation Analyst,,42000.0,,USD,,,US,Florida,Lake Mary,2 - 4 years,2 - 4 years,,,
+2021-07-14 18:34:13,35-44,Computing or Tech,Software Engineering manager,,194000.0,118000.0,USD,,,US,California,San Francisco ,11 - 20 years,2 - 4 years,College degree,Man,Asian or Asian American
+2021-07-14 19:15:13,35-44,Computing or Tech,Client success manager ,,65000.0,15000.0,USD,,,United States ,Arizona,Scottsdale,5-7 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-07-16 18:08:04,45-54,Computing or Tech,Senior Software Engineer II,Team lead and Scrummaster,129000.0,11000.0,USD,,,US,Texas,Richardson,21 - 30 years,21 - 30 years,College degree,Woman,White
+2021-07-18 12:37:53,35-44,Computing or Tech,"DevOps, Senior Engineer",,176000.0,17600.0,USD,,,US,"California, Colorado",Denver metro,11 - 20 years,5-7 years,College degree,Man,White
+2021-07-24 16:38:01,18-24,Computing or Tech,Software Engineer,,195000.0,,USD,,,US,New York,New York City,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-07-26 21:23:22,25-34,Computing or Tech,Software Engineer,,140000.0,0.0,USD,,,US,California,Palo Alto,5-7 years,2 - 4 years,College degree,,
+2021-07-27 07:23:04,25-34,Computing or Tech,Director of Cybersecurity,,120000.0,0.0,USD,,,US,Washington,Seattle,8 - 10 years,2 - 4 years,Master's degree,Woman,White
+2021-07-28 18:12:12,45-54,Computing or Tech,Operations Manager,,100000.0,12000.0,USD,,,US,California,Los Angeles,21 - 30 years,11 - 20 years,College degree,Woman,White
+2021-08-03 01:32:54,35-44,Computing or Tech,Senior Software Engineer,Front End Engineer,287000.0,,USD,,,US,Washington,Seattle,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-08-04 13:17:35,35-44,Computing or Tech,Senior Project Manager,"Working in tech industry, doing project management and operational excellence",52000.0,43000.0,USD,,,Thailand,,Bangkok,11 - 20 years,5-7 years,Master's degree,Woman,Asian or Asian American
+2021-08-06 18:40:57,35-44,Computing or Tech,Sr. Sales Compensation Analyst,,115000.0,5000.0,USD,,,US,California,San Diego,11 - 20 years,8 - 10 years,High School,Woman,Asian or Asian American
+2021-08-10 22:09:32,35-44,Computing or Tech,Staff Site Reliability Engineer,,187500.0,15000.0,USD,,,US,Pennsylvania,Philadelphia,21 - 30 years,5-7 years,High School,Man,White
+2021-08-11 10:54:31,45-54,Computing or Tech,Principal member of Technical Staff,Software Developer,196000.0,40000.0,USD,,,US,Washington,Seattle,21 - 30 years,21 - 30 years,Master's degree,Man,White
+2021-08-12 00:02:18,25-34,Computing or Tech,Solutions Engineer,"Sales Engineer, Pre-sales Engineer",140000.0,,USD,,,US,Georgia,Atlanta,8 - 10 years,2 - 4 years,College degree,Woman,White
+2021-08-12 21:59:42,18-24,Computing or Tech,Project Based Escalated CSR Rep and Specialized QA Auditor,"I work for a tech company in a specialized project Based department, where I can handle multiple workflows. Currently, I am QA-ing fellow Escalation Agents in our Specialized department.",36958.0,1500.0,USD,,,US,Oklahoma,Broken Arrow,11 - 20 years,2 - 4 years,High School,Man,White
+2021-08-13 11:04:28,25-34,Computing or Tech,Privacy Program Manager,,163000.0,30000.0,USD,,,US,Illinois,Chicago,8 - 10 years,8 - 10 years,Master's degree,Woman,Black or African American
+2021-08-13 12:31:10,35-44,Computing or Tech,Consulting Manager,Workday HCM Implementation consultant,150000.0,40000.0,USD,,,US,Georgia,Atlanta,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-08-13 14:00:14,25-34,Computing or Tech,Product Manager,,82500.0,,USD,,,US,Louisiana,New Orleans,5-7 years,5-7 years,Master's degree,Woman,White
+2021-08-13 14:31:39,35-44,Computing or Tech,Accounting Manager,,85000.0,,USD,,,US,Michigan,Grand Rapids,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-08-13 15:38:57,25-34,Computing or Tech,Testing Manager,Quality Assurance Manager,72000.0,21000.0,USD,,,US,Pennsylvania,Harrisburg,5-7 years,5-7 years,Master's degree,Woman,White
+2021-08-13 16:51:04,25-34,Computing or Tech,Systems Engineer,Cyber security,77000.0,12000.0,USD,,,US,Arkansas,Bentonville,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-08-13 20:49:59,35-44,Computing or Tech,Operations Manager and HR Generalist,,108000.0,,USD,,,US,California,Emeryville,11 - 20 years,8 - 10 years,Some college,Woman,White
+2021-08-14 16:50:48,45-54,Computing or Tech,"Supervisor, Surgery/Anesthesia EHR Module",I supervise the analysts who build the EHR for documentation used by surgery and anesthesia staff in a large multi-facility organization.,109700.0,2200.0,USD,,"The extra pay is off-hours call pay, which is the standard for all analysts",US,Wisconsin,Madison,21 - 30 years,2 - 4 years,Master's degree,Woman,White
+2021-08-16 11:29:20,45-54,Computing or Tech,Infrastructure Engineer,,125000.0,0.0,USD,,Took a lower-paying job with less stress (e.g. no on-call),US,North Carolina,"Raleigh, NC",21 - 30 years,21 - 30 years,Some college,Man,White
+2021-08-16 14:51:34,25-34,Computing or Tech,Principal Technical Writer,,135000.0,20000.0,USD,,,US,Massachusetts,Boston,5-7 years,5-7 years,College degree,Woman,White
+2021-08-16 17:05:01,25-34,Computing or Tech,Manager of Business Intelligence,,143000.0,21000.0,USD,,,US,Massachusetts,Cambridge,5-7 years,5-7 years,College degree,Man,White
+2021-08-16 20:46:19,35-44,Computing or Tech,Data Lead,Manager and tech lead of a data analytics team,140000.0,,USD,,,US,Missouri,St. Louis,11 - 20 years,8 - 10 years,Master's degree,Woman,White
+2021-08-16 22:19:05,25-34,Computing or Tech,Staff Scientist/Engineer 1,,85550.0,6000.0,USD,,,US,North Carolina,Raleigh ,5-7 years,2 - 4 years,PhD,Woman,Asian or Asian American
+2021-08-16 22:41:38,25-34,Computing or Tech,Senior Data Analyst,Analytics Engineering Tech Lead,110000.0,20000.0,USD,,,US,New York,NYC,5-7 years,5-7 years,College degree,Man,Asian or Asian American
+2021-08-19 15:40:05,25-34,Computing or Tech,Marketing Manager,,76000.0,5000.0,USD,,,US,Colorado,Denver,5-7 years,5-7 years,College degree,Woman,"Asian or Asian American, White"
+2021-08-20 21:06:55,35-44,Computing or Tech,Program Manager,,170000.0,0.0,USD,,,US,Virginia,Chantilly,11 - 20 years,11 - 20 years,Master's degree,Woman,White
+2021-08-24 09:00:36,55-64,Computing or Tech,Engineer,Semiconductor (chips),156000.0,34000.0,USD,,,US,Massachusetts,Hudson,31 - 40 years,31 - 40 years,College degree,Man,White
+2021-08-24 17:01:19,25-34,Computing or Tech,User Experience Researcher,,90000.0,,USD,,,US,New York,New York City,5-7 years,2 - 4 years,College degree,Non-binary,White
+2021-08-30 22:31:46,35-44,Computing or Tech,Product Manager,,106000.0,,USD,,,US,Virginia,Richmond,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-08-31 10:56:01,25-34,Computing or Tech,Software engineer ,,125000.0,,USD,,,US,Kentucky,Louisville,5-7 years,5-7 years,College degree,Man,White
+2021-09-02 12:43:24,18-24,Computing or Tech,Software Engineering Intern,,28800.0,0.0,USD,,,US,Florida,Melbourne,2 - 4 years,1 year or less,Some college,Man,White
+2021-09-07 12:32:00,18-24,Computing or Tech,Ooperations intern,,29120.0,,USD,,,US,Georgia,Atlanta,2 - 4 years,1 year or less,Some college,Man,Black or African American
+2021-09-10 16:08:18,25-34,Computing or Tech,Senior Marketing Manager,,127000.0,,USD,,,US,Texas,Austin,8 - 10 years,8 - 10 years,College degree,Woman,White
+2021-09-14 15:43:36,35-44,Computing or Tech,"Manager, Applications Engineering",,182601.0,18000.0,USD,,,US,California,San Francisco,21 - 30 years,11 - 20 years,Master's degree,Woman,White
+2021-09-14 21:55:44,25-34,Computing or Tech,Sales Operations Manager ,,100000.0,10000.0,USD,,,US,Massachusetts,Burlington,5-7 years,2 - 4 years,College degree,Woman,White
+2021-09-15 11:54:24,25-34,Computing or Tech,Sales Engineer,I am the technical resource on the sales team that provides demos of our software to prospects during the sales cycle.,90000.0,10000.0,USD,,,US,Illinois,Chicago,5-7 years,5-7 years,College degree,Woman,White
+2021-09-16 11:46:21,25-34,Computing or Tech,Senior Analytics Engineer,,120850.0,24000.0,USD,,,US,California,San Francisco,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-09-23 16:27:44,25-34,Computing or Tech,Analytics Manager,,93000.0,13000.0,USD,,,US,Oregon,Portland,5-7 years,5-7 years,College degree,Man,"Asian or Asian American, White"
+2021-09-27 10:25:51,25-34,Computing or Tech,Principal Business Consultant,"Role might be referred to as Pre-Sales Consultant, Sales Engineer, Solutions Consultant, or something similar at other firms",133000.0,,USD,,,US,New Jersey,Jersey City,8 - 10 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-09-30 23:50:13,35-44,Computing or Tech,Senior Program Manager,Project Manager,125000.0,30000.0,USD,,,US,Washington,Spokane,21 - 30 years,11 - 20 years,College degree,Woman,Native American or Alaska Native
+2021-10-03 11:50:50,18-24,Computing or Tech,Data Analyst,,110000.0,,USD,,,US,California,Los Angeles,2 - 4 years,1 year or less,College degree,Man,Asian or Asian American
+2021-10-06 01:13:07,35-44,Computing or Tech,Software Architect,,106000.0,0.0,USD,,,US,Maryland,"Baltimore, MD",8 - 10 years,8 - 10 years,College degree,Man,White
+2021-10-06 15:17:31,25-34,Computing or Tech,Senior Analyst,,109000.0,47000.0,USD,,,US,New York,New York,5-7 years,2 - 4 years,College degree,Woman,White
+2021-10-06 16:23:35,25-34,Computing or Tech,Director of Research & Prototyping,,105000.0,7000.0,USD,,,US,Illinois,Chicago,2 - 4 years,2 - 4 years,Master's degree,Man,White
+2021-10-07 22:37:10,45-54,Computing or Tech,Senior Engineering Manager,,195000.0,84000.0,USD,,,US,Oregon,Portland,31 - 40 years,21 - 30 years,College degree,Man,White
+2021-10-10 13:45:59,55-64,Computing or Tech,Systems Analyst IV,,130000.0,15000.0,USD,,Potential bonus,US,Texas,Dallas Area,21 - 30 years,21 - 30 years,Some college,Woman,White
+2021-10-15 13:05:51,25-34,Computing or Tech,Senior Consultant,Sr. Cyber Security Engineer,160000.0,,USD,,,US,Virginia,Fairfax,5-7 years,2 - 4 years,College degree,Man,Asian or Asian American
+2021-10-16 08:29:23,35-44,Computing or Tech,"VP, Controller",,270000.0,104000.0,USD,,,US,Connecticut,Norwalk,21 - 30 years,21 - 30 years,Master's degree,Woman,White
+2021-10-17 16:52:25,25-34,Computing or Tech,DevSecOps Engineer,,92000.0,,USD,,,US,Virginia,Alexandria,5-7 years,2 - 4 years,College degree,Man,Asian or Asian American
+2021-10-26 10:31:43,35-44,Computing or Tech,Senior devops engineer,,165000.0,8300.0,USD,,,US,North Carolina,Durham,11 - 20 years,11 - 20 years,High School,Man,White
+2021-10-26 10:34:22,35-44,Computing or Tech,"Manager, IT Security Operations",,125000.0,5000.0,USD,,,US,Wisconsin,Milwaukee,8 - 10 years,8 - 10 years,College degree,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-10-26 10:38:04,25-34,Computing or Tech,Program Manager,Cybersecurity,135000.0,6000.0,USD,,,US,New Jersey,Decline,8 - 10 years,2 - 4 years,Some college,Woman,
+2021-10-26 10:38:06,35-44,Computing or Tech,Senior Software Engineer,,74880.0,0.0,USD,,,US,California,Sacramento,8 - 10 years,8 - 10 years,Some college,Man,White
+2021-10-26 10:39:47,35-44,Computing or Tech,NOC Engineer,"Level 1 / 2 help desk for MSP, Sysadmin, light network engineer",43000.0,4000.0,USD,,43k / year + quarterly 1k bonus,US,Ohio,Toledo,21 - 30 years,8 - 10 years,Some college,Man,White
+2021-10-26 10:46:19,25-34,Computing or Tech,Embedded Software Engineer,,115000.0,,USD,,,US,Virginia,Alexandria,5-7 years,2 - 4 years,College degree,Man,White
+2021-10-26 10:47:34,25-34,Computing or Tech,Full Stack Software Engineer II,,87000.0,,USD,,,US,Minnesota,Minneapolis,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-10-26 10:53:41,25-34,Computing or Tech,Data Analyst,Technology,95500.0,4800.0,USD,,,US,Florida,St Petersburg,11 - 20 years,2 - 4 years,College degree,Man,White
+2021-10-26 10:56:40,18-24,Computing or Tech,Technical Support Specialist II,,45000.0,0.0,USD,,,US,Oklahoma,Oklahoma City,5-7 years,5-7 years,College degree,Man,White
+2021-10-26 10:59:54,25-34,Computing or Tech,Senior Quality Engineer,,135000.0,13500.0,USD,,,US,Texas,Austin,8 - 10 years,5-7 years,College degree,Man,White
+2021-10-26 11:01:49,35-44,Computing or Tech,Sales Engineer,Security Software Industry,125000.0,60000.0,USD,,,US,Georgia,Atlanta,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-10-26 11:03:22,25-34,Computing or Tech,Senior Fullstack Engineer,,157000.0,22000.0,USD,,,US,Illinois,Chicago,5-7 years,5-7 years,College degree,Man,Asian or Asian American
+2021-10-26 11:03:42,25-34,Computing or Tech,Software Developer,Back-end software developer,122950.0,,USD,,,US,Rhode Island,Remote,11 - 20 years,8 - 10 years,College degree,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-10-26 11:03:55,35-44,Computing or Tech,"Manager, Software Dev & Eng",,145000.0,89000.0,USD,,,US,Pennsylvania,Philadelphia,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-10-26 11:07:43,45-54,Computing or Tech,Product Owner - Agile Scrum,Financial Services Software Development,146000.0,20000.0,USD,,,US,Massachusetts,Boston,21 - 30 years,21 - 30 years,College degree,Man,White
+2021-10-26 11:11:27,18-24,Computing or Tech,Solutions Engineering Analyst,Tech Consulting,90000.0,12000.0,USD,,,US,Texas,Houston,1 year or less,1 year or less,College degree,Man,Asian or Asian American
+2021-10-26 11:11:58,25-34,Computing or Tech,Product Designer,,84000.0,3000.0,USD,,,US,Louisiana,New Orleans,5-7 years,2 - 4 years,College degree,Woman,White
+2021-10-26 11:12:10,25-34,Computing or Tech,Research Associate,,104500.0,15600.0,USD,,,USA ,California,South San Francisco,2 - 4 years,2 - 4 years,Master's degree,Woman,White
+2021-10-26 11:13:11,25-34,Computing or Tech,Computer Systems Analyst,Business Intelligence Developer,81500.0,0.0,USD,,,US,"California, Maryland",Los Angeles,8 - 10 years,5-7 years,College degree,Man,White
+2021-10-26 11:13:22,55-64,Computing or Tech,Systems Administrator,,81000.0,2000.0,USD,,,US,Pennsylvania,Horsham,31 - 40 years,21 - 30 years,College degree,Man,White
+2021-10-26 11:15:48,35-44,Computing or Tech,Software Engineer,"SQL, NextGen Development",82000.0,0.0,USD,,,US,Idaho,Coeur d Alene,8 - 10 years,8 - 10 years,Some college,Woman,White
+2021-10-26 11:17:33,25-34,Computing or Tech,VP of Engineering,,180000.0,60000.0,USD,,,US,Oklahoma,Oklahoma City,11 - 20 years,2 - 4 years,High School,Man,White
+2021-10-26 11:20:28,25-34,Computing or Tech,Senior data scientist,,140000.0,12000.0,USD,,,US,Florida,,5-7 years,2 - 4 years,Master's degree,Man,White
+2021-10-26 11:27:46,25-34,Computing or Tech,Dir of Technology,,130000.0,0.0,USD,,,US,Illinois,Aurora,11 - 20 years,11 - 20 years,Some college,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-10-26 11:28:14,18-24,Computing or Tech,Senior SQL Developer,,86000.0,,USD,,,US,Florida,Tampa,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-10-26 11:30:05,35-44,Computing or Tech,Solution Architect,,180000.0,,USD,,,US,New York,Albany ,11 - 20 years,11 - 20 years,Master's degree,Man,Asian or Asian American
+2021-10-26 11:36:20,25-34,Computing or Tech,Service Center Tech,,36795.0,,USD,,,US,Illinois,St. Louis,11 - 20 years,2 - 4 years,,Man,
+2021-10-26 11:46:27,35-44,Computing or Tech,Developer,,91250.0,4000.0,USD,,,US,Vermont,Thetford Center,11 - 20 years,5-7 years,College degree,Man,White
+2021-10-26 11:47:37,18-24,Computing or Tech,Assistant Director,Assistant manager of a coding education center for children.,15000.0,0.0,USD,,,US,Indiana,Indianapolis,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-10-26 11:50:55,25-34,Computing or Tech,Business Analyst,,64000.0,4000.0,USD,,,US,Texas,Houston,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-10-26 11:52:56,25-34,Computing or Tech,Account Manager,,116000.0,30000.0,USD,,"I work in sales, so my income is variable - assuming I'm hitting targets, total target comp is $146,000; I typically net out annually at or very close to this number",US,Illinois,Chicago,5-7 years,2 - 4 years,College degree,Woman,"Asian or Asian American, Hispanic, Latino, or Spanish origin"
+2021-10-26 11:56:01,25-34,Computing or Tech,Web Developer,,74620.0,,USD,,,US,California,Los Angeles,5-7 years,2 - 4 years,Some college,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-10-26 12:00:09,18-24,Computing or Tech,Software Development Engineer,,116000.0,30000.0,USD,,,US,Colorado,"Louisville, CO",1 year or less,1 year or less,College degree,Man,White
+2021-10-26 12:00:26,18-24,Computing or Tech,Software Engineer,,190000.0,0.0,USD,,salary + stock + signing bonus,US,New York,NYC,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-10-26 12:00:35,35-44,Computing or Tech,IT Network and Business Analyst ,,78000.0,0.0,USD,,,US,Minnesota,Minneapolis,11 - 20 years,8 - 10 years,Some college,Man,White
+2021-10-26 12:11:36,25-34,Computing or Tech,help desk analyst,,77000.0,,USD,,,US,California,san francisco,11 - 20 years,5-7 years,Some college,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-10-26 12:29:13,25-34,Computing or Tech,Business Intelligence Manager,,160000.0,10000.0,USD,,,US,New York,New York City,8 - 10 years,5-7 years,Master's degree,Woman,Asian or Asian American
+2021-10-26 12:32:09,25-34,Computing or Tech,Senior Data Scientist,,150000.0,10000.0,USD,,,US,New York,New York City,5-7 years,5-7 years,Master's degree,Non-binary,White
+2021-10-26 12:32:26,45-54,Computing or Tech,Senior Technical Program Manager,,255000.0,290000.0,USD,,,US,California,Sunnyvale,31 - 40 years,21 - 30 years,College degree,Man,White
+2021-10-26 12:44:21,25-34,Computing or Tech,Network Administrator,,92000.0,7500.0,USD,,,US,California,Los Angeles,5-7 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-10-26 12:49:38,55-64,Computing or Tech,Enterprise Architect,,120000.0,8000.0,USD,,Also provided generous training time. 6 weeks per year. ,US,Pennsylvania,Pittsburgh,31 - 40 years,21 - 30 years,Some college,Man,White
+2021-10-26 12:50:59,18-24,Computing or Tech,Mainframe Systems Programmer,Working to replace aging workforce,74000.0,3000.0,USD,,,US,Illinois,Bloomington ,2 - 4 years,2 - 4 years,College degree,Man,White
+2021-10-26 12:51:00,25-34,Computing or Tech,Software implementation manager,,90000.0,9000.0,USD,,,US,New York,New York,5-7 years,11 - 20 years,College degree,Man,White
+2021-10-26 12:57:36,25-34,Computing or Tech,IT Specialist,"My primary duty is finding ways to automate digital processes which are currently done manually, but are tedious, time consuming, etc.... My general toolset uses Excel VBA macros, Python scripts, and a lot Microsoft's Power Platform (Power Automate, Power Apps, and Power BI). Secondarily, I do all our internal IT training.",50000.0,3000.0,USD,,,US,Michigan,Troy,5-7 years,5-7 years,Some college,Man,White
+2021-10-26 13:02:13,35-44,Computing or Tech,Solution Architect ,,135000.0,,USD,,,US,Texas,Dallas,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-10-26 13:05:39,25-34,Computing or Tech,Senior Cybersecurity Analyst,,120000.0,10000.0,USD,,,US,Maryland,Frederick,2 - 4 years,2 - 4 years,Master's degree,Man,White
+2021-10-26 13:08:53,25-34,Computing or Tech,Finance and Business Analytics Manager,,105000.0,15000.0,USD,,,US,California,Los Angeles,5-7 years,2 - 4 years,College degree,Man,White
+2021-10-26 13:11:15,25-34,Computing or Tech,Software engineer,Embedded robotics software engineer,85000.0,2500.0,USD,,,US,Pennsylvania,Pittsburgh,2 - 4 years,1 year or less,Master's degree,Man,White
+2021-10-26 13:14:11,25-34,Computing or Tech,Network Engineer,,60000.0,0.0,USD,,,US,Minnesota,Winona,8 - 10 years,8 - 10 years,College degree,Man,White
+2021-10-26 13:15:30,25-34,Computing or Tech,Senior Software Engineer,,152500.0,20000.0,USD,,,US,California,Los Angeles,5-7 years,5-7 years,College degree,Man,White
+2021-10-26 13:23:05,55-64,Computing or Tech,Product owner ,,148000.0,30000.0,USD,,,United States ,Oregon,Beaverton ,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-10-26 13:55:04,25-34,Computing or Tech,Scrum master,Coach and lead software teams,92000.0,,USD,,,U.S. ,Colorado,Fort Collins ,2 - 4 years,2 - 4 years,College degree,Man,Asian or Asian American
+2021-10-26 13:57:46,25-34,Computing or Tech,Senior Product Manager,,115000.0,17250.0,USD,,,US,Utah,Salt Lake City,11 - 20 years,5-7 years,Master's degree,Woman,White
+2021-10-26 13:58:08,25-34,Computing or Tech,Senior Revenue Operations Analyst ,,105000.0,1000.0,USD,,,US,California,SF Bay Area (Remote),8 - 10 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2021-10-26 14:18:43,25-34,Computing or Tech,IT Specialist (SYS Admin),,80000.0,,USD,,,US,Oklahoma,Oklahoma City,8 - 10 years,5-7 years,Some college,Man,White
+2021-10-26 14:38:42,35-44,Computing or Tech,Computer Operator,,48000.0,2000.0,USD,,,US,Oklahoma,Oklahoma City,5-7 years,5-7 years,Some college,Man,Asian or Asian American
+2021-10-26 14:38:45,18-24,Computing or Tech,Software Engineer 1,,73000.0,6500.0,USD,,,US,Iowa,Des Moines,2 - 4 years,1 year or less,College degree,Man,White
+2021-10-26 14:39:03,25-34,Computing or Tech,Mobile device Device technician ,"Fix hardware on phones, laptops, tablets ",29000.0,,USD,,,US,North Carolina,Asheville ,8 - 10 years,1 year or less,College degree,Man,White
+2021-10-26 14:44:53,35-44,Computing or Tech,CRM Manager,aka Lifecycle Marketing Manager,130000.0,,USD,,,US,New York,Remote,8 - 10 years,5-7 years,College degree,Woman,"Hispanic, Latino, or Spanish origin"
+2021-10-26 14:56:35,25-34,Computing or Tech,software dev 1,,72000.0,,USD,,,US,Pennsylvania,Lansdale,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-10-26 15:00:03,25-34,Computing or Tech,Software Engineer,,80000.0,10000.0,USD,,,US,California,Malvern,2 - 4 years,1 year or less,College degree,Woman,Asian or Asian American
+2021-10-26 15:04:40,25-34,Computing or Tech,Product Marketing Manager,,85000.0,10000.0,USD,,,US,Pennsylvania,West Chester,5-7 years,2 - 4 years,Master's degree,Woman,White
+2021-10-26 15:11:16,25-34,Computing or Tech,Helpdesk Level 1,,33280.0,1000.0,USD,,,US,Utah,Ogden,5-7 years,1 year or less,Some college,Man,White
+2021-10-26 15:15:37,25-34,Computing or Tech,Agronomist ,Cannabis Agronomist III,97500.0,0.0,USD,,,US,Massachusetts,Lowell,2 - 4 years,1 year or less,College degree,Woman,White
+2021-10-26 15:22:43,35-44,Computing or Tech,Senior software engineer ,,150000.0,,USD,,,USA ,Ohio,Columbus ,11 - 20 years,11 - 20 years,College degree,Man,Asian or Asian American
+2021-10-26 15:41:09,45-54,Computing or Tech,IT Administrator,,75000.0,0.0,USD,,,US,Texas,Irving,31 - 40 years,21 - 30 years,Some college,Man,White
+2021-10-26 15:51:16,45-54,Computing or Tech,Technical Account Manager,,110000.0,11000.0,USD,,Bonuses are not guaranteed.,US,Oregon,Eugene,31 - 40 years,21 - 30 years,High School,Man,White
+2021-10-26 17:05:01,25-34,Computing or Tech,Sales Support Specialist,"contract administrator, sales admin",53000.0,4000.0,USD,,,US,California,santa barbara,2 - 4 years,2 - 4 years,College degree,Woman,"Asian or Asian American, Hispanic, Latino, or Spanish origin, White"
+2021-10-26 17:28:43,25-34,Computing or Tech,Senior Analyst,,69500.0,0.0,USD,,,US,Oregon,Portland,2 - 4 years,2 - 4 years,College degree,Woman,"Hispanic, Latino, or Spanish origin, White"
+2021-10-26 18:27:15,25-34,Computing or Tech,Team Leader,,102000.0,,USD,,,US,Michigan,Detroit,5-7 years,5-7 years,College degree,Woman,Black or African American
+2021-10-26 19:50:37,25-34,Computing or Tech,Chief of Staff,,210000.0,,USD,,Stock options as well,US,California,San Francisco,11 - 20 years,11 - 20 years,College degree,Man,White
+2021-10-26 20:08:24,25-34,Computing or Tech,Senior Software Application Engineer,,154000.0,85000.0,USD,,Other comp is RSU refresh which varies each year,US,California,San Francisco,5-7 years,5-7 years,College degree,Woman,Asian or Asian American
+2021-10-26 21:21:30,45-54,Computing or Tech,Industry Process Consultant ,,110000.0,11000.0,USD,,,United States ,Pennsylvania,Philadelphia ,11 - 20 years,11 - 20 years,Master's degree,Man,White
+2021-10-26 21:29:29,25-34,Computing or Tech,DevOps Manager,,120000.0,18000.0,USD,,Bonus dependant on yearly performance of company ,US,Pennsylvania,Pittsburgh ,8 - 10 years,5-7 years,College degree,Man,White
+2021-10-26 22:42:29,18-24,Computing or Tech,Security engineer,,160000.0,40000.0,USD,,,US,Washington,Seattle,2 - 4 years,2 - 4 years,College degree,Woman,White
+2021-10-27 00:03:55,25-34,Computing or Tech,Senior software engineer,"Web, frontend",148000.0,20000.0,USD,,,United states,Washington,Seattle,8 - 10 years,2 - 4 years,College degree,Man,White
+2021-10-27 00:18:21,45-54,Computing or Tech,Data Scientist ,,135000.0,50000.0,USD,,,US,Utah,Lehi,21 - 30 years,2 - 4 years,Master's degree,Man,Another option not listed here or prefer not to answer
+2021-10-27 12:01:01,25-34,Computing or Tech,Sr. Product Manager,Physical Product Manager (not Tech products/features),134800.0,115200.0,USD,,,US,Washington,Seattle,5-7 years,2 - 4 years,Master's degree,Man,White
+2021-10-27 17:35:45,35-44,Computing or Tech,Senior Sales Engineer,,170000.0,35000.0,USD,,,US,Florida,Lakeland,11 - 20 years,11 - 20 years,Some college,Man,White
+2021-10-28 02:51:40,25-34,Computing or Tech,Email Marketing Manager,,105000.0,10500.0,USD,,,US,Florida,Jacksonville Beach,11 - 20 years,8 - 10 years,College degree,Woman,White
+2021-10-28 11:11:50,25-34,Computing or Tech,Senior UX Designer,,113000.0,15000.0,USD,,,US,Utah,Salt Lake City,8 - 10 years,5-7 years,College degree,Man,White
+2021-10-28 14:56:02,25-34,Computing or Tech,Technical Writer,,55000.0,1000.0,USD,,,US,Colorado,Denver,2 - 4 years,1 year or less,College degree,Man,White
+2021-10-30 01:48:22,25-34,Computing or Tech,Cyber Threat Analyst,,115000.0,55000.0,USD,,,United States ,California,San Francisco ,2 - 4 years,2 - 4 years,College degree,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-11-04 18:10:19,25-34,Computing or Tech,Technical Proposal Writer,Proposal Writing,86000.0,9000.0,USD,,,US,Iowa,Dubuque,5-7 years,2 - 4 years,Some college,Man,White
+2021-11-05 14:03:09,25-34,Computing or Tech,Data engineer,,140000.0,10000.0,USD,,,US,Pennsylvania,Pittsburgh,8 - 10 years,5-7 years,Master's degree,Man,White
+2021-11-09 18:02:12,25-34,Computing or Tech,Senior Data Scientist,,134000.0,20000.0,USD,,,USA ,Illinois,Chicago,5-7 years,2 - 4 years,College degree,Woman,White
+2021-11-11 11:53:23,35-44,Computing or Tech,Senior data engineer,,121000.0,15000.0,USD,,"Also have acquisition and merit retention bonuses that run out over the course of several years - this year I got $85,000, next year I get $100,000, year after that $70,000, next year $50,000, then $25,000. ",US,Pennsylvania,Pittsburgh,11 - 20 years,11 - 20 years,Master's degree,Woman,"Asian or Asian American, White"
+2021-11-11 12:55:55,25-34,Computing or Tech,Senior Product Owner,,115000.0,10000.0,USD,,,US,Wisconsin,Milwaukee/Remote,11 - 20 years,5-7 years,College degree,Woman,White
+2021-11-19 01:30:57,35-44,Computing or Tech,IT support,,44000.0,,USD,,,US,Texas,El Paso,8 - 10 years,8 - 10 years,Some college,Man,"Hispanic, Latino, or Spanish origin"
+2021-11-21 01:53:02,45-54,Computing or Tech,Executive Assistant ,,135000.0,6100.0,USD,,,US,California,San Francisco,21 - 30 years,21 - 30 years,College degree,Woman,Asian or Asian American
+2021-11-29 18:50:35,25-34,Computing or Tech,IT Manager,,76000.0,5000.0,USD,,,US,Rhode Island,Providence,11 - 20 years,8 - 10 years,Some college,Man,White
+2021-11-30 09:51:37,35-44,Computing or Tech,Director of Product Management,,175000.0,35000.0,USD,,,US,Pennsylvania,Pittsburgh,11 - 20 years,8 - 10 years,College degree,Man,"Hispanic, Latino, or Spanish origin, White"
+2021-12-02 18:44:08,25-34,Computing or Tech,Software Engineer II,,154000.0,0.0,USD,,,US,California,San Francisco,2 - 4 years,2 - 4 years,Some college,Man,Asian or Asian American
+2021-12-08 00:09:41,35-44,Computing or Tech,Senior Customer Success Manager,,115000.0,207000.0,USD,,Base $115K + Bonus $25K + RSUs $31K + Stock Options $176K (RSUs and options based on current stock price),US,Massachusetts,Boston,11 - 20 years,2 - 4 years,College degree,Woman,White
+2021-12-09 13:32:18,35-44,Computing or Tech,Global Manager of Sales Operations,Sales Operation and Salesforce Administrator,131300.0,0.0,USD,,,US,Virginia,Richmond ,8 - 10 years,8 - 10 years,Some college,Woman,White
+2021-12-09 19:11:41,35-44,Computing or Tech,Senior Front End Developer,,240000.0,123500.0,USD,,,US,New York,New York City,11 - 20 years,11 - 20 years,College degree,Woman,White
+2021-12-13 14:59:33,45-54,Computing or Tech,Senior Data Security Analyst,,113000.0,,USD,,,US,Kentucky,Louisville,21 - 30 years,21 - 30 years,Some college,Man,White
+2021-12-15 10:30:37,25-34,Computing or Tech,Software Engineer,,110000.0,,USD,,,US,Kentucky,Paducah,11 - 20 years,2 - 4 years,Master's degree,Woman,White
+2021-12-17 13:15:34,25-34,Computing or Tech,eDiscovery Specialist,,103000.0,5000.0,USD,,,US,Colorado,Denver,8 - 10 years,5-7 years,College degree,Man,White
+2021-12-20 19:32:20,25-34,Computing or Tech,Interactive Writer ,(Instructional Script writing and ux writing) ,75000.0,,USD,,,U.S.A ,New York,Remote ,2 - 4 years,2 - 4 years,College degree,Woman,White
+2022-01-09 22:49:35,25-34,Computing or Tech,IT Specialist,Desktop Support/Healp Desk,45760.0,0.0,USD,,,US,Wisconsin,Oconomowoc,5-7 years,2 - 4 years,College degree,Man,Asian or Asian American
+2022-01-20 13:35:09,35-44,Computing or Tech,Head of Business Operations,,210000.0,40000.0,USD,,,US,California,Los Angeles,11 - 20 years,2 - 4 years,Master's degree,Man,Another option not listed here or prefer not to answer
+2022-01-24 00:57:43,35-44,Computing or Tech,Software Engineer Technical Support,,10700.0,,USD,,,US,Texas,Austin,8 - 10 years,8 - 10 years,College degree,Man,White
+2022-02-08 10:16:16,45-54,Computing or Tech,Principal Cloud Solution Architect ,,167000.0,102000.0,USD,,"In addition to my base salary, I receive a quarterly cash bonus based on sales (~$12,000) and a fiscal year-end bonus combo of cash ($45,000) and stock ($45,000). ",US,Kansas,Kansas City,21 - 30 years,21 - 30 years,Some college,Man,White
+2022-02-09 19:17:18,18-24,Computing or Tech,Senior Sales Operations Analyst,,80000.0,4000.0,USD,,,US,Washington,Seattle,2 - 4 years,2 - 4 years,College degree,Woman,Asian or Asian American
+2022-02-11 11:51:20,25-34,Computing or Tech,Talent Development Manager,"responsible for developing, delivering and managing learning and development programs internally",14000.0,25000.0,USD,,,US,New York,New York City (remote),8 - 10 years,8 - 10 years,Master's degree,Woman,White
+2022-02-15 20:41:19,25-34,Computing or Tech,Data engineer,,49200.0,1000.0,USD,,,Colombia,,Medellin,2 - 4 years,2 - 4 years,College degree,Man,"Hispanic, Latino, or Spanish origin"
+2022-02-16 03:10:26,25-34,Computing or Tech,Technical Support Specialist,,70000.0,,USD,,,US,New York,New York City,2 - 4 years,2 - 4 years,College degree,Man,Asian or Asian American
+2022-02-16 16:43:20,25-34,Computing or Tech,Project Manager,,132000.0,0.0,USD,,,US,Washington,Seattle,5-7 years,5-7 years,College degree,Man,Asian or Asian American
+2022-02-25 20:03:33,25-34,Computing or Tech,Software Engineer,,590000.0,,USD,,,US,New York,New York,8 - 10 years,8 - 10 years,College degree,Woman,White
+2022-03-06 12:08:15,35-44,Computing or Tech,Knowledge Manager,"Knowledge base admin for 1,200+ people",130000.0,60000.0,USD,,Base salary + annual bonus + publicly traded stock options,US,Illinois,Chicago / FT Remote,11 - 20 years,5-7 years,College degree,Woman,White
+2022-03-08 20:00:44,25-34,Computing or Tech,Data Analyst,,70000.0,0.0,USD,,,US,Washington,Seattle (remote),8 - 10 years,2 - 4 years,Master's degree,Woman,White
+2022-03-15 16:51:43,35-44,Computing or Tech,Principal Business Analyst,Technical Product Manager,125000.0,6000.0,USD,,,US,California,San Francisco,11 - 20 years,11 - 20 years,Some college,Man,White
+2022-03-23 08:59:55,25-34,Computing or Tech,Software Engineer,,190000.0,90000.0,USD,,,US,New York,New York City,2 - 4 years,2 - 4 years,College degree,Woman,White
+2022-03-30 20:35:48,18-24,Computing or Tech,Consultant,,87000.0,,USD,,,US,Illinois,Atlanta,1 year or less,1 year or less,Master's degree,Man,Asian or Asian American
+2022-04-04 19:18:23,45-54,Computing or Tech,manager of program managers,,153000.0,20000.0,USD,,,US,Massachusetts,boston,21 - 30 years,21 - 30 years,College degree,Man,White
+2022-04-06 13:05:48,35-44,Computing or Tech,Senior Support Engineer,,101000.0,,USD,,,US,Arizona,Phoenix,21 - 30 years,5-7 years,College degree,Man,Black or African American
+2022-04-06 13:49:57,25-34,Computing or Tech,Software Engineer III,,125000.0,10000.0,USD,,,US,Georgia,Atlanta,5-7 years,2 - 4 years,College degree,Man,White
+2022-04-06 15:34:27,25-34,Computing or Tech,Manager Salesforce Development,,139000.0,13900.0,USD,,,US,Utah,Salt Lake City,2 - 4 years,2 - 4 years,College degree,Man,White
+2022-04-06 16:03:04,45-54,Computing or Tech,Customer Success Operations Analyst,,72000.0,10000.0,USD,,,US,North Carolina,"Raleigh, NC",11 - 20 years,8 - 10 years,College degree,Woman,White
+2022-04-06 20:25:25,25-34,Computing or Tech,Software Engineer,MLOps,340000.0,0.0,USD,,Working two remote Jobs right now. ,Usa ,"Michigan, Texas, Washington",Houston,2 - 4 years,2 - 4 years,Master's degree,Man,"Asian or Asian American, Hispanic, Latino, or Spanish origin, White"
+2022-04-06 23:52:56,25-34,Computing or Tech,Revenue Operations Asaociate,,55000.0,,USD,,,US,Colorado,Remote,2 - 4 years,1 year or less,College degree,Man,White
+2022-04-07 17:08:59,25-34,Computing or Tech,Senior Solutions Architect,,168000.0,26000.0,USD,,,US,Washington,Seattle,11 - 20 years,11 - 20 years,College degree,Woman,Asian or Asian American
+2022-04-14 18:23:11,25-34,Computing or Tech,Data Science Manager,,197600.0,20800.0,USD,,,US,New York,New York City,8 - 10 years,5-7 years,Master's degree,Woman,Middle Eastern or Northern African
+2022-05-14 15:07:28,18-24,Computing or Tech,Sr Business Analyst,,91000.0,0.0,USD,,,US,Georgia,Atlanta,2 - 4 years,2 - 4 years,College degree,Man,Asian or Asian American
+2022-05-14 15:58:39,25-34,Computing or Tech,Senior Event Marketing Manager,,120000.0,,USD,,,US,Oregon,Remote,8 - 10 years,8 - 10 years,College degree,Woman,Asian or Asian American
+2022-05-17 00:08:55,35-44,Computing or Tech,Software Engineer ,,152000.0,20000.0,USD,,,US,California,Walnut Creek,11 - 20 years,2 - 4 years,College degree,Woman,White
+2022-05-31 09:35:42,18-24,Computing or Tech,Senior Analyst (Digital Marketing),,90000.0,10000.0,USD,,,US,Indiana,Indianapolis,5-7 years,5-7 years,College degree,Woman,White
+2022-06-06 21:14:50,35-44,Computing or Tech,HRBP,Human Resource Business Partner,124000.0,15000.0,USD,,,US,Georgia,Atlanta,11 - 20 years,2 - 4 years,College degree,Woman,Black or African American
+2022-06-26 12:13:46,18-24,Computing or Tech,Intern,,62000.0,,USD,,,US,Maryland,Laurel,2 - 4 years,1 year or less,Some college,Woman,White
+2022-07-02 23:45:06,35-44,Computing or Tech,IT DIRECTOR,,132000.0,7000.0,USD,,,US,Illinois,Itasca,8 - 10 years,5-7 years,College degree,Woman,White
+2022-07-06 15:53:47,18-24,Computing or Tech,Software Developer,,110000.0,,USD,,,US,Wisconsin,Madison,1 year or less,1 year or less,College degree,Other or prefer not to answer,White
+2022-07-27 23:59:25,25-34,Computing or Tech,Software engineer,,90000.0,10000.0,USD,,,US,Texas,Remote,5-7 years,2 - 4 years,College degree,Man,White
+2022-08-16 03:28:33,18-24,Computing or Tech,Supplier Relationship Manager,Individual Contributor,135000.0,32000.0,USD,,Bonus + Stock,US,California,San Francisco,2 - 4 years,2 - 4 years,Master's degree,Man,Asian or Asian American
+2022-08-24 17:40:10,25-34,Computing or Tech,Lifecycle Marketing Specialist,,72000.0,0.0,USD,,,US,Massachusetts,Remote,5-7 years,1 year or less,Some college,Man,White
+2022-10-19 18:19:22,35-44,Computing or Tech,Senior UX Designer,,175000.0,15000.0,USD,,,US,California,Sunnyvale,11 - 20 years,11 - 20 years,Master's degree,Woman,"Hispanic, Latino, or Spanish origin"
+2022-10-21 19:59:05,25-34,Computing or Tech,Systems Engineer,,114000.0,20000.0,USD,,,US,Wisconsin,Verona,2 - 4 years,2 - 4 years,Master's degree,Woman,White
+2022-11-03 17:18:54,35-44,Computing or Tech,Program Manager,,138000.0,5000.0,USD,,,US,Texas,Houston,21 - 30 years,21 - 30 years,College degree,Woman,White
+2022-11-30 16:49:40,25-34,Computing or Tech,Senior bioinformatics scientist,,170420.0,20000.0,USD,,,US,California,SF Bay Area,2 - 4 years,2 - 4 years,PhD,Woman,White
+2022-12-13 18:21:14,25-34,Computing or Tech,Business Development Director,,111000.0,30000.0,USD,,,US,California,Costa Mesa,5-7 years,2 - 4 years,College degree,Man,"Hispanic, Latino, or Spanish origin, White"
