@@ -26,7 +26,7 @@
 
 # Syllabus
 
-* Week 01 (Week of Aug 25): Pandas 1 [~1hr]  &&  Proper Github Workflow in class. [~1hr]
+* Week 01 (Week of Aug 25): Pandas 1 &&  Proper Github Workflow in class.
 * Week 02 (Week of Sep 01): Pandas 2
 * Week 03 (Week of Sep 08): EDA // Data Viz // Dashboards
 * Week 04 (Week of Sep 15): Career Counselor Lecture [~1hr] && Real World Group Working && SCRUM && Making Teams
@@ -38,7 +38,7 @@
 * Week 09 (Week of Oct 27): Decision Trees / Random Forest
 * Week 10 (Week of Nov 03): AI Part 1
 * Week 11 (Week of Nov 10): Career Counselor Lecture [~1hr] & AI Part 2
-* Week 12 (Week of Nov 17): Deployment
+* Week 12 (Week of Nov 17): Demo of Demos and Project Team Time
 * Week XX (Week of Nov 24): No Class
 * Week 13 (Week of Dec 01): FINAL PRESENTATIONS
 
